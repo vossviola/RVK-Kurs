@@ -113,9 +113,11 @@ This course will be updated regularly, responding to feedback from the community
 {{|>}}
 *************************************************************************************************************
 
-- December 14, 2023; Version 1.0.0: https://zenodo.org/records/10377868
-- December 22, 2023; Version 1.1.1: https://ilias.uni-marburg.de/goto.php/crs/3219917
-- June 6, 2024;      Version 1.2.0: https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/
+- 2023-12-14, Version 1.0.0, text: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2023). NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data. Zenodo. https://doi.org/10.5281/zenodo.10377868
+- 2023-12-22, Version 1.1.1, Ilias course: deprecated
+- 2024-06-06, Version 1.2.0, LiaScript course: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2024). NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data. GitHub. https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/
+- 2025-09-18, Version 1.3.0, SCORM course in Ilias: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2025). Research Data Management for Biodiversity Data. Marburg University Ilias. https://ilias.uni-marburg.de/goto.php/crs/3219917
+- 2025-11-11, Version 1.3.1, SCORM files for Ilias & Moodle: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2025). NFDI4Biodiversity Self-Paced Online Course - Research Data Management for Biodiversity Data. Zenodo. https://doi.org/10.5281/zenodo.17582795
 
 *************************************************************************************************************
 
