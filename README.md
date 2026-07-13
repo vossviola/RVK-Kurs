@@ -39,7 +39,7 @@ version: 0.0.1
 
 -->
 
-[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK_auf-Basis-von_nfdi4biodiversity-sle)
+[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK-Kurs)
 
 
 # Die RVK – wozu, was wie?
@@ -59,7 +59,7 @@ Notiz fürs Impressum: Credit an https://liascript.github.io/course/?https://raw
 *************************************************************************************************************
 **Wie diesen Kurs nutzen**
 
-Dies ist ein LiaScript course. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK_auf-Basis-von_nfdi4biodiversity-sle)!
+Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
 
 Only if you use the link, you will be able use all features of this course:
 
