@@ -41,17 +41,17 @@ version: 0.0.1
 
 [![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK_auf-Basis-von_nfdi4biodiversity-sle)
 
+
 # Die RVK – wozu, was wie?
 
-    {{|>}}
-*************************************************************************************************************
-Autor:innen:
-
-Name 1, Name 2, Name 3
-
+{{|>}}
 *************************************************************************************************************
 
-## Wie diesen Kurz nutzen
+Hier kommt ein Einleitungstext hin
+
+*************************************************************************************************************
+
+## Wie diesen Kurs nutzen
 
 {{|>}}
 *************************************************************************************************************
