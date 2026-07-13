@@ -42,14 +42,19 @@ version: 0.0.1
 [![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK-Kurs)
 
 
-# Die RVK – wozu, was wie?
+# Die RVK – wozu, was, wie?
 
 {{|>}}
 *************************************************************************************************************
 
 Hier kommt ein Einleitungstext hin
 
+
+Kontaktmöglichkeit?
+
 Notiz fürs Impressum: Credit an https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
+
+Snapshops auf Zenodo veröffentlichen, wie beim Bio-FDM-Kurs?
 
 *************************************************************************************************************
 
@@ -88,39 +93,21 @@ For more details on the Markdown dialect LiaScript, see the [LiaScript documenta
 
 *************************************************************************************************************
 
-## Beschreibung
-
-{{|>}}
-*************************************************************************************************************
-
-xyxyyx
-
-This course will be updated regularly, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us by opening an issue or via our contact form: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/en/contact/).
-
-*************************************************************************************************************
-
-## Veröffentlichte Versionen
-
-{{|>}}
-*************************************************************************************************************
-
-- 2023-12-14, Version 1.0.0, text: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2023). NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data. Zenodo. https://doi.org/10.5281/zenodo.10377868
-- 2023-12-22, Version 1.1.1, Ilias course: deprecated
-- 2024-06-06, Version 1.2.0, LiaScript course: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2024). NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data. GitHub. https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/
-- 2025-09-18, Version 1.3.0, SCORM course in Ilias: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2025). Research Data Management for Biodiversity Data. Marburg University Ilias. https://ilias.uni-marburg.de/goto.php/crs/3219917
-- 2025-11-11, Version 1.3.1, SCORM files for Ilias & Moodle: Fischer, M., Röder, J., Signer, J., Tschink, D., Weibulat, T., & Brand, O. (2025). NFDI4Biodiversity Self-Paced Online Course - Research Data Management for Biodiversity Data. Zenodo. https://doi.org/10.5281/zenodo.17582795
-
-*************************************************************************************************************
-
 # **1. RVK – was ist das?**
 
 {{|>}}
 *************************************************************************************************************
 
-Testtesttest
-Testtesttest
+Lernziele:
 
-Testtesttest
+    {{1}}
+Ziel 1
+
+    {{2}}
+Ziel 2
+
+    {{3}}
+Ziel 3
 
 
 *************************************************************************************************************
@@ -205,10 +192,6 @@ xxx
 
 *************************************************************************************************************
 
- 
-
-*************************************************************************************************************
-
 ## 3.x Übungsaufgaben
 
 {{|>}}
@@ -247,7 +230,16 @@ Right! Also, a DMP created before or with the start of the project will help you
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Lernziele:
+
+    {{1}}
+Ziel 1
+
+    {{2}}
+Ziel 2
+
+    {{3}}
+Ziel 3
 
 *************************************************************************************************************
 
@@ -256,6 +248,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
+xxx
 
 
 *************************************************************************************************************
@@ -353,7 +346,16 @@ _Ailanthus altissima_ (Mill.) Swingle is a deciduous tree native to northeast an
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Lernziele:
+
+    {{1}}
+Ziel 1
+
+    {{2}}
+Ziel 2
+
+    {{3}}
+Ziel 3
 
 *************************************************************************************************************
 
@@ -395,24 +397,16 @@ Which of these statements are true? Select all correct answers.
 {{|>}}
 *************************************************************************************************************
 
+Lernziele:
 
+    {{1}}
+Ziel 1
 
-After completing this chapter, you will be able to...
+    {{2}}
+Ziel 2
 
-        {{1}}
-... preserve your data in a comprehensible way
-
-        {{2}}
-...choose durable, preferably non-proprietary (i.e. free and open source) file formats for your data
-
-        {{3}}
-...select durable storage media
-
-        {{4}}
-...assure the findability of your data
-
-        {{5}}
-...choose a repository where to publish your data
+    {{3}}
+Ziel 3
 
  
 
@@ -471,34 +465,28 @@ Which of the following repositories are generic, and which are subject-specific?
 
 # **7. RVK @ MS – Die RVK in Bibliotheken der ULB Münster**
 
-## Learning objectives
+{{|>}}
+*************************************************************************************************************
+
+Lernziele:
+
+    {{1}}
+Ziel 1
+
+    {{2}}
+Ziel 2
+
+    {{3}}
+Ziel 3
+
+*************************************************************************************************************
+
+## 7.1 Unerkapitel
 
 {{|>}}
 *************************************************************************************************************
 
-After completing this chapter, you will be able to...
-
-        {{1}}
-...decide if you can publish your data and which permits you might still need
-
-        {{2}}
-...know relevant legal frameworks
-
-        {{3}}
-...decide what to do with sensitive data
-
-        {{4}}
-...choose a licence for your publication
-
-*************************************************************************************************************
-
-## 7.1 Introduction
-
-{{|>}}
-*************************************************************************************************************
-
-Why is it important to share and publish data? Let's have a look at this video from GBIF (2022):
-
+xxx
 
 
 *************************************************************************************************************
@@ -537,6 +525,3 @@ ___
 [^57]: Research Data Management
 
 *************************************************************************************************************
-
-
-
