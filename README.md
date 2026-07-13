@@ -49,6 +49,8 @@ version: 0.0.1
 
 Hier kommt ein Einleitungstext hin
 
+Notiz fürs Impressum: Credit an https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
+
 *************************************************************************************************************
 
 ## Wie diesen Kurs nutzen
