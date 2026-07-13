@@ -21,48 +21,43 @@ setTimeout(function() {
 
 @end
 
-language: en
+language: de
 
-narrator: English Female
+narrator: Deutsch Female
 
-author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
+author: Viola Voß
 
-comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data**
+comment: 
 
-logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
+logo: https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
 
 classroom: false
 classroom: disable
 sharing: off
 
-version: 1.2.0
-
-logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
-icon: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
+version: 0.0.1
 
 -->
 
-[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)
+[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK_auf-Basis-von_nfdi4biodiversity-sle)
 
-# NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
+# Die RVK – wozu, was wie?
 
     {{|>}}
 *************************************************************************************************************
-Creators:
+Autor:innen:
 
-Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand.
-
-For more details about NFDI4Biodiversity and research data management for biodiversity data, visit [www.nfdi4biodiversity.org](https://www.nfdi4biodiversity.org).
+Name 1, Name 2, Name 3
 
 *************************************************************************************************************
 
-## How to use this course
+## Wie diesen Kurz nutzen
 
 {{|>}}
 *************************************************************************************************************
-**How to use this course**
+**Wie diesen Kurs nutzen**
 
-This is a LiaScript course. To follow the course in its intended format, please follow [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!
+Dies ist ein LiaScript course. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK_auf-Basis-von_nfdi4biodiversity-sle)!
 
 Only if you use the link, you will be able use all features of this course:
 
@@ -91,24 +86,18 @@ For more details on the Markdown dialect LiaScript, see the [LiaScript documenta
 
 *************************************************************************************************************
 
-## Description
+## Beschreibung
 
 {{|>}}
 *************************************************************************************************************
 
-The NFDI4Biodiversity Self-Study Unit provides in-depth knowledge for both students and researchers specializing in biodiversity and environmental sciences. This course is based on the online course [Selbstlerneinheit Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning Materials)](https://ilias.uni-marburg.de/goto.php?target=crs_1730142&client_id=UNIMR) of the Hessian Research Data Infrastructures ([HeFDI](https://www.uni-marburg.de/en/hefdi)). Developed in collaboration between several partners within NFDI4Biodiversity, this course offers essential domain-specific knowledge in research data management.
-
-- **Prerequisites**: No previous knowledge is required for this module. The chapters build on each other thematically, but can also be worked through individually. If information from other chapters is needed, they are linked.
-
-- **Target audience**: Master and PhD students and researchers in the field of biology and environmental sciences, especially those working with biodiversity data, who are looking for a first introduction to research data management.
-
-- **Learning objectives**: After completing this unit you will be able to understand the content and purpose of research data management and apply it in the field of biology. Learning objectives are given at the beginning of each chapter.
+xyxyyx
 
 This course will be updated regularly, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us by opening an issue or via our contact form: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/en/contact/).
 
 *************************************************************************************************************
 
-## Published versions
+## Veröffentlichte Versionen
 
 {{|>}}
 *************************************************************************************************************
@@ -121,34 +110,20 @@ This course will be updated regularly, responding to feedback from the community
 
 *************************************************************************************************************
 
-# **1. Introduction**
+# **1. RVK – was ist das?**
 
 {{|>}}
 *************************************************************************************************************
 
-Biodiversity data encompass a vast and interdisciplinary collection of information, spanning all living species and the entire spectrum of life that has ever existed. This remarkable diversity within biodiversity data makes it a highly heterogeneous field. These datasets range from laboratory-generated data, such as results from chemical assays, biological tests, and DNA sequencing, to taxonomic records, as well as spatial and temporal data collected during field experiments, and comprehensive insights into entire ecosystems[^1][^2][^3] . Furthermore, biodiversity data extend their reach into time, including data collected from the distant past, like fossils, and continue into the present while even venturing into predictive models of the future. The complexity of biodiversity data doesn't stop there; these datasets manifest in various formats, including images, photographs, sounds, sensor data, and more. The confluence of this diversity, alongside the increasing automation processes and digitalization of data acquisition, has resulted in a deluge of heterogeneous data, necessitating progressively complex organisation, coordination, and analysis methods.
+Testtesttest
+Testtesttest
 
-To address these challenges, Germany has established the National Research Data Infrastructure (NFDI), a pivotal initiative. Within this framework, the consortium "NFDI4Biodiversity" plays a central role. This collaborative effort brings together experts and resources to develop innovative strategies and tools for managing, coordinating, and extracting meaningful insights from the wealth of biodiversity data available today. These efforts are essential in supporting research and conservation endeavours in this field.
+Testtesttest
 
-In the ever-evolving realms of ecology and environmental science, data play a pivotal role for generating new knowledge. From collecting data in the field to conducting experiments in the lab, researchers generate vast amounts of data. This data holds the key to understanding our natural world, from the intricate ecosystems that surround us to the impact of human activities on the environment. However, the value of this data is fully realised only when it is properly managed, organised, and shared, according to the FAIR[^4] and CARE-principles[^5]. This self-learning unit is designed to empower you with the knowledge and skills you need to learn independently and effectively. Throughout this document, we will explore topics such as data collection best practices, data organisation and documentation, data storage and security, ethical considerations, and the importance of data sharing and collaboration in advancing ecological and environmental research. Whether you are a seasoned researcher looking to enhance your data management practices or a student taking your first steps into this exciting domain, you'll find valuable insights and practical guidance here, to promote data diversity for biodiversity.
-
-As you progress through this unit, you'll become proficient in managing data effectively and contribute to the advancement of ecological and environmental science by ensuring that your research data is findable, accessible, interoperable, and reusable. These skills are not only valuable for your work but also for the broader scientific community and society as a whole. Ecology and environmental science rely heavily on data to understand the natural world and address environmental challenges - data diversity for biodiversity.
-
-___
-
-[^1]: American Museum of Natural History. (2025). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity Last accessed 08 July 2025.      
-
-[^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net Last accessed 08 July 2025.      
-
-[^3]: National Geographic. (2025). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity Last accessed 08 July 2025.     
-
-[^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. http://"]https://doi.org/10.1038/sdata.2016.18    
-
-[^5]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043     
 
 *************************************************************************************************************
 
-# **2. Basics in Research Data Management**
+# **2. Das Portal "RVK online"**
 
 {{|>}}
 *************************************************************************************************************
