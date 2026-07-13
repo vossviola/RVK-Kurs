@@ -390,50 +390,6 @@ Which of these statements are true? Select all correct answers.
 - [[ ]] Code documentation is unnessesary - code is self-explaining.
 - [[ ]] GitHub, GitLab and Git are just different names for the same platform.
 
-*************************************************************************************************************
-
-# **6. RVK zur Aufstellung von Medien**
-
-{{|>}}
-*************************************************************************************************************
-
-Lernziele:
-
-    {{1}}
-Ziel 1
-
-    {{2}}
-Ziel 2
-
-    {{3}}
-Ziel 3
-
- 
-
-*************************************************************************************************************
-
-## 6.1. xxx
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## 6.x. Questions
-
-{{|>}}
-*************************************************************************************************************
-
-Which of these statements are true? Select all correct answers.
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[ ]] Published data is always open access.
-- [[X]] Metadata should be accessible, even if data access is restricted.
-- [[X]] Publishing data in a subject-specific repository will increase data visibility and data citations.
-- [[ ]] Publishing data is always free of charge.
-
 What is a repository?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
@@ -463,7 +419,7 @@ Which of the following repositories are generic, and which are subject-specific?
 
 *************************************************************************************************************
 
-# **7. RVK @ MS – Die RVK in Bibliotheken der ULB Münster**
+# **6. RVK @ MS – Die RVK in Bibliotheken der ULB Münster**
 
 {{|>}}
 *************************************************************************************************************
@@ -481,7 +437,7 @@ Ziel 3
 
 *************************************************************************************************************
 
-## 7.1 Unerkapitel
+## 6.1 Unerkapitel
 
 {{|>}}
 *************************************************************************************************************
@@ -491,7 +447,7 @@ xxx
 
 *************************************************************************************************************
 
-## 7.x Questions
+## 6.x Questions
 
 {{|>}}
 *************************************************************************************************************
