@@ -52,7 +52,9 @@ Hier kommt ein Einleitungstext hin
 
 Kontaktmöglichkeit?
 
-Notiz fürs Impressum: Credit an https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
+Notiz fürs Impressum: Credits an
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 für Anregungen zu Übungsaufgaben
 
 Snapshops auf Zenodo veröffentlichen, wie beim Bio-FDM-Kurs?
 
@@ -200,9 +202,9 @@ xxx
 **Texteingaben**
 Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt. In LiaScript wird dazu die folgende Notation verwendet (doppelt eckige Klammern):
 
-    `[[Lösung]]`
+Wie heißt der Hund von Asterix?
+    [[Idefix]]
 
-> **Aufgabe:** Entfernen Sie die beiden Backticks (schrägen Hochkommas), und verändern Sie die Lösung. Definieren Sie eine eigene „Lösung“ eine geeignete Frage im eigenständigen Absatz.
 
 
 **Single Choice**
@@ -211,19 +213,6 @@ Es werden mehrere Lösungsmöglichkeiten vorgegeben, üblicherweise werden solch
     [( )] Option 1
     [(X)] <-- **Die richtige Auswahlmöglichkeit**
     [( )] Eine weitere falsche Option
-
-
-Which statement is true?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] A data management plan saves time and helps me to minimize data loss.
-- [( )] I only need to create a DMP if I expect large amounts of data.
-- [( )] The DMP is primarily a control instrument for funding institutions.
-***
-Right! Also, a DMP created before or with the start of the project will help you organise the research data management for you and your team. Remember, however, that it is a living document that might need adjustments at regular intervals. A well-maintained DMP can also facilitate the onboarding of new project staff with regard to research data management.
-***
-
-
 
 
 **Multiple Choice**
@@ -235,27 +224,73 @@ Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere ausw
     [[X]] falsch
 
 
-Which of these aspects are part of a data management plan?
+**Matrix**
+
+Which of these are tools to organize your data analysis?
+
+- [[Tools for data analysis] (Not a tool for data analysis)]
+- [           (X)                         ( )              ]  Jupyter
+- [           (X)                         ( )              ]  Binder
+- [           (X)                         ( )              ]  Git
+- [           (X)                         ( )              ]  RMarkdown
+- [           (X)                         ( )              ]  Python
+- [           (X)                         ( )              ]  Bioconda
+- [           (X)                         ( )              ]  roxygen2
+- [           ( )                         (X)              ]  Saturn
+- [           ( )                         (X)              ]  Boa
+- [           ( )                         (X)              ]  Reddit
+- [           ( )                         (X)              ]  Klaxxon
+- [           ( )                         (X)              ]  Miro board
+- [           ( )                         (X)              ]  Jamboard
+
+
+Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[X]] Naming those responsible for data management
-- [[ ]] Vote of an ethics committee
-- [[X]] Information on data archiving
-- [[X]] Costs of data management and data storage
-- [[X]] Information on storage and backup during the project
-- [[ ]] Description of the benefits of the data management plan
-- [[X]] Information on data publication
-***
-Right! There is of course much more information that should also be mentioned in a DMP, such as information on the data formats produced, data types and the estimated amount of data, in projects with several participants also information on how the data is shared within the project, or information on legal features, if existing.
-***
+- [[Generic]    [Subject-specific]]
+- [    (X)             ( )      ]  Zenodo  
+- [    (X)             ( )      ]  figshare  
+- [    (X)             ( )      ]  data_UMR  
+- [    (X)             ( )      ]  RADAR  
+- [    (X)             ( )      ]  Dryad
+- [    (X)             ( )      ]  Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP)
+- [    ( )             (X)      ]  PANGAEA
+- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
+- [    ( )             (X)      ]  Movebank
+- [    ( )             (X)      ]  Ocean Biodiversity Information System (OBIS)
+- [    ( )             (X)      ]  FishBase
+- 
 
-
-**Matrix**
 Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert. Die oberste Zeile definiert die möglichen Optionen, während die Zeilen Multiple und Single Choice Quizze kombinieren.
 
     [ [head1] [ ;-) ] [ Option3 ] ]
     [   ( )     ( )       (X)     ]  <-- Single Choice
     [   [ ]     [X]       [X]     ]  <-- Multiple Choice
+
+
+* Begriffe zueinandersortieren*
+  
+Assign the terms to the FAIR principles.
+
+| Definition      | Term |
+| ----------- | ----------- |
+| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent indetifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
+| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
+
+
+
+**Begriffe in eine Reihenfolge bringen**
+
+What is the correct order of a species name?
+[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
+***
+Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
+
+The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
+***
 
 
 **Weitere Optionen**
@@ -264,15 +299,25 @@ Zu Quizzen können verschiedene weitere Hilfen sowie erweiterte Auflösungen hin
 *Hilfen*
 Gegebenenfalls kann es notwendig sein, dass Hilfen/Tipps zu den Quizzen hinzugefügt werden sollen, sodass der Nutzer selber entscheiden kann, sich eine Hilfe geben zu lassen, bevor er/sie auf den Auflöse-Button klickt.
 
-Wie heißt der Markdown Dialekt, der hier genutzt wird:
+Wie heißt der Freund von Asterix?
 
-    [[LiaScript]]
-    [[?]] Bitte achten Sie auf die korrekte Schreibweise
-    [[?]] Die Lösung beginnt mit Lia.....
+    [[Obelix]]
+    [[?]] Hier ist nicht der Hund gemeint
+    [[?]] Und auch nicht der Druide
 
 
 *Auflösungen*
 Mithilfe von zwei Linienzügen, die durch mindestens drei aufeinander folgenden `***` definiert werden, können erweiterte Auflösungen definiert werden, die mehrere Markdown-Blöcke enthalten können. Diese werden nur gezeigt, falls der Nutzer die richtige Lösung gegeben hat bzw. auf Auflösungen klickt.
+
+How do I collect metadata?
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
+- [( )] I simply transfer the metadata from another project.
+- [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
+
+
 
     [[LiaScript]]
     [[?]] Bitte achten Sie auf die korrekte Schreibweise
@@ -300,6 +345,16 @@ Mithilfe von zwei Linienzügen, die durch mindestens drei aufeinander folgenden 
     **************************************************
 
 
+Die maximale Anzahl an Versuchen kann limitiert werden (im folgenden Beispiel: 3), und der "zeige die Lösung"-Button kann ausgeblendet werden:
+
+How do I collect metadata?
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
+- [( )] I simply transfer the metadata from another project.
+- [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
 
 
 *************************************************************************************************************
@@ -338,86 +393,8 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-How do I collect metadata?
+xxx
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
-- [( )] I simply transfer the metadata from another project.
-- [( )] I always follow the same scheme, no matter what type of research data it is.
-***
-Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
-***
-
-When should the associated metadata be deleted if research data is deleted from a repository?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project and possibly why the data was withdrawn.
-- [( )] The metadata is deleted together with the research data.
-- [( )] For legal reasons, the metadata must remain in the repository for at least one year.
-***
-Correct! One reason, above all, is the obligation to provide proof of research data. If, for example, a text was published in 2017 that examined data from 2015, but in 2019 it turns out that the data collected at that time violated certain legal requirements, the text must still retain evidence that this research data actually still existed and was accessible at the time of publication, and also information about what this data contained.
-***
-
-What exactly is metadata?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] Metadata describes other data of any kind in a structured way and helps to understand this data.
-- [( )] Metadata is data that stores information about files in encrypted form.
-- [( )] Metadata is used to make the actual research data available, as it would otherwise not be accessible.
-***
-Correct! Metadata is data about data. Metadata therefore contain descriptive information to understand another or the described data set. Understanding the described data is mostly dependent on already having expertise in dealing with this type of data through one's own research or studies.
-***
-
-How should metadata ideally be stored?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] I create metadata according to my own schema according to the requirements of my own research data.
-- [(X)] Metadata should be created according to specific metadata standards.
-- [( )] Metadata should only be readable by myself in order to protect my research data.
-***
-Correct. Ideally, metadata should be available as subject-specific standards. However, this is not always the case, so depending on the research project, metadata sometimes has to be created.
-***
-
-What is the correct order of a species name?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
-***
-Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
-
-The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
-***
-
-What is the correct order of a species name?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ Fresen | _oligospora_ | (_Arthrobotrys_) | 1850 ]] [[ _Arthrobotrys_ | 1850 | Fresen | (_oligospora_) ]] [[ 1850 | _oligospora_ |_Arthrobotrys_ | (Fresen) |]] [[ _Arthrobotrys_ | (1850) | Fresen | _oligospora_ ]]
-***
-Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
-
-_Arthrobotrys oligospora_ Fresen. (1850) is a nematode-capturing fungus. In low nitrogen environments, it grows sticky nets from hyphae and attracts nematodes with semiochemicals1 that nematodes use to communicate with each other. Small nematodes can be caught with a single loop. The more the nematodes struggle to escape, the more they are glued to the net. Finally, the nematodes are paralysed and digested by hyphae growing into their bodies.
- 
-***
-
-What is the correct order of a species name?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Cymothoa_) | _exigua_ | Schiødte & Meinert | 1884 ]] [[ _Cymothoa_ | (_exigua_) | Schiødte & Meinert | 1884 ]][[ _Cymothoa_ | _exigua_ | (Schiødte & Meinert) | 1884 ]] [[ _Cymothoa_ | _exigua_ | Schiødte & Meinert | (1884) ]]
-***
-Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
-
-_Cymothoa exigua_ (Schiødte & Meinert, 1884), the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. Females attach to the tongue and sever the blood vessels. When the tongue falls off, the female attaches itself to the remaining stub of tongue and the parasite itself effectively serves as the fish's new "tongue". The parasite feeds on the host's blood and mucus. Juveniles likely first attach to the gills of a fish and become males. As they mature, they become females, with mating likely occurring on the gills.
-***
-
-What is the correct order of a species name?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Ailanthus_) | _altissima_ | Mill. | Swingle ]][[ _Ailanthus_ | (_altissima_) | Mill. | Swingle ]][[ _Ailanthus_ | _altissima_ | (Mill.) | Swingle ]][[ _Ailanthus_ | _altissima_ | Mill. | (Swingle) ]]
-***
-Correct! Species names of plants consist of Genus, epithet, and authority.
-
-_Ailanthus altissima_ (Mill.) Swingle is a deciduous tree native to northeast and central China, and Taiwan. The tree grows rapidly and is very tolerant of pollution. It is considered to be one of the worst invasive species in Europe and North America. It spreads aggressively both by seeds and vegetatively by very long root sprouts, often "tunneling" even below wide streets and crossroads. This "tree of heaven" inhibits the growth of other plants in their sourroundings. Oh, and the male flowers have a very distinctive smell... 
-***
 
 *************************************************************************************************************
 
@@ -444,58 +421,11 @@ Ziel 3
 {{|>}}
 *************************************************************************************************************
 
-Which of these are tools to organize your data analysis?
+ xxx
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[Tools for data analysis] (Not a tool for data analysis)]
-- [           (X)                         ( )              ]  Jupyter
-- [           (X)                         ( )              ]  Binder
-- [           (X)                         ( )              ]  Git
-- [           (X)                         ( )              ]  RMarkdown
-- [           (X)                         ( )              ]  Python
-- [           (X)                         ( )              ]  Bioconda
-- [           (X)                         ( )              ]  roxygen2
-- [           ( )                         (X)              ]  Saturn
-- [           ( )                         (X)              ]  Boa
-- [           ( )                         (X)              ]  Reddit
-- [           ( )                         (X)              ]  Klaxxon
-- [           ( )                         (X)              ]  Miro board
-- [           ( )                         (X)              ]  Jamboard
 
-Which of these statements are true? Select all correct answers.
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[X]] Git is a free software for version control.
-- [[X]] Git means "unpleasant person".
-- [[ ]] Code documentation is unnessesary - code is self-explaining.
-- [[ ]] GitHub, GitLab and Git are just different names for the same platform.
 
-What is a repository?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] A digital, curated data center for the storage and reuse of research data
-- [( )] A search engine that makes any research data freely available to everyone without restrictions
-- [( )] A research community that deals with the reutilization of research data
-- [( )] A local copy of all research data collected in a project
-***
-That is correct. At the University of Marburg, data_UMR is available to you as a repository.
-***
-
-Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[Generic]    [Subject-specific]]
-- [    (X)             ( )      ]  Zenodo  
-- [    (X)             ( )      ]  figshare  
-- [    (X)             ( )      ]  data_UMR  
-- [    (X)             ( )      ]  RADAR  
-- [    (X)             ( )      ]  Dryad
-- [    (X)             ( )      ]  Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP)
-- [    ( )             (X)      ]  PANGAEA
-- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
-- [    ( )             (X)      ]  Movebank
-- [    ( )             (X)      ]  Ocean Biodiversity Information System (OBIS)
-- [    ( )             (X)      ]  FishBase
 
 *************************************************************************************************************
 
@@ -532,32 +462,6 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-Assign the terms to the FAIR principles.
-
-| Definition      | Term |
-| ----------- | ----------- |
-| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent indetifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
-| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
-
-RDM[^57] introduces you to many new abbreviations. Which of the following abbrevations belongs to which term?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(DFG) (ORCID) (ABCD) (DwC) (GFBio) (GBIF) (DMP) (DSI) (DOI)]
-- [ (X)    ( )    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Deutsche Forschungsgemeinschaft
-- [ ( )    (X)    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Open Researcher Contributor Identification Initiative (full name obsolete)
-- [ ( )    ( )    (X)    ( )   ( )     ( )    ( )   ( )   ( ) ] Access to Biological Collection Data
-- [ ( )    ( )    ( )    (X)   ( )     ( )    ( )   ( )   ( ) ] Darwin Core
-- [ ( )    ( )    ( )    ( )   (X)     ( )    ( )   ( )   ( ) ] Gesellschaft für Biologische Daten (German Federation for Biological Data)
-- [ ( )    ( )    ( )    ( )   ( )     (X)    ( )   ( )   ( ) ] Global Biodiversity Information Facility
-- [ ( )    ( )    ( )    ( )   ( )     ( )    (X)   ( )   ( ) ] Data Management Plan
-- [ ( )    ( )    ( )    ( )   ( )     ( )    ( )   (X)   ( ) ] Digital Sequence Information
-- [ ( )    ( )    ( )    ( )   ( )     ( )    ( )   ( )   (X) ] Digital Object Identifier
-
-___
-
-[^57]: Research Data Management
+xxx
 
 *************************************************************************************************************
