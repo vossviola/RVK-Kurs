@@ -167,7 +167,7 @@ Wie heißt der Hund von Asterix?
     [[?]] Gesucht ist der deutsche Name.
     [[?]] Die Lösung beginnt mit I.
     ***
-    Richtige Antwort! Zur Belohnung gibts ein Leckerli. 
+    Richtige Antwort! Zur Belohnung gibts ein Leckerli.
     ***
 
 
