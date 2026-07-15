@@ -186,7 +186,8 @@ Which of these are tools to organize your data analysis?
 - [           ( )                         (X)              ]  Boa
 
 
-***Variante mit Limitierung auf drei Versuche, dann wird aufgelöst*** 
+*Variante mit Limitierung auf drei Versuche, dann wird aufgelöst*:
+
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
@@ -197,7 +198,7 @@ Which of the following repositories are generic, and which are subject-specific?
 - [    ( )             (X)      ]  European Nucleotide Archive (ENA)
 
 
-Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert:
+Man kan auch Single und Multi Choice in einer Matrix kombinieren:
 
     [ [head1] [ ;-) ] [ Option3 ] ]
     [   ( )     ( )       (X)     ]  <-- Single Choice
