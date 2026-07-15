@@ -1,18 +1,14 @@
 <!--
 author:   RVK-Koordinierungsstelle in der ULB / Viola Voß
-
 email:    rvk.ulb@uni‐muenster.de
+version:  0.0.1
 
 logo:     https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
 
-version:  0.0.1
-
 language: de
-
 narrator: Deutsch Female
 
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
-
 tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, RVK, Tutorial
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
@@ -22,6 +18,8 @@ import:   https://github.com/LiaTemplates/KekuleJS
           https://github.com/LiaTemplates/Algebrite
           https://github.com/LiaTemplates/ProcessingJS
           https://github.com/LiaTemplates/mec2/blob/main/README.md
+
+edit:     true
 
 -->
 
@@ -44,8 +42,6 @@ Zwischenüberschrift
 
 Unterzwischenüberschrift
 -------------------------
-
-
 
 Zu jedem Abschnitt gibt es Aufgaben zur Lernkontrolle, die Sie direkt im Dokument ausführen können.
 
@@ -128,6 +124,7 @@ xxx
 xxx   
 
 *************************************************************************************************************
+
 
 ## Übungsaufgaben Übersicht
 
