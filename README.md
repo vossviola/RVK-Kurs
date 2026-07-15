@@ -135,14 +135,14 @@ Wie heißt der Hund von Asterix?
 
 *Variante ohne Anzeige des Buttons zu Auflösung*: Wie heißt der Freund von Asterix?
 
-    <!-- data-show-solution-button="0" -->
+    <!-- data-show-solution-button="1" -->
     [[Obelix]]
 
-*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix?
+*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix? (So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
 
     [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint
-    [[?]] Und auch nicht der Druide
+    [[?]] Hier ist nicht der Hund gemeint.
+    [[?]] Und auch nicht der Druide.
 
 
 *Variante mit Lösungshinweis und Kommentierung der richtigen Lösung*: Wie heißt der Hund von Asterix?
@@ -151,37 +151,23 @@ Wie heißt der Hund von Asterix?
     [[?]] Gesucht ist der deutsche Name.
     [[?]] Die Lösung beginnt mit I.
     **************************************************
-    Richtige Lösung! Nur zu Demonstrationzzwecken folgt hier noch ein Diagramm.
-
-                    Nur ein weiteres Diagramm
-    1.9 |
-        |                 ***
-      y |               *     *
-      - | r r r r r r r*r r r r*r r r r r r r
-      a |             *         *
-      x |            *           *
-      i | B B B B B * B B B B B B * B B B B B
-      s |         *                 *
-        |**  * *                       * *   *
-     -1 +------------------------------------
-        0              x-axis               1
-
+    Richtige Lösung! Zur Belohnung gibts ein Leckerli. :)
     **************************************************
 
 ---
 
 **Single Choice**
 
-Es werden mehrere Lösungsmöglichkeiten vorgegeben:
+Es gibt eine richtige Lösung.
 
-    [( )] Option 1
-    [(X)] <-- **Die richtige Auswahlmöglichkeit**
-    [( )] Eine weitere falsche Option
+    [( )] Option falsch 1
+    [(X)] <-- **Die richtige Antwort**
+    [( )] Option falsch 2
 
 
 *Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
 
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
 - [( )] I simply transfer the metadata from another project.
 - [( )] I always follow the same scheme, no matter what type of research data it is.
 ***
@@ -213,9 +199,9 @@ Which of these are tools to organize your data analysis?
 - [           ( )                         (X)              ]  Boa
 
 
-*Variante ohne Auflösungs-Button und mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
+*Variante mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+<!-- data-randomize data-max-trials="3" data-show-solution-button="1"-->
 - [[Generic]    [Subject-specific]]
 - [    (X)             ( )      ]  Zenodo  
 - [    (X)             ( )      ]  figshare  
@@ -260,9 +246,15 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 ---
 
-**Lückentext**
+**Lückentext mit Auswahl**
 
-Dies ist ein Beipielsatz, bei dem hier [[_Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[_Wort 3_| Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[_Wort 1_| Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[_Wort 1_| Wort 2 | Wort 3 | (Wort 4) ]].
+Dies ist ein Beipielsatz, bei dem hier [[ Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
+
+
+**Lückentext mit Eintragen**
+
+I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) _[[ were not ]]_ really that good then. 
+As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) ~[[ am going to study ]]~ harder this term.
 
 
 *************************************************************************************************************
