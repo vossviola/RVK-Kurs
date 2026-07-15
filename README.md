@@ -133,17 +133,12 @@ Wie heißt der Hund von Asterix?
 
     [[Idefix]]
 
-*Variante ohne Anzeige des Buttons zu Auflösung*: Wie heißt der Freund von Asterix?
-
-    <!-- data-show-solution-button="1" -->
-    [[Obelix]]
-
-*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix? (So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
+*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix? 
+(So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
 
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
-
 
 *Variante mit Lösungshinweis und Kommentierung der richtigen Lösung*: Wie heißt der Hund von Asterix?
 
