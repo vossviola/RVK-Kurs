@@ -162,9 +162,9 @@ Es gibt eine richtige Lösung.
 
 *Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
 
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
-- [( )] I simply transfer the metadata from another project.
-- [( )] I always follow the same scheme, no matter what type of research data it is.
+    [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
+    [( )] I simply transfer the metadata from another project.
+    [( )] I always follow the same scheme, no matter what type of research data it is.
 ***
 Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
 ***
@@ -196,7 +196,7 @@ Which of these are tools to organize your data analysis?
 
 *Variante mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="1"-->
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[Generic]    [Subject-specific]]
 - [    (X)             ( )      ]  Zenodo  
 - [    (X)             ( )      ]  figshare  
