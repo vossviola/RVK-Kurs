@@ -151,7 +151,8 @@ Es gibt eine richtige Lösung.
     [( )] Option falsch 2
 
 
-*Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
+***Variante mit Kommentar der richtigen Lösung***
+How do I collect metadata?
 
     [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
     [( )] I simply transfer the metadata from another project.
@@ -161,7 +162,6 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 ***
 
 
----
 
 Multiple Choice
 ======================================
@@ -173,7 +173,7 @@ Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere ausw
     [[ ]] **<-- richtig**
     [[X]] falsch
 
----
+
 
 Matrix
 ======================================
@@ -187,7 +187,8 @@ Which of these are tools to organize your data analysis?
 - [           ( )                         (X)              ]  Boa
 
 
-*Variante mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
+***Variante mit Limitierung auf drei Versuche, dann wird aufgelöst***: 
+Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[Generic]    [Subject-specific]]
@@ -204,7 +205,7 @@ Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwe
     [   [ ]     [X]       [X]     ]  <-- Multiple Choice
 
 
----
+
 
 Begriffe zueinandersortieren
 ======================================
@@ -219,7 +220,7 @@ Assign the terms to the FAIR principles.
 | [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
 | [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
 
----
+
 
 Begriffe in eine Reihenfolge bringen
 ======================================
@@ -233,7 +234,7 @@ Correct! Species names consist of Genus, epithet, authority, and year of publica
 The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
 ***
 
----
+
 
 Lückentext mit Auswahl
 ======================================
