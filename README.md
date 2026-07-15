@@ -132,6 +132,44 @@ Wie heißt der Hund von Asterix?
 
     [[Idefix]]
 
+*mit Lösungshinweis*: Wie heißt der Freund von Asterix?
+
+    [[Obelix]]
+    [[?]] Hier ist nicht der Hund gemeint
+    [[?]] Und auch nicht der Druide
+
+*ohne Anzeige des Buttons zu Auflösung*: Wie heißt der Freund von Asterix?
+
+    <!-- data-show-solution-button="0"-->
+    [[Obelix]]
+    [[?]] Hier ist nicht der Hund gemeint
+    [[?]] Und auch nicht der Druide
+
+*mit Lösungshinweis und Kommentar der richtigen Lösung*: Wie heißt das hier verwendete System zur Kurserstellung?
+
+    [[LiaScript]]
+    [[?]] Bitte achten Sie auf die korrekte Schreibweise
+    [[?]] Die Lösung beginnt mit Lia....
+    **************************************************
+    LiaScript ist eine interaktive Erweiterung zu
+    Markdown, zur Entwicklung interaktiver und freier
+    Lehrinhalte. Mehr Informationen finden Sie unter https://LiaScript.github.io
+
+                    Nur ein weiteres Diagramm
+    1.9 |
+        |                 ***
+      y |               *     *
+      - | r r r r r r r*r r r r*r r r r r r r
+      a |             *         *
+      x |            *           *
+      i | B B B B B * B B B B B B * B B B B B
+      s |         *                 *
+        |**  * *                       * *   *
+     -1 +------------------------------------
+        0              x-axis               1
+
+    **************************************************
+
 ---
 
 **Single Choice**
@@ -141,6 +179,17 @@ Es werden mehrere Lösungsmöglichkeiten vorgegeben, üblicherweise werden solch
     [( )] Option 1
     [(X)] <-- **Die richtige Auswahlmöglichkeit**
     [( )] Eine weitere falsche Option
+
+
+*mit Kommentar der richtigen Lösung*: How do I collect metadata?
+
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
+- [( )] I simply transfer the metadata from another project.
+- [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
+
 
 ---
 
@@ -216,51 +265,18 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 Zu Quizzen können verschiedene weitere Hilfen sowie erweiterte Auflösungen hinzugefügt werden. Die vorgestellten Anpassungen können allen Quiz-Typen angefügt werden…
 
-*Hilfen*
-Gegebenenfalls kann es notwendig sein, dass Hilfen/Tipps zu den Quizzen hinzugefügt werden sollen, sodass der Nutzer selber entscheiden kann, sich eine Hilfe geben zu lassen, bevor er/sie auf den Auflöse-Button klickt.
 
-Wie heißt der Freund von Asterix?
-
-    [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint
-    [[?]] Und auch nicht der Druide
 
 
 *Auflösungen*
+
 Mithilfe von zwei Linienzügen, die durch mindestens drei aufeinander folgenden `***` definiert werden, können erweiterte Auflösungen definiert werden, die mehrere Markdown-Blöcke enthalten können. Diese werden nur gezeigt, falls der Nutzer die richtige Lösung gegeben hat bzw. auf Auflösungen klickt.
 
-How do I collect metadata?
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
-- [( )] I simply transfer the metadata from another project.
-- [( )] I always follow the same scheme, no matter what type of research data it is.
-***
-Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
-***
 
 
 
-    [[LiaScript]]
-    [[?]] Bitte achten Sie auf die korrekte Schreibweise
-    [[?]] Die Lösung beginnt mit Lia....
-    **************************************************
-    LiaScript ist eine interaktive Erweiterung zu
-    Markdown, zur Entwicklung interaktiver und freier
-    Lehrinhalte. Mehr Informationen finden Sie unter https://LiaScript.github.io
 
-                    Nur ein weiteres Diagramm
-    1.9 |
-        |                 ***
-      y |               *     *
-      - | r r r r r r r*r r r r*r r r r r r r
-      a |             *         *
-      x |            *           *
-      i | B B B B B * B B B B B B * B B B B B
-      s |         *                 *
-        |**  * *                       * *   *
-     -1 +------------------------------------
-        0              x-axis               1
 
-    **************************************************
 
 
 Die maximale Anzahl an Versuchen kann limitiert werden (im folgenden Beispiel: 3), und der "zeige die Lösung"-Button kann ausgeblendet werden:
