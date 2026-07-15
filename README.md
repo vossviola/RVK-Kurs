@@ -137,12 +137,92 @@ xxx
 
 ---
 
-*hier folgen noch Beispiele*
+*hier folgen noch weitere Beispiele*
+
+
+
+Single Choice
+======================================
+
+Es gibt eine richtige Lösung.
+
+    [( )] Option falsch 1
+    [(X)] <-- **Die richtige Antwort**
+    [( )] Option falsch 2
+
+
+*Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
+
+    [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
+    [( )] I simply transfer the metadata from another project.
+    [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
 
 
 ---
 
-**Begriffe in eine Reihenfolge bringen**
+Multiple Choice
+======================================
+
+Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. 
+
+    [[X]] **<-- richtig**
+    [[ ]] falsch
+    [[ ]] **<-- richtig**
+    [[X]] falsch
+
+---
+
+Matrix
+======================================
+
+Which of these are tools to organize your data analysis?
+
+- [[Tools for data analysis] (Not a tool for data analysis)]
+- [           (X)                         ( )              ]  Jupyter
+- [           (X)                         ( )              ]  Binder
+- [           ( )                         (X)              ]  Saturn
+- [           ( )                         (X)              ]  Boa
+
+
+*Variante mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
+
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+- [[Generic]    [Subject-specific]]
+- [    (X)             ( )      ]  Zenodo  
+- [    (X)             ( )      ]  figshare  
+- [    ( )             (X)      ]  PANGAEA
+- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
+
+
+Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert:
+
+    [ [head1] [ ;-) ] [ Option3 ] ]
+    [   ( )     ( )       (X)     ]  <-- Single Choice
+    [   [ ]     [X]       [X]     ]  <-- Multiple Choice
+
+
+---
+
+Begriffe zueinandersortieren
+======================================
+  
+Assign the terms to the FAIR principles.
+
+| Definition      | Term |
+| ----------- | ----------- |
+| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent indetifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
+| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
+
+---
+
+Begriffe in eine Reihenfolge bringen
+======================================
 
 What is the correct order of a species name?
 
@@ -155,12 +235,14 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 ---
 
-**Lückentext mit Auswahl**
+Lückentext mit Auswahl
+======================================
 
 Dies ist ein Beipielsatz, bei dem hier [[ Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
 
 
-**Lückentext mit Eintragen**
+Lückentext mit Eintragen
+======================================
 
 I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
 As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
