@@ -37,6 +37,16 @@ import:   https://github.com/LiaTemplates/KekuleJS
 Dieser Kurs soll einen interaktiven Einstieg in die Nutzung der Regensburger Verbundklassifikation (RVK) geben. 
 Im ersten Teil ...
 
+
+Zwischenüberschrift
+====================
+
+
+Unterzwischenüberschrift
+-------------------------
+
+
+
 Zu jedem Abschnitt gibt es Aufgaben zur Lernkontrolle, die Sie direkt im Dokument ausführen können.
 
 Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
@@ -124,9 +134,9 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-[!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
+> [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
-*hier folgen morgen Beispiele für Übungsaufgaben*
+*hier folgen Beispiele für Übungsaufgaben*
 
 
 
