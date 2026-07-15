@@ -127,6 +127,15 @@ xxx
 [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
 
+**Matrix**
+
+Which of these are tools to organize your data analysis?
+
+- [[Tools for data analysis] (Not a tool for data analysis)]
+- [           (X)                         ( )              ]  Jupyter
+- [           (X)                         ( )              ]  Binder
+- [           ( )                         (X)              ]  Saturn
+- [           ( )                         (X)              ]  Boa
 
 
 
