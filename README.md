@@ -126,34 +126,32 @@ xxx
 
 **Texteingaben**
 
-Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt. In LiaScript wird dazu die folgende Notation verwendet (doppelt eckige Klammern):
+Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt.
+Der Button mit dem Haken zeigt die Lösung an und setzt die Übung auf "bearbeitet" (für die Dauer der Browser-Sitzung).
 
 Wie heißt der Hund von Asterix?
 
     [[Idefix]]
 
-*mit Lösungshinweis*: Wie heißt der Freund von Asterix?
+*Variante ohne Anzeige des Buttons zu Auflösung*: Wie heißt der Freund von Asterix?
+
+    <!-- data-show-solution-button="0" -->
+    [[Obelix]]
+
+*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix?
 
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint
     [[?]] Und auch nicht der Druide
 
-*ohne Anzeige des Buttons zu Auflösung*: Wie heißt der Freund von Asterix?
 
-    <!-- data-show-solution-button="0"-->
-    [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint
-    [[?]] Und auch nicht der Druide
+*Variante mit Lösungshinweis und Kommentierung der richtigen Lösung*: Wie heißt der Hund von Asterix?
 
-*mit Lösungshinweis und Kommentar der richtigen Lösung*: Wie heißt das hier verwendete System zur Kurserstellung?
-
-    [[LiaScript]]
-    [[?]] Bitte achten Sie auf die korrekte Schreibweise
-    [[?]] Die Lösung beginnt mit Lia....
+    [[Idefix]]
+    [[?]] Gesucht ist der deutsche Name.
+    [[?]] Die Lösung beginnt mit I.
     **************************************************
-    LiaScript ist eine interaktive Erweiterung zu
-    Markdown, zur Entwicklung interaktiver und freier
-    Lehrinhalte. Mehr Informationen finden Sie unter https://LiaScript.github.io
+    Richtige Lösung! Nur zu Demonstrationzzwecken folgt hier noch ein Diagramm.
 
                     Nur ein weiteres Diagramm
     1.9 |
@@ -174,14 +172,14 @@ Wie heißt der Hund von Asterix?
 
 **Single Choice**
 
-Es werden mehrere Lösungsmöglichkeiten vorgegeben, üblicherweise werden solche Aufgaben im Browser über sogenannte Radio-Buttons dargestellt. In LiaScript wird diese Notation einfach übernommen und mithilfe von runden Klammern innerhalb der eckigen angezeigt und das X markiert die einzig richtige Lösung:
+Es werden mehrere Lösungsmöglichkeiten vorgegeben:
 
     [( )] Option 1
     [(X)] <-- **Die richtige Auswahlmöglichkeit**
     [( )] Eine weitere falsche Option
 
 
-*mit Kommentar der richtigen Lösung*: How do I collect metadata?
+*Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
 
 - [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
 - [( )] I simply transfer the metadata from another project.
@@ -195,7 +193,7 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 
 **Multiple Choice**
 
-Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. Diese Aufgaben werden zumeist durch sogenannte Checkboxen abgebildet, die in LiaScript wie folgt abgebildet werden:
+Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. 
 
     [[X]] **<-- richtig**
     [[ ]] falsch
@@ -215,7 +213,7 @@ Which of these are tools to organize your data analysis?
 - [           ( )                         (X)              ]  Boa
 
 
-Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
+*Variante ohne Auflösungs-Button und mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[Generic]    [Subject-specific]]
@@ -225,7 +223,7 @@ Which of the following repositories are generic, and which are subject-specific?
 - [    ( )             (X)      ]  European Nucleotide Archive (ENA)
 
 
-Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert. Die oberste Zeile definiert die möglichen Optionen, während die Zeilen Multiple und Single Choice Quizze kombinieren.
+Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert:
 
     [ [head1] [ ;-) ] [ Option3 ] ]
     [   ( )     ( )       (X)     ]  <-- Single Choice
@@ -260,36 +258,11 @@ Correct! Species names consist of Genus, epithet, authority, and year of publica
 The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
 ***
 
+---
 
-**Weitere Optionen**
+**Lückentext**
 
-Zu Quizzen können verschiedene weitere Hilfen sowie erweiterte Auflösungen hinzugefügt werden. Die vorgestellten Anpassungen können allen Quiz-Typen angefügt werden…
-
-
-
-
-*Auflösungen*
-
-Mithilfe von zwei Linienzügen, die durch mindestens drei aufeinander folgenden `***` definiert werden, können erweiterte Auflösungen definiert werden, die mehrere Markdown-Blöcke enthalten können. Diese werden nur gezeigt, falls der Nutzer die richtige Lösung gegeben hat bzw. auf Auflösungen klickt.
-
-
-
-
-
-
-
-
-Die maximale Anzahl an Versuchen kann limitiert werden (im folgenden Beispiel: 3), und der "zeige die Lösung"-Button kann ausgeblendet werden:
-
-How do I collect metadata?
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
-- [( )] I simply transfer the metadata from another project.
-- [( )] I always follow the same scheme, no matter what type of research data it is.
-***
-Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
-***
+Dies ist ein Beipielsatz, bei dem hier [[_Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[_Wort 3_| Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[_Wort 1_| Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[_Wort 1_| Wort 2 | Wort 3 | (Wort 4) ]].
 
 
 *************************************************************************************************************
