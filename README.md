@@ -288,7 +288,7 @@ As I (pass / want) [[ want to pass ]] my English exam successfully next year, I 
 
 kombiniert
 -----------------------------------
-Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ihre Katze | (Ihr Hund) ]] hei0t [[Idefix]].
+Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ihre Katze | (Ihr Hund) ]] hei0t [[ Idefix ]].
 
 
 
