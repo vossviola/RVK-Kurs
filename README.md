@@ -1,43 +1,30 @@
 <!--
-@onload
+author:   RVK-Koordinierungsstelle in der ULB / Viola Voß
 
-setTimeout(function() {
-  const checkbox = document.getElementById("lia-checkbox-google_translate")
+email:    rvk.ulb@uni‐muenster.de
 
-  checkbox.addEventListener("click", function(event) {
-    event.preventDefault();
+logo:     https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
 
-    // Show your custom confirmation dialog
-    const userConfirmed = confirm(
-      "Note on translation: This website uses Google Translate to translate content into different languages. Please note that when you use this function, data is transmitted to Google and processed there. Further information can be found in Google's Privacy Policy: https://policies.google.com/privacy?hl=de. Click OK to accept, or Cancel to abort."
-    );
-
-    if (!userConfirmed) {
-      event.stopImmediatePropagation();
-    }
-  }, true);
-
-}, 2000)
-
-@end
+version:  0.0.1
 
 language: de
 
 narrator: Deutsch Female
 
-author: Viola Voß
+comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
 
-comment: 
+tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, RVK, Tutorial
 
-logo: https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-classroom: false
-classroom: disable
-sharing: off
-
-version: 0.0.1
+import:   https://github.com/LiaTemplates/KekuleJS
+          https://github.com/LiaTemplates/VTK
+          https://github.com/LiaTemplates/Algebrite
+          https://github.com/LiaTemplates/ProcessingJS
+          https://github.com/LiaTemplates/mec2/blob/main/README.md
 
 -->
+
 
 [![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK-Kurs)
 
@@ -47,24 +34,10 @@ version: 0.0.1
 {{|>}}
 *************************************************************************************************************
 
-Hier kommt ein Einleitungstext hin
+Dieser Kurs soll einen interaktiven Einstieg in die Nutzung der Regensburger Verbundklassifikation (RVK) geben. 
+Im ersten Teil ...
 
-
-Kontaktmöglichkeit?
-
-Notiz fürs Impressum: Credits an
-* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
-* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 für Anregungen zu Übungsaufgaben
-
-Snapshops auf Zenodo veröffentlichen, wie beim Bio-FDM-Kurs?
-
-*************************************************************************************************************
-
-## Wie diesen Kurs nutzen
-
-{{|>}}
-*************************************************************************************************************
-**Wie diesen Kurs nutzen**
+Zu jedem Abschnitt gibt es Aufgaben zur Lernkontrolle, die Sie direkt im Dokument ausführen können.
 
 Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
 
@@ -91,9 +64,26 @@ Please note that if you want to **listen** to a **translation** of the text, you
 ![picture of header with narrator English Female](images/figure0-4_narrator.png) 
 
 For more details on the Markdown dialect LiaScript, see the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1).
- 
+
+
+
 
 *************************************************************************************************************
+
+## Impressum
+
+{{|>}}
+*************************************************************************************************************
+Kontaktmöglichkeit: RVK-Koordinierungsstelle der ULB Münster, rvk.ulb@uni‐muenster.de
+
+Notiz fürs Impressum: Credits an
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 für Anregungen zu Übungsaufgaben
+
+Snapshops auf Zenodo veröffentlichen, wie beim Bio-FDM-Kurs?
+
+*************************************************************************************************************
+
 
 # RVK – was ist das?
 
@@ -102,13 +92,13 @@ For more details on the Markdown dialect LiaScript, see the [LiaScript documenta
 
 Lernziele:
 
-    {{1}}
+{{1}}
 Ziel 1
 
-    {{2}}
+{{2}}
 Ziel 2
 
-    {{3}}
+{{3}}
 Ziel 3
 
 
@@ -139,7 +129,6 @@ Ziel 3
 
 xxx
 
- 
 
 *************************************************************************************************************
 
@@ -149,10 +138,6 @@ xxx
 *************************************************************************************************************
 
 xxx  
-
-*************************************************************************************************************
-
-
 
 *************************************************************************************************************
 
