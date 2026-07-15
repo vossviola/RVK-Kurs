@@ -133,21 +133,25 @@ Wie heißt der Hund von Asterix?
 
     [[Idefix]]
 
-*Variante mit Lösungshinweis*: Wie heißt der Freund von Asterix? 
+
+*Variante mit Lösungshinweis*
+Wie heißt der Freund von Asterix? 
 (So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
 
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
 
-*Variante mit Lösungshinweis und Kommentierung der richtigen Lösung*: Wie heißt der Hund von Asterix?
+
+*Variante mit Lösungshinweis und Kommentierung der richtigen Lösung* 
+Wie heißt der Hund von Asterix?
 
     [[Idefix]]
     [[?]] Gesucht ist der deutsche Name.
     [[?]] Die Lösung beginnt mit I.
-    **************************************************
+    ***
     Richtige Lösung! Zur Belohnung gibts ein Leckerli. 
-    **************************************************
+    ***
 
 ---
 
