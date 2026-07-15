@@ -19,7 +19,9 @@ import:   https://github.com/LiaTemplates/KekuleJS
           https://github.com/LiaTemplates/ProcessingJS
           https://github.com/LiaTemplates/mec2/blob/main/README.md
 
-edit:     true
+classroom: false
+classroom: disable
+translate: off
 
 -->
 
