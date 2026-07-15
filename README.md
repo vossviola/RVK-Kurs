@@ -124,23 +124,6 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-**Texteingaben**
-
-Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt.
-Der Button mit dem Haken zeigt die Lösung an und setzt die Übung auf "bearbeitet" (für die Dauer der Browser-Sitzung).
-
-Wie heißt der Hund von Asterix?
-
-    [[Idefix]]
-
-
-*Variante mit Lösungshinweis*
-Wie heißt der Freund von Asterix? 
-(So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
-
-    [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint.
-    [[?]] Und auch nicht der Druide.
 
 
 
