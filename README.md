@@ -183,18 +183,6 @@ Correct! Species names consist of Genus, epithet, authority, and year of publica
 The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
 ***
 
----
-
-**Lückentext mit Auswahl**
-
-Dies ist ein Beipielsatz, bei dem hier [[ Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
-
-
-**Lückentext mit Eintragen**
-
-I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
-As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) ~[[ am going to study ]]~ harder this term.
-
 
 
 *************************************************************************************************************
