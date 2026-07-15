@@ -192,10 +192,48 @@ xxx
 
 *************************************************************************************************************
 
-## Übungsaufgaben
+## Übungsaufgaben Übersicht
 
 {{|>}}
 *************************************************************************************************************
+
+**Texteingaben**
+Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt. In LiaScript wird dazu die folgende Notation verwendet (doppelt eckige Klammern):
+
+    `[[Lösung]]`
+
+> **Aufgabe:** Entfernen Sie die beiden Backticks (schrägen Hochkommas), und verändern Sie die Lösung. Definieren Sie eine eigene „Lösung“ eine geeignete Frage im eigenständigen Absatz.
+
+
+**Single Choice**
+Es werden mehrere Lösungsmöglichkeiten vorgegeben, üblicherweise werden solche Aufgaben im Browser über sogenannte Radio-Buttons dargestellt. In LiaScript wird diese Notation einfach übernommen und mithilfe von runden Klammern innerhalb der eckigen angezeigt und das X markiert die einzig richtige Lösung:
+
+    [( )] Option 1
+    [(X)] <-- **Die richtige Auswahlmöglichkeit**
+    [( )] Eine weitere falsche Option
+
+
+Which statement is true?
+
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+- [(X)] A data management plan saves time and helps me to minimize data loss.
+- [( )] I only need to create a DMP if I expect large amounts of data.
+- [( )] The DMP is primarily a control instrument for funding institutions.
+***
+Right! Also, a DMP created before or with the start of the project will help you organise the research data management for you and your team. Remember, however, that it is a living document that might need adjustments at regular intervals. A well-maintained DMP can also facilitate the onboarding of new project staff with regard to research data management.
+***
+
+
+
+
+**Multiple Choice**
+Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. Diese Aufgaben werden zumeist durch sogenannte Checkboxen abgebildet, die in LiaScript wie folgt abgebildet werden:
+
+    [[X]] **<-- richtig**
+    [[ ]] falsch
+    [[ ]] **<-- richtig**
+    [[X]] falsch
+
 
 Which of these aspects are part of a data management plan?
 
@@ -211,15 +249,57 @@ Which of these aspects are part of a data management plan?
 Right! There is of course much more information that should also be mentioned in a DMP, such as information on the data formats produced, data types and the estimated amount of data, in projects with several participants also information on how the data is shared within the project, or information on legal features, if existing.
 ***
 
-Which statement is true?
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] A data management plan saves time and helps me to minimize data loss.
-- [( )] I only need to create a DMP if I expect large amounts of data.
-- [( )] The DMP is primarily a control instrument for funding institutions.
-***
-Right! Also, a DMP created before or with the start of the project will help you organise the research data management for you and your team. Remember, however, that it is a living document that might need adjustments at regular intervals. A well-maintained DMP can also facilitate the onboarding of new project staff with regard to research data management.
-***
+**Matrix**
+Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert. Die oberste Zeile definiert die möglichen Optionen, während die Zeilen Multiple und Single Choice Quizze kombinieren.
+
+    [ [head1] [ ;-) ] [ Option3 ] ]
+    [   ( )     ( )       (X)     ]  <-- Single Choice
+    [   [ ]     [X]       [X]     ]  <-- Multiple Choice
+
+
+**Weitere Optionen**
+Zu Quizzen können verschiedene weitere Hilfen sowie erweiterte Auflösungen hinzugefügt werden. Die vorgestellten Anpassungen können allen Quiz-Typen angefügt werden…
+
+*Hilfen*
+Gegebenenfalls kann es notwendig sein, dass Hilfen/Tipps zu den Quizzen hinzugefügt werden sollen, sodass der Nutzer selber entscheiden kann, sich eine Hilfe geben zu lassen, bevor er/sie auf den Auflöse-Button klickt.
+
+Wie heißt der Markdown Dialekt, der hier genutzt wird:
+
+    [[LiaScript]]
+    [[?]] Bitte achten Sie auf die korrekte Schreibweise
+    [[?]] Die Lösung beginnt mit Lia.....
+
+
+*Auflösungen*
+Mithilfe von zwei Linienzügen, die durch mindestens drei aufeinander folgenden `***` definiert werden, können erweiterte Auflösungen definiert werden, die mehrere Markdown-Blöcke enthalten können. Diese werden nur gezeigt, falls der Nutzer die richtige Lösung gegeben hat bzw. auf Auflösungen klickt.
+
+    [[LiaScript]]
+    [[?]] Bitte achten Sie auf die korrekte Schreibweise
+    [[?]] Die Lösung beginnt mit Lia.....
+    **************************************************
+    LiaScript ist eine interaktive Erweiterung zu
+    Markdown, zur Entwicklung interaktiver und freier
+    Lehrinhalte. Mehr Informationen finden Sie unter:
+
+    https://LiaScript.github.io
+
+                    Nur ein weiteres Diagramm
+    1.9 |
+        |                 ***
+      y |               *     *
+      - | r r r r r r r*r r r r*r r r r r r r
+      a |             *         *
+      x |            *           *
+      i | B B B B B * B B B B B B * B B B B B
+      s |         *                 *
+        |**  * *                       * *   *
+     -1 +------------------------------------
+        0              x-axis               1
+
+    **************************************************
+
+
 
 
 *************************************************************************************************************
