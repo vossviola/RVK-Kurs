@@ -188,10 +188,12 @@ Variante mit Kommentar der richtigen Lösung
 *Damit kann man dann auch Richtig-Falsch-Fragen erstellen:*
 
 Heißt der Hund von Asterix Fido?
+
     [( )] ja
     [(X)] nein
     
 Die RVK wurde in Regensburg erfunden.
+
     [(X)] richtig
     [( )] falsch
 
@@ -282,6 +284,11 @@ mit Eintragen der gesuchten Wörter
 
 I (learn) [[  have been learning  ]] English for seven years now. But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
 As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
+
+
+kombiniert
+-----------------------------------
+Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ihre Katze | (Ihr Hund) ]] hei0t [[Idefix]].
 
 
 
