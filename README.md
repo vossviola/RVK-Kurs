@@ -161,7 +161,7 @@ Dies ist ein Beipielsatz, bei dem hier [[ Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]]
 **Lückentext mit Eintragen**
 
 I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
-As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) ~[[ am going to study ]]~ harder this term.
+As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
 
 
 
