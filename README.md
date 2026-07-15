@@ -135,9 +135,6 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
----
-
-*hier folgen noch weitere Beispiele*
 
 Texteingabe
 ======================================
@@ -159,13 +156,11 @@ Wie heißt der Freund von Asterix?
     [[?]] Und auch nicht der Druide.
 
 
-*Variante mit Lösungshinweis und Kommentierung der richtigen Lösung* 
+*Variante mit Kommentierung der richtigen Lösung* 
 
 Wie heißt der Freund von Asterix? 
 
     [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint.
-    [[?]] Und auch nicht der Druide.
     ***
     Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar.
     ***
