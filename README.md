@@ -157,7 +157,7 @@ Variante mit Kommentar der richtigen Lösung
     [( )] Option 2 falsch
     [( )] Option 3 falsch
 ***
-Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar. :\)
+Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar. 
 ***
 
 
@@ -213,11 +213,11 @@ Assign the terms to the FAIR principles.
 
 | Definition      | Term |
 | ----------- | ----------- |
-| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent indetifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
-| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
+| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent Identifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent Identifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
+| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
 
 
 Begriffe in eine Reihenfolge bringen
@@ -246,7 +246,7 @@ Dies ist ein Beipielsatz, bei dem hier [[ Wort 4 | Wort 2 | Wort 3 | (Wort 1) ]]
 mit Eintragen
 -------------
 
-I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
+I (learn) [[  have been learning  ]] English for seven years now. But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
 As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
 
 
