@@ -206,7 +206,6 @@ Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwe
 
 
 
-
 Begriffe zueinandersortieren
 ======================================
   
@@ -219,7 +218,6 @@ Assign the terms to the FAIR principles.
 | [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
 | [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
 | [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
-
 
 
 Begriffe in eine Reihenfolge bringen
