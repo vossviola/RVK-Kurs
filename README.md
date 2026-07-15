@@ -187,7 +187,7 @@ Which of these are tools to organize your data analysis?
 - [           ( )                         (X)              ]  Boa
 
 
-***Variante mit Limitierung auf drei Versuche, dann wird aufgelöst***: 
+***Variante mit Limitierung auf drei Versuche, dann wird aufgelöst*** 
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
@@ -234,14 +234,17 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 
 
-Lückentext mit Auswahl
+Lückentext
 ======================================
+
+ mit Auswahl
+ -----------
 
 Dies ist ein Beipielsatz, bei dem hier [[ Wort 4 | Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
 
 
-Lückentext mit Eintragen
-======================================
+mit Eintragen
+-------------
 
 I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
 As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
