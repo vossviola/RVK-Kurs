@@ -41,32 +41,9 @@ Zu jedem Abschnitt gibt es Aufgaben zur Lernkontrolle, die Sie direkt im Dokumen
 
 Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
 
-Only if you use the link, you will be able use all features of this course:
-
-        {{1}}
-After each chapter, you can test your knowledge with questions. These questions only work in the LiaScript version, not in simple Markdown.
-
-![LiaScript question](images/figure0-2_LiaScript-questions.png)
-
-        {{2}}
 You can listen to the text by clicking on the little PLAY button on top of each page. Please note that this feature is used as commentary, this is **not** a tool to increase accessibility.
-
-![location play button](images/figure0-1_play-button.png)
-
-        {{3}}
 You can automatically translate the course with one click. However, please be aware that any automatic translation may contain mistakes and mistranslations of terms and concepts.
-
-![where to click for translation](images/figure0-3_translation.png)
-
-        {{4}}
-Please note that if you want to **listen** to a **translation** of the text, you should change the narrator voice in the html header in the raw version of this file. 
-
-![picture of header with narrator English Female](images/figure0-4_narrator.png) 
-
-For more details on the Markdown dialect LiaScript, see the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1).
-
-
-
+Please note that if you want to listen to a translation of the text, you should change the narrator voice in the html header in the raw version of this file. 
 
 *************************************************************************************************************
 
@@ -170,7 +147,16 @@ xxx
 
 *************************************************************************************************************
 
-## Unterkapitel
+## Tools
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
+
+*************************************************************************************************************
+
+## Zum Weiterlesen
 
 {{|>}}
 *************************************************************************************************************
@@ -185,22 +171,26 @@ xxx
 *************************************************************************************************************
 
 **Texteingaben**
+
 Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt. In LiaScript wird dazu die folgende Notation verwendet (doppelt eckige Klammern):
 
 Wie heißt der Hund von Asterix?
     [[Idefix]]
 
-
+---
 
 **Single Choice**
+
 Es werden mehrere Lösungsmöglichkeiten vorgegeben, üblicherweise werden solche Aufgaben im Browser über sogenannte Radio-Buttons dargestellt. In LiaScript wird diese Notation einfach übernommen und mithilfe von runden Klammern innerhalb der eckigen angezeigt und das X markiert die einzig richtige Lösung:
 
     [( )] Option 1
     [(X)] <-- **Die richtige Auswahlmöglichkeit**
     [( )] Eine weitere falsche Option
 
+---
 
 **Multiple Choice**
+
 Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. Diese Aufgaben werden zumeist durch sogenannte Checkboxen abgebildet, die in LiaScript wie folgt abgebildet werden:
 
     [[X]] **<-- richtig**
@@ -208,6 +198,7 @@ Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere ausw
     [[ ]] **<-- richtig**
     [[X]] falsch
 
+---
 
 **Matrix**
 
@@ -253,7 +244,9 @@ Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwe
     [   [ ]     [X]       [X]     ]  <-- Multiple Choice
 
 
-* Begriffe zueinandersortieren*
+---
+
+**Begriffe zueinandersortieren**
   
 Assign the terms to the FAIR principles.
 
@@ -266,10 +259,12 @@ Assign the terms to the FAIR principles.
 | [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
 
 
+---
 
 **Begriffe in eine Reihenfolge bringen**
 
 What is the correct order of a species name?
+
 [[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
@@ -279,6 +274,7 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 
 **Weitere Optionen**
+
 Zu Quizzen können verschiedene weitere Hilfen sowie erweiterte Auflösungen hinzugefügt werden. Die vorgestellten Anpassungen können allen Quiz-Typen angefügt werden…
 
 *Hilfen*
@@ -306,13 +302,11 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 
     [[LiaScript]]
     [[?]] Bitte achten Sie auf die korrekte Schreibweise
-    [[?]] Die Lösung beginnt mit Lia.....
+    [[?]] Die Lösung beginnt mit Lia....
     **************************************************
     LiaScript ist eine interaktive Erweiterung zu
     Markdown, zur Entwicklung interaktiver und freier
-    Lehrinhalte. Mehr Informationen finden Sie unter:
-
-    https://LiaScript.github.io
+    Lehrinhalte. Mehr Informationen finden Sie unter https://LiaScript.github.io
 
                     Nur ein weiteres Diagramm
     1.9 |
@@ -333,6 +327,7 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 Die maximale Anzahl an Versuchen kann limitiert werden (im folgenden Beispiel: 3), und der "zeige die Lösung"-Button kann ausgeblendet werden:
 
 How do I collect metadata?
+
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
 - [( )] I simply transfer the metadata from another project.
@@ -352,13 +347,13 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 
 Lernziele:
 
-    {{1}}
+{{1}}
 Ziel 1
 
-    {{2}}
+{{2}}
 Ziel 2
 
-    {{3}}
+{{3}}
 Ziel 3
 
 *************************************************************************************************************
@@ -370,6 +365,24 @@ Ziel 3
 
 xxx
 
+
+*************************************************************************************************************
+
+## Tools
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
+
+*************************************************************************************************************
+
+## Zum Weiterlesen
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
 
 *************************************************************************************************************
 
@@ -390,14 +403,32 @@ xxx
 
 Lernziele:
 
-    {{1}}
+{{1}}
 Ziel 1
 
-    {{2}}
+{{2}}
 Ziel 2
 
-    {{3}}
+{{3}}
 Ziel 3
+
+*************************************************************************************************************
+
+## Tools
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
+
+*************************************************************************************************************
+
+## Zum Weiterlesen
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
 
 *************************************************************************************************************
 
@@ -409,9 +440,6 @@ Ziel 3
  xxx
 
 
-
-
-
 *************************************************************************************************************
 
 # RVK @ MS – Die RVK in Bibliotheken der ULB Münster
@@ -421,13 +449,13 @@ Ziel 3
 
 Lernziele:
 
-    {{1}}
+{{1}}
 Ziel 1
 
-    {{2}}
+{{2}}
 Ziel 2
 
-    {{3}}
+{{3}}
 Ziel 3
 
 *************************************************************************************************************
@@ -439,6 +467,24 @@ Ziel 3
 
 xxx
 
+
+*************************************************************************************************************
+
+## Tools
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
+
+*************************************************************************************************************
+
+## Zum Weiterlesen
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
 
 *************************************************************************************************************
 
