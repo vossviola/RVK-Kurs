@@ -139,6 +139,17 @@ xxx
 
 *hier folgen noch weitere Beispiele*
 
+Texteingabe
+======================================
+
+Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt.
+Der Button mit dem Haken zeigt die Lösung an und setzt die Übung auf "bearbeitet" (für die Dauer der Browser-Sitzung).
+
+Wie heißt der Hund von Asterix?
+
+    [[Idefix]]
+
+---
 
 
 Single Choice
