@@ -187,9 +187,9 @@ Variante mit Kommentar der richtigen Lösung
     [(X)] Option 1 richtig
     [( )] Option 2 falsch
     [( )] Option 3 falsch
-***
-Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar. 
-***
+    ***
+    Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar.
+    ***
 
 
 
