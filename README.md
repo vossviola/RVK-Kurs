@@ -151,14 +151,13 @@ Es gibt eine richtige Lösung.
     [( )] Option falsch 2
 
 
-***Variante mit Kommentar der richtigen Lösung***
-How do I collect metadata?
+Variante mit Kommentar der richtigen Lösung
 
-    [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
-    [( )] I simply transfer the metadata from another project.
-    [( )] I always follow the same scheme, no matter what type of research data it is.
+    [(X)] Option 1 richtig
+    [( )] Option 2 falsch
+    [( )] Option 3 falsch
 ***
-Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar. :\)
 ***
 
 
