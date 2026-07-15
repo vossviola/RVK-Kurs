@@ -136,12 +136,147 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
-*hier folgen Beispiele für Übungsaufgaben*
+---
 
+
+
+
+**Texteingaben**
+
+Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt.
+Der Button mit dem Haken zeigt die Lösung an und setzt die Übung auf "bearbeitet" (für die Dauer der Browser-Sitzung).
+
+Wie heißt der Hund von Asterix?
+
+    [[Idefix]]
+
+
+*Variante mit Lösungshinweis*
+Wie heißt der Freund von Asterix? 
+(So lange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis.)
+
+    [[Obelix]]
+    [[?]] Hier ist nicht der Hund gemeint.
+    [[?]] Und auch nicht der Druide.
+
+
+
+
+
+*Variante mit Lösungshinweis und Kommentierung der richtigen Lösung* 
+Wie heißt der Hund von Asterix?
+
+    [[Idefix]]
+    [[?]] Gesucht ist der deutsche Name.
+    [[?]] Die Lösung beginnt mit I.
+    ***
+    Richtige Lösung! Zur Belohnung gibts ein Leckerli. 
+    ***
 
 
 
 ---
+
+**Single Choice**
+
+Es gibt eine richtige Lösung.
+
+    [( )] Option falsch 1
+    [(X)] <-- **Die richtige Antwort**
+    [( )] Option falsch 2
+
+
+*Variante mit Kommentar der richtigen Lösung*: How do I collect metadata?
+
+    [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers. (= die richtige Antwort)
+    [( )] I simply transfer the metadata from another project.
+    [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
+
+
+---
+
+**Multiple Choice**
+
+Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. 
+
+    [[X]] **<-- richtig**
+    [[ ]] falsch
+    [[ ]] **<-- richtig**
+    [[X]] falsch
+
+---
+
+**Matrix**
+
+Which of these are tools to organize your data analysis?
+
+- [[Tools for data analysis] (Not a tool for data analysis)]
+- [           (X)                         ( )              ]  Jupyter
+- [           (X)                         ( )              ]  Binder
+- [           ( )                         (X)              ]  Saturn
+- [           ( )                         (X)              ]  Boa
+
+
+*Variante mit Limitierung auf drei Versuche*: Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
+
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+- [[Generic]    [Subject-specific]]
+- [    (X)             ( )      ]  Zenodo  
+- [    (X)             ( )      ]  figshare  
+- [    ( )             (X)      ]  PANGAEA
+- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
+
+
+Bei dieser Darstellung werden die beiden zuvor vorgestellten Quizze in einer zwei-dimensionalen Matrix kombiniert:
+
+    [ [head1] [ ;-) ] [ Option3 ] ]
+    [   ( )     ( )       (X)     ]  <-- Single Choice
+    [   [ ]     [X]       [X]     ]  <-- Multiple Choice
+
+
+---
+
+**Begriffe zueinandersortieren**
+  
+Assign the terms to the FAIR principles.
+
+| Definition      | Term |
+| ----------- | ----------- |
+| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent indetifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
+| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
+| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
+
+
+---
+
+**Begriffe in eine Reihenfolge bringen**
+
+What is the correct order of a species name?
+
+[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
+***
+Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
+
+The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
+***
+
+---
+
+**Lückentext mit Auswahl**
+
+Dies ist ein Beipielsatz, bei dem hier [[ Wort 4_| Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
+
+
+**Lückentext mit Eintragen**
+
+I (learn) [[  have been learning  ]] English for seven years now.__ But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
+As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) ~[[ am going to study ]]~ harder this term.
+
 
 
 *************************************************************************************************************
