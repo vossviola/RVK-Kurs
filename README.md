@@ -149,7 +149,16 @@ Wie heißt der Hund von Asterix?
 
     [[Idefix]]
 
----
+
+*Variante mit Lösungshinweis* (solange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis)
+
+Wie heißt der Freund von Asterix? 
+
+    [[Obelix]]
+    [[?]] Hier ist nicht der Hund gemeint.
+    [[?]] Und auch nicht der Druide.
+    
+
 
 
 Single Choice
