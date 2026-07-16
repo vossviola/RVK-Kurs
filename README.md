@@ -34,6 +34,9 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
+> [!TIP] Dieser geplante RVK-Kurs ist noch Work in Progress! | Stand 16.7.2026
+
+
 Dieser Kurs soll einen interaktiven Einstieg in die Nutzung der Regensburger Verbundklassifikation (RVK) geben. 
 Im ersten Teil ...
 
