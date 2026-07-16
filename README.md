@@ -40,7 +40,7 @@ Im ersten Teil ...
 
 Zwischenüberschrift
 ====================
-
+Texttexttext
 
 Unterzwischenüberschrift
 -------------------------
@@ -52,6 +52,13 @@ Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, k
 You can listen to the text by clicking on the little PLAY button on top of each page. Please note that this feature is used as commentary, this is **not** a tool to increase accessibility.
 You can automatically translate the course with one click. However, please be aware that any automatic translation may contain mistakes and mistranslations of terms and concepts.
 Please note that if you want to listen to a translation of the text, you should change the narrator voice in the html header in the raw version of this file. 
+
+
+> [!NOTE] blauer Kasten
+> [!TIP] gelber Kasten
+> [!WARNING] roter Kasten
+
+> Zitat
 
 *************************************************************************************************************
 
@@ -133,9 +140,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-> [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
-
-16:43
+16:48
 
 Texteingabe
 ======================================
