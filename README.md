@@ -58,12 +58,11 @@ Please note that if you want to listen to a translation of the text, you should 
 
 > [!TIP] gelber Kasten
 
-> [!WARNING] roter Kasten
+> [!WARNING] rotbrauner Kasten
 
 > Zitat
 
-* man kann natürlich auch Bilder einbetten
-* und Videos
+* man kann natürlich auch Bilder und Videos einbetten
 * man kann Abschnitte einer Seite "blätterbar" machen (wie z.B. [in der Doku}(https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#107))
 
 
@@ -166,7 +165,15 @@ Wie heißt der Freund von Asterix?
 
     <!-- data-solution-button="off" -->
     [[Obelix]]
-    
+
+
+*Variante mit "der Zeig-mir-die-Lösung-Button wird erst nach zwei Fehlversuchen angezeigt"*
+
+Wie heißt der Freund von Asterix? 
+
+    <!-- data-solution-button="2" -->
+    [[Obelix]]
+
 
 *Variante mit Lösungshinweis* (solange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis)
 
@@ -177,11 +184,11 @@ Wie heißt der Freund von Asterix?
     [[?]] Und auch nicht der Druide.
 
 
-*Variante mit Lösungshinweis, der erst nach zwei Fehlversuchen angezeigt wird*
+*Variante mit "der Lösungshinweis wird erst nach zwei Fehlversuchen angezeigt"*
 
 Wie heißt der Freund von Asterix? 
 
-    <!-- data-solution-button="2" -->
+    <!-- data-hint-button="2" -->
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
