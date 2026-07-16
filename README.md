@@ -168,14 +168,14 @@ Es gibt eine richtige Lösung.
     [( )] Option falsch 2
 
 
-Variante mit Kommentar der richtigen Lösung
+*Variante mit Kommentar der richtigen Lösung*
 
     [(X)] Option 1 richtig
     [( )] Option 2 falsch
     [( )] Option 3 falsch
-    ***
+    ***********************************************************************
     Richtige Antwort! Zur Belohnung gibts einen Keks. :)
-    ***
+    ***********************************************************************
 
 
 *Damit kann man dann auch Richtig-Falsch-Fragen erstellen*
