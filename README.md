@@ -185,17 +185,6 @@ Variante mit Kommentar der richtigen Lösung
     Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar.
     ***
 
-*Damit kann man dann auch Richtig-Falsch-Fragen erstellen:*
-
-Heißt der Hund von Asterix Fido?
-
-    [( )] ja
-    [(X)] nein
-    
-Die RVK wurde in Regensburg erfunden.
-
-    [(X)] richtig
-    [( )] falsch
 
 
 Multiple Choice
