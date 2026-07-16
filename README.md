@@ -135,7 +135,7 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
-6:16
+6:19
 
 Texteingabe
 ======================================
