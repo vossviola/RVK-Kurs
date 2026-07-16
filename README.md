@@ -157,15 +157,6 @@ Wie heißt der Freund von Asterix?
     [[?]] Und auch nicht der Druide.
 
 
-*Variante mit Kommentierung der richtigen Lösung* 
-
-Wie heißt der Freund von Asterix? 
-
-    [[Obelix]]
-    ***
-    Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar.
-    ***
-
 
 Single Choice
 ======================================
@@ -184,7 +175,7 @@ Variante mit Kommentar der richtigen Lösung
     [( )] Option 3 falsch
 
 
-*Damit kann man dann auch Richtig-Falsch-Fragen erstellen:*
+*Damit kann man dann auch Richtig-Falsch-Fragen erstellen*
 
 Heißt der Hund von Asterix Fido?
 
