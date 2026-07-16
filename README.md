@@ -55,10 +55,16 @@ Please note that if you want to listen to a translation of the text, you should 
 
 
 > [!NOTE] blauer Kasten
+
 > [!TIP] gelber Kasten
+
 > [!WARNING] roter Kasten
 
 > Zitat
+
+* man kann natürlich auch Bilder einbetten
+* und Videos
+
 
 *************************************************************************************************************
 
@@ -140,7 +146,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-16:48
+16:51
 
 Texteingabe
 ======================================
@@ -173,7 +179,8 @@ Wie heißt der Freund von Asterix?
 *Variante mit Lösungshinweis, der erst nach zwei Fehlversuchen angezeigt wird*
 
 Wie heißt der Freund von Asterix? 
-    <!-- data-solution-button="3" -->
+
+    <!-- data-solution-button="2" -->
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
