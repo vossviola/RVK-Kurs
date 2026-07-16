@@ -135,6 +135,7 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
+6:16
 
 Texteingabe
 ======================================
@@ -181,9 +182,20 @@ Variante mit Kommentar der richtigen Lösung
     [(X)] Option 1 richtig
     [( )] Option 2 falsch
     [( )] Option 3 falsch
-    ***
-    Richtige Antwort! Und hier noch irgendein hilfreicher weiterführender Kommentar.
-    ***
+
+
+*Damit kann man dann auch Richtig-Falsch-Fragen erstellen:*
+
+Heißt der Hund von Asterix Fido?
+
+    [( )] ja
+    [(X)] nein
+    
+Die RVK wurde in Regensburg erfunden.
+
+    [(X)] richtig
+    [( )] falsch
+
 
 
 
