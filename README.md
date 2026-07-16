@@ -135,7 +135,7 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
-6:19
+16:25
 
 Texteingabe
 ======================================
@@ -173,6 +173,9 @@ Variante mit Kommentar der richtigen Lösung
     [(X)] Option 1 richtig
     [( )] Option 2 falsch
     [( )] Option 3 falsch
+    ***
+    Richtige Antwort! Zur Belohnung gibts einen Keks. :)
+    ***
 
 
 *Damit kann man dann auch Richtig-Falsch-Fragen erstellen*
