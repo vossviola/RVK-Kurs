@@ -146,8 +146,6 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-17:09
-
 Texteingabe
 ======================================
 
@@ -206,6 +204,7 @@ Es gibt eine richtige Lösung.
 
 
 *Variante mit Kommentar der richtigen Lösung*
+*(macht aber nicht so richtig Sinn, weil es auch immer einen automatischen richtig/falsch-Hinweis gibt)*
 
 What is 37 + 15?
 
