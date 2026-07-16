@@ -135,7 +135,7 @@ xxx
 
 > [!NOTE] [Dokumentation: Quizzes](https://github.com/liascript/docs#quizzes)
 
-16:33
+16:41
 
 Texteingabe
 ======================================
@@ -148,6 +148,14 @@ Wie heißt der Hund von Asterix?
     [[Idefix]]
 
 
+*Variante ohne "Zeig mir die Lösung"-Button*
+
+Wie heißt der Freund von Asterix? 
+
+    <!-- data-solution-button="off" -->
+    [[Obelix]]
+    
+
 *Variante mit Lösungshinweis* (solange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis)
 
 Wie heißt der Freund von Asterix? 
@@ -157,8 +165,6 @@ Wie heißt der Freund von Asterix?
     [[?]] Und auch nicht der Druide.
 
 
-
-
 *Variante mit Lösungshinweis, der erst nach zwei Fehlversuchen angezeigt wird*
 
 Wie heißt der Freund von Asterix? 
@@ -166,6 +172,9 @@ Wie heißt der Freund von Asterix?
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
+
+
+    
 
 
 Single Choice
