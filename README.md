@@ -146,7 +146,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-16:51
+17:09
 
 Texteingabe
 ======================================
@@ -192,8 +192,6 @@ Wie heißt der Freund von Asterix?
     [[Obelix]]
     [[?]] Hier ist nicht der Hund gemeint.
     [[?]] Und auch nicht der Druide.
-
-
     
 
 
@@ -209,24 +207,29 @@ Es gibt eine richtige Lösung.
 
 *Variante mit Kommentar der richtigen Lösung*
 
-    [(X)] Option 1 richtig
-    [( )] Option 2 falsch
-    [( )] Option 3 falsch
+What is 37 + 15?
+
+    [[52]]
+    [[?]] the solution is larger than 50
+    [[?]] it is less than 55
+    [[?]] it should be an even number
+***********************************************************************
+52 is the correct solution, because ...
+***********************************************************************
 
 
-
-*Damit kann man dann auch Richtig-Falsch-Fragen erstellen*
+*damit kann man dann auch Richtig-Falsch-Fragen erstellen*
 
 Heißt der Hund von Asterix Fido?
 
     [( )] ja
     [(X)] nein
+
     
 Die RVK wurde in Regensburg erfunden.
 
     [(X)] richtig
     [( )] falsch
-
 
 
 
