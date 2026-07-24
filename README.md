@@ -39,6 +39,7 @@ translate: off
 
 Dieser Kurs soll einen interaktiven Einstieg in die Nutzung der Regensburger Verbundklassifikation (RVK) geben. 
 Im ersten Teil ...
+Im zweiten Teil ...
 
 
 Zwischenüberschrift
@@ -75,13 +76,7 @@ Please note that if you want to listen to a translation of the text, you should 
 
 {{|>}}
 *************************************************************************************************************
-Kontaktmöglichkeit: RVK-Koordinierungsstelle der ULB Münster, rvk.ulb@uni‐muenster.de
-
-Notiz fürs Impressum: Credits an
-* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md für die LiaScript-Datei
-* https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 für Anregungen zu Übungsaufgaben
-
-Snapshops auf Zenodo veröffentlichen, wie beim Bio-FDM-Kurs?
+... 
 
 *************************************************************************************************************
 
