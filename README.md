@@ -67,7 +67,7 @@ Please note that if you want to listen to a translation of the text, you should 
 > Zitat
 
 * man kann natürlich auch Bilder und Videos einbetten
-* man kann Abschnitte einer Seite "blätterbar" machen (wie z.B. [in der Doku}(https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#107))
+* man kann Abschnitte einer Seite "blätterbar" machen, wie z.B. [in der Doku](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#107) (unten bei 107 weiterblättern)
 
 
 *************************************************************************************************************
