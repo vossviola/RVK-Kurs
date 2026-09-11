@@ -34,9 +34,9 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!TIP] Dieser Kurs ist noch Work in Progress! | Stand 11.9.2026
+> [!NOTE] Dieser Kurs ist noch Work in Progress! | Stand 11.9.2026
 
-Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.
+Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.<br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
 
 Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten, sie aber noch nicht näher kennen.
@@ -76,7 +76,7 @@ Nach Abschluss des Kurses
 - können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
-> Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
+> Bibliotheken, die den Kurs nachnutzen und ein eigenes Kapitel ergänzen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
 
 
 
@@ -118,17 +118,12 @@ Technik
 * Dieser Kurs wird über LiaScript bereitgestellt.
 * Die Daten liegen auf GitHub/Lab/ZIVLab/GitNRW.
 * Durch einen Klick auf den kleinen Play-Button können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
-* Danke an das Team hinter dem Selbstlernkurs "[NFDI4Biodiversity Self-Study Unit – Research Data Management for Biodiversity Data](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)": Er war "Role Model" für die Einarbeitung in LiaScript und hat Anregungen zu Übungsaufgaben gegeben.
-
-
 
 Kontakt & Feedback
 -------------------------
 
 * Koordinierungsstelle RVK der ULB Münster, rvk.ulb@uni-muenster.de
 * Wir freuen uns jederzeit über Vorschläge zur Verbesserung und Ergänzung des Kurses!
-
-
 
 
 *************************************************************************************************************
