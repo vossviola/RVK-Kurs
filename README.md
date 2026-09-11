@@ -34,40 +34,43 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!TIP] Dieser geplante RVK-Kurs ist noch Work in Progress! | Stand 16.7.2026
+> [!TIP] Dieser Kurs ist noch Work in Progress! | Stand 11.9.2026
+
+> [!TIP] Dies ist ein LiaScript-Kurs. Um ihn im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
 
 
-Dieser Kurs soll einen interaktiven Einstieg in die Nutzung der Regensburger Verbundklassifikation (RVK) geben. 
-Im ersten Teil ...
-Im zweiten Teil ...
+Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.
+Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
 
+Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten. sie aber noch nicht näher kennen.
 
-Zwischenüberschrift
-====================
-Texttexttext
+Er gliedert sich in zwei Teile mit insgesamt sechs Kapiteln:
 
-Unterzwischenüberschrift
--------------------------
+I. Allgemeiner Teil: Die RVK im Überblick
+1. RVK – was ist das?
+2. Das Portal "RVK online"
+3. Notationen & Signaturen
+4. RVK zur Recherche nach Medien
+5. RVK zur Aufstellung von Medien 
 
-Zu jedem Abschnitt gibt es Aufgaben zur Lernkontrolle, die Sie direkt im Dokument ausführen können.
+II. Lokalteil: Spezifisches zur RVK-Nutzung in bestimmten Bibliotheken
+6. Die RVK in Bibliotheken der ULB Münster
 
-Dies ist ein LiaScript-Kurs. Um ihm im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
+Ein Durchlauf dauert je nach individueller Geschwindigkeit rund xx–yy Minuten/Stunden.
 
-You can listen to the text by clicking on the little PLAY button on top of each page. Please note that this feature is used as commentary, this is **not** a tool to increase accessibility.
-You can automatically translate the course with one click. However, please be aware that any automatic translation may contain mistakes and mistranslations of terms and concepts.
-Please note that if you want to listen to a translation of the text, you should change the narrator voice in the html header in the raw version of this file. 
+Nach Abschluss des Kurses
+- wissen Sie, wie die RVK als Systematik aufgebaut ist und wie ihre Redaktion organisiert wird,
+- können Sie das Portal RVK Online zum Browsen durch und zum Suchen in der RVK nutzen,
+- können Sie darstellen, wie die RVK für die Inhaltserschließung und die Aufstellung von Medien verwendet wird,
+- können Sie die RVK zur Literatursuche in verschiedenen Rechercheinstrumenten einsetzen,
+- wissen Sie, welche Aspekte bei der Recherche besonders zu berücksichtigen sind,
+- können Sie verschiedene Strategien anwenden, um RVK-Notationen zu einem Thema zu finden,
+- können Sie RVK-Signaturen für Medien erstellen,
+- können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
 
+> [!NOTE] Ein Lokalteil für Ihre Bibliothek?
+Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der unten genannten Adresse!
 
-> [!NOTE] blauer Kasten
-
-> [!TIP] gelber Kasten
-
-> [!WARNING] rotbrauner Kasten
-
-> Zitat
-
-* man kann natürlich auch Bilder und Videos einbetten
-* man kann Abschnitte einer Seite "blätterbar" machen, wie z.B. [in der Doku](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#107) (unten bei 107 weiterblättern)
 
 
 *************************************************************************************************************
@@ -76,7 +79,50 @@ Please note that if you want to listen to a translation of the text, you should 
 
 {{|>}}
 *************************************************************************************************************
-... 
+
+Versionen
+-------------------------
+
+0.1 – xx.xx.2026 – für den Test durch interessierte Kolleg:innen
+
+
+Erstellung des Kurses
+-------------------------
+
+* Viola Voß (ULB Münster)
+* Sarah Pielmeier (ULB Münster)
+* ...
+* Vielen Dank an die Kolleg:innen und Bibliotheken, die Material zu diesem Kurs beigesteuert haben!
+  * UB Braunschweig
+  * ULB Münster
+  * UB Regensburg
+  * ...
+
+
+Lizenz
+-------------------------
+
+Dieser Kurs steht als OER unter der [Lizenz CC BY 4.0.](http://creativecommons.org/licenses/by/4.0/).
+
+
+Technik
+-------------------------
+
+* Dieser Kurs wird über LiaScript bereitgestellt.
+* Die Daten liegen auf GitHub/Lab/ZIVLab/GitNRW.
+* Durch einen Klick auf den kleinen Play-Button können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
+* Danke an das Team hinter dem Selbstlernkurs "[NFDI4Biodiversity Self-Study Unit – Research Data Management for Biodiversity Data](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)": Er war "Role Model" für die Einarbeitung in LiaScript und hat Anregungen zu Übungsaufgaben gegeben.
+
+
+
+Kontakt & Feedback
+-------------------------
+
+* Koordinierungsstelle RVK der ULB Münster, rvk.ulb@uni-muenster.de
+* Wir freuen uns jederzeit über Vorschläge zur Verbesserung und Ergänzung des Kurses!
+
+
+
 
 *************************************************************************************************************
 
