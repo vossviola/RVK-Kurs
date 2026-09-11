@@ -39,24 +39,35 @@ translate: off
 > [!TIP] Dies ist ein LiaScript-Kurs. Um ihn im Präsentationsmodus anzeigen zu lassen, klicken Sie bitte [hier](https://liascript.github.io/course/?https://github.com/vossviola/RVK-Kurs)!
 
 
+
 Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
 
-Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten. sie aber noch nicht näher kennen.
+Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten, sie aber noch nicht näher kennen.
+
+
+Struktur des Kurses
+-------------------------
 
 Er gliedert sich in zwei Teile mit insgesamt sechs Kapiteln:
 
-I. Allgemeiner Teil: Die RVK im Überblick
+**Allgemeiner Teil: Die RVK im Überblick**
+
 1. RVK – was ist das?
 2. Das Portal "RVK online"
 3. Notationen & Signaturen
 4. RVK zur Recherche nach Medien
 5. RVK zur Aufstellung von Medien 
 
-II. Lokalteil: Spezifisches zur RVK-Nutzung in bestimmten Bibliotheken
+**Lokalteil: Spezifisches zur RVK-Nutzung in bestimmten Bibliotheken**
+
 6. Die RVK in Bibliotheken der ULB Münster
 
 Ein Durchlauf dauert je nach individueller Geschwindigkeit rund xx–yy Minuten/Stunden.
+
+
+Lernziele
+-------------------------
 
 Nach Abschluss des Kurses
 - wissen Sie, wie die RVK als Systematik aufgebaut ist und wie ihre Redaktion organisiert wird,
@@ -68,8 +79,8 @@ Nach Abschluss des Kurses
 - können Sie RVK-Signaturen für Medien erstellen,
 - können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
 
-> [!NOTE] Ein Lokalteil für Ihre Bibliothek?
-Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der unten genannten Adresse!
+> [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
+> Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
 
 
 
@@ -132,46 +143,73 @@ Kontakt & Feedback
 {{|>}}
 *************************************************************************************************************
 
-Lernziele:
-
-{{1}}
-Ziel 1
-
-{{2}}
-Ziel 2
-
-{{3}}
-Ziel 3
-
-
-*************************************************************************************************************
-
-## Inhalt 
-
-{{|>}}
-*************************************************************************************************************
+**Zum Einstieg**
 
 xxx
 
 
 *************************************************************************************************************
 
-### Inhalt Unterunterkapitel
+## Wie werden Medien in Bibliotheken erfasst und sortiert?
 
 {{|>}}
 *************************************************************************************************************
 
-xxx  
+xxx
 
 *************************************************************************************************************
 
-
-## Tools
+## Was ist eine Klassifikation?
 
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+xxx
+
+*************************************************************************************************************
+
+## Was ist die RVK für eine Klassifikation?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Welche Verwendungsmöglichkeiten für die RVK gibt es?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Wie wird die RVK organisiert?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Wie kommen Änderungen und Ergänzungen in die RVK
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Vorteile & Nachteile der RVK
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
 
 *************************************************************************************************************
 
