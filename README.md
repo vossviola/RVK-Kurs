@@ -1,7 +1,7 @@
 <!--
-author:   RVK-Koordinierungsstelle in der ULB / Viola Voß
+author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  0.0.1
+version:  0.1
 
 logo:     https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
 
@@ -10,14 +10,6 @@ narrator: Deutsch Female
 
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
 tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, RVK, Tutorial
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-import:   https://github.com/LiaTemplates/KekuleJS
-          https://github.com/LiaTemplates/VTK
-          https://github.com/LiaTemplates/Algebrite
-          https://github.com/LiaTemplates/ProcessingJS
-          https://github.com/LiaTemplates/mec2/blob/main/README.md
 
 classroom: false
 classroom: disable
@@ -34,9 +26,9 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!NOTE] Dieser Kurs ist noch Work in Progress! | Stand 11.9.2026
+> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 14.9.2026
 
-Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.<br/>
+Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
 
 Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten, sie aber noch nicht näher kennen.
@@ -76,7 +68,7 @@ Nach Abschluss des Kurses
 - können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
-> Bibliotheken, die den Kurs nachnutzen und ein eigenes Kapitel ergänzen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
+> Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
 
 
 
@@ -119,6 +111,7 @@ Technik
 * Die Daten liegen auf GitHub/Lab/ZIVLab/GitNRW.
 * Durch einen Klick auf den kleinen Play-Button können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
+
 Kontakt & Feedback
 -------------------------
 
@@ -126,95 +119,49 @@ Kontakt & Feedback
 * Wir freuen uns jederzeit über Vorschläge zur Verbesserung und Ergänzung des Kurses!
 
 
+
 *************************************************************************************************************
 
-
-# RVK – was ist das?
+## temp: Formatierungs-Notizen
 
 {{|>}}
 *************************************************************************************************************
 
-**Zum Einstieg**
+Infokästen
+======================================
 
-xxx
+> [!NOTE]
+> ...
+
+> [!NOTE] 📝 Dran denken!
+> ...
+
+> [!TIP]
+> ...
+
+> [!IMPORTANT]
+> ...
+
+> [!WARNING]
+> ...
+
+> [!CAUTION]
+> ...
 
 
-*************************************************************************************************************
+Zitatkästen
+======================================
 
-## Wie werden Medien in Bibliotheken erfasst und sortiert?
+> “Live as if you were to die tomorrow.
+> Learn as if you were to live forever.”
+>
+> -- Mahatma Gandhi
 
-{{|>}}
-*************************************************************************************************************
 
-xxx
-
-*************************************************************************************************************
-
-## Was ist eine Klassifikation?
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## Was ist die RVK für eine Klassifikation?
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## Welche Verwendungsmöglichkeiten für die RVK gibt es?
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
 
 *************************************************************************************************************
 
-## Wie wird die RVK organisiert?
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## Wie kommen Änderungen und Ergänzungen in die RVK
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## Vorteile & Nachteile der RVK
-
-{{|>}}
-*************************************************************************************************************
-
-xxx
-
-*************************************************************************************************************
-
-## Zum Weiterlesen
-
-{{|>}}
-*************************************************************************************************************
-
-xxx   
-
-*************************************************************************************************************
-
-
-## Übungsaufgaben Übersicht
+## temp: Übungsaufgaben Übersicht
 
 {{|>}}
 *************************************************************************************************************
@@ -397,6 +344,101 @@ kombiniert
 -----------------------------------
 Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ihre Katze | (Ihr Hund) ]] hei0t [[ Idefix ]].
 
+
+*************************************************************************************************************
+
+
+# RVK – was ist das?
+
+{{|>}}
+*************************************************************************************************************
+
+**Zum Einstieg**
+
+xxx
+
+
+*************************************************************************************************************
+
+## Wie werden Medien in Bibliotheken erfasst und sortiert?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Was ist eine Klassifikation?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Was ist die RVK für eine Klassifikation?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Welche Verwendungsmöglichkeiten für die RVK gibt es?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Wie wird die RVK organisiert?
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Wie kommen Änderungen und Ergänzungen in die RVK
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Vorteile & Nachteile der RVK
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
+
+*************************************************************************************************************
+
+## Zum Weiterlesen
+
+{{|>}}
+*************************************************************************************************************
+
+xxx   
+
+*************************************************************************************************************
+
+
+## Übungsaufgaben
+
+{{|>}}
+*************************************************************************************************************
+
+xxx
 
 
 *************************************************************************************************************
