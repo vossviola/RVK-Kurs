@@ -28,7 +28,7 @@ translate: off
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 14.9.2026
 
-Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Aufstellung und Erschließung von Bibliotheksbeständen nutzen zu können.
+Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
 
 Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten, sie aber noch nicht näher kennen.
@@ -37,7 +37,7 @@ Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische
 Struktur des Kurses
 -------------------------
 
-Er gliedert sich in zwei Teile mit insgesamt sechs Kapiteln:
+Er gliedert sich in zwei Teile:
 
 **Allgemeiner Teil: Die RVK im Überblick**
 
@@ -57,7 +57,7 @@ Ein Durchlauf dauert je nach individueller Geschwindigkeit rund xx–yy Minuten/
 Lernziele
 -------------------------
 
-Nach Abschluss des Kurses
+Nach Abschluss des Kurses …
 - wissen Sie, wie die RVK als Systematik aufgebaut ist und wie ihre Redaktion organisiert wird,
 - können Sie das Portal RVK Online zum Browsen durch und zum Suchen in der RVK nutzen,
 - können Sie darstellen, wie die RVK für die Inhaltserschließung und die Aufstellung von Medien verwendet wird,
@@ -68,7 +68,7 @@ Nach Abschluss des Kurses
 - können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
-> Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne jederzeit unter der im Impressum genannten Adresse!
+> Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne unter der im Impressum genannten Adresse!
 
 
 
@@ -82,7 +82,7 @@ Nach Abschluss des Kurses
 Versionen
 -------------------------
 
-0.1 – xx.xx.2026 – für den Test durch interessierte Kolleg:innen
+* 0.1 – xx.xx.2026 – für den Test durch interessierte Kolleg:innen
 
 
 Erstellung des Kurses
@@ -101,14 +101,14 @@ Erstellung des Kurses
 Lizenz
 -------------------------
 
-Dieser Kurs steht als OER unter der [Lizenz CC BY 4.0.](http://creativecommons.org/licenses/by/4.0/).
+Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](http://creativecommons.org/licenses/by/4.0/).
 
 
 Technik
 -------------------------
 
-* Dieser Kurs wird über LiaScript bereitgestellt.
-* Die Daten liegen auf GitHub/Lab/ZIVLab/GitNRW.
+* Dieser Kurs wird über [LiaScript](https://liascript.github.io/) bereitgestellt.
+* Die Daten liegen auf (xxx hier noch den Pfad zu GitHub oder git.nrw ergänzen).
 * Durch einen Klick auf den kleinen Play-Button können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
 
