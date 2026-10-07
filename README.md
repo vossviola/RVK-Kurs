@@ -28,7 +28,7 @@ translate: off
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 7.10.2026 (bislang nur Startseite & Kapitelstruktur eingebaut)
 
-> > [!NOTE] Version von GitHub
+> [!NOTE] Version von GitHub
 
 
 Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.
