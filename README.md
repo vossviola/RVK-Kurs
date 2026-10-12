@@ -354,7 +354,16 @@ Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ih
 
 **Zum Einstieg**
 
-xxx
+> [!NOTE]
+> Die Regensburger Verbundklassifikation, kurz RVK, ist eine Systematik zur Aufstellung und zur inhaltlichen Erschließung von Bibliotheksbeständen. Sie wurde an der UB Regensburg entwickelt; mittlerweile hat sie sich zur größten Universalklassifikation im deutschsprachigen Raum entwickelt, und sie wird in zahlreichen Bibliotheken eingesetzt.
+
+Dies sind Bibliotheksbücher, die gemäß der Regensburger Verbundklassifikation aufgestellt und erschlossen werden:
+![Bücher in einem Bibliotheksregal, die nach RVK aufgestellt sind](abbildungen/RVK-Kurs_Beispiel-Buecher_Muenster-ULB_Detail.jpg)
+![Katalogeintrag eines der auf dem vorhergehenden Bild abgebildeteten Bücher](abbildungen/RVK-Kurs_Beispiel-Buecher_Muenster-ULB_Detail_Katalogeintrag.png)
+
+Wieso sehen die Signaturenschilder und der Eintrag "Klassifikationen" im Katalog – hier beispielhaft [in dem der ULB Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991038586399706449) – so aus, wie sie aussehen?
+
+Darum geht es in diesem Kurs.
 
 
 *************************************************************************************************************
