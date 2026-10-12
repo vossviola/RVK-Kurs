@@ -26,10 +26,9 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 7.10.2026 (bislang nur Startseite & Kapitelstruktur eingebaut)
+![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](https://github.com/vossviola/RVK-Kurs/blob/main/abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg)
 
-> [!NOTE] Version von GitHub
-
+> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 12.10.2026 (bislang nur Startseite & Kapitelstruktur eingebaut)
 
 Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
@@ -93,12 +92,10 @@ Erstellung des Kurses
 
 * Viola Voß (ULB Münster)
 * Sarah Pielmeier (ULB Münster)
-* ...
 * Vielen Dank an die Kolleg:innen und Bibliotheken, die Material zu diesem Kurs beigesteuert haben!
   * UB Braunschweig
   * ULB Münster
   * UB Regensburg
-  * ...
 
 
 Lizenz
@@ -111,8 +108,8 @@ Technik
 -------------------------
 
 * Dieser Kurs wird über [LiaScript](https://liascript.github.io/) bereitgestellt.
-* Die Daten liegen auf (xxx hier noch den Pfad zu GitHub oder git.nrw ergänzen).
-* Durch einen Klick auf den kleinen Play-Button können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
+* Die Daten liegen während der Entwicklung des Kurses auf [https://github.com/vossviola/RVK-Kurs/].
+* Durch einen Klick auf den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
 
 Kontakt & Feedback
