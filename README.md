@@ -26,7 +26,7 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](https://github.com/vossviola/RVK-Kurs/blob/main/abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg)
+![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg)
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 12.10.2026 (bislang nur Startseite & Kapitelstruktur eingebaut)
 
