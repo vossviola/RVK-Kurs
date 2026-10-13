@@ -60,7 +60,7 @@ Lernziele
 
 Nach Abschluss des Kurses …
 - wissen Sie, wie die RVK als Systematik aufgebaut ist und wie ihre Redaktion organisiert wird,
-- können Sie das Portal RVK Online zum Browsen durch und zum Suchen in der RVK nutzen,
+- können Sie das Portal RVK Online zum Browsen und zum Suchen in der RVK nutzen,
 - können Sie darstellen, wie die RVK für die Inhaltserschließung und die Aufstellung von Medien verwendet wird,
 - können Sie die RVK zur Literatursuche in verschiedenen Rechercheinstrumenten einsetzen,
 - wissen Sie, welche Aspekte bei der Recherche besonders zu berücksichtigen sind,
