@@ -30,7 +30,6 @@ translate: off
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.
-
 Der Kurs richtet sich an Bibliothekar:innen, Fachreferent:innen und studentische Mitarbeiter:innen in Bibliotheken, aber auch an wissenschaftliche Mitarbeiter:innen in Instituten, die im Zuge ihrer Aufgaben für eine Bibliothek mit der RVK arbeiten, sie aber noch nicht näher kennen.
 
 
@@ -50,8 +49,6 @@ Er gliedert sich in zwei Teile:
 **Lokalteil: Spezifisches zur RVK-Nutzung in bestimmten Bibliotheken**
 
 6. Die RVK in Bibliotheken der ULB Münster
-
-Ein Durchlauf dauert je nach individueller Geschwindigkeit rund xx–yy Minuten/Stunden.
 
 
 Lernziele
