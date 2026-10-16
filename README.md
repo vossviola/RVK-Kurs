@@ -26,7 +26,7 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 14.10.2026 (Abschnitt "RVK – was ist das?" ist umgesetzt)
+> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 16.10.2026 (Abschnitte bis "Was hat es mit den Schlüssel auf sich?" umgesetzt)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -348,9 +348,10 @@ Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ih
 {{|>}}
 *************************************************************************************************************
 
-**Zum Einstieg**
+Zum Einstieg
+=============
 
-> [!IMPORTANT] Was ist die RVK?
+> [!IMPORTANT] 💡 Was ist die RVK?
 > Die Regensburger Verbundklassifikation, kurz RVK, ist eine Systematik zur Aufstellung und zur inhaltlichen Erschließung von Bibliotheksbeständen. Sie wurde an der UB Regensburg entwickelt; mittlerweile hat sie sich zur größten Universalklassifikation im deutschsprachigen Raum entwickelt, und sie wird in zahlreichen Bibliotheken eingesetzt.
 
 Dies sind Bibliotheksbücher, die gemäß der Regensburger Verbundklassifikation aufgestellt und erschlossen werden:
@@ -373,14 +374,14 @@ Darum geht es in diesem Kurs.
   * Verbale Inhaltserschließung → Schlagwörter für die im Medium behandelten Themen (Schlagwörter aus der GND, aus Fachthesauri, frei vergeben usw.)
   * Klassifikatorische oder systematische Inhaltserschließung → Klassifikations- oder Systematik-Stellen/-Klassen für den Kontext des Fachgebietes, in das das Medium gehört (Klassen z.B. aus den Systematiken DDC, BK, UDK – oder eben RVK)
 
-
+> [!NOTE] 📖
 >"Die klassifikatorische Inhaltserschließung [von Medien] beruht auf Klassifikationssystemen mit (meist) hierarchisch geordneten Haupt- und Untergruppen oder Klassen. Diese Gruppen richten sich an einem System der Wissenschaften aus und werden durch Notationen bezeichnet. Bei der Inhaltserschließung durch Klassifizieren wird jede Publikation einer Klasse oder Systemstelle zugeordnet. Alle Publikationen über dasselbe Thema erhalten dieselbe Notation und sind über diese zu ermitteln. Eine Suche mit Hilfe der Klassifikation eignet sich deshalb vor allem dazu, eine Übersicht über die Publikationen zu zusammenhängenden Wissensgebieten zu gewinnen. Um die erschlossenen Titel im Kontext der aktuellen wissenschaftlichen Zusammenhänge nachweisen zu können, müssen bibliothekarische Klassifikationen stets aktuell gehalten werden, neue Klassen für neue Wissenschaftsdisziplinen müssen eingerichtet, Bereiche, in denen besonders viel Literatur anfällt, müssen weiter ausdifferenziert werden.
 >
 >In modernen Bibliothekskatalogen kann zum einen direkt nach den entsprechenden Notationen gesucht werden, zum anderen lassen sich die Notationen, die bei jedem einzelnen Titel angezeigt werden, auch anklicken. So lassen sich alle Titel zu der entsprechenden Systemstelle bzw. zu dem entsprechenden Thema anzeigen. In älteren Bibliothekskatalogen wurden die gesamten Titeldaten in einem zweiten, systematischen Katalog (SyK) nach der Abfolge der Notationen präsentiert.
 >
 >In vielen Bibliotheken ist der Bestand auch systematisch aufgestellt, das heißt, verschiedene Werke zum selben Themenbereich stehen unmittelbar nebeneinander. Die Aufstellung ist dann bereits ein Mittel der Inhaltserschließung. Ein Standortkatalog, der ja die Aufstellung des Bestandes abbildet, ist in diesem Fall gleichzeitig ein systematischer Katalog (Systematischer Standortkatalog)." 
 >
-> --Gantert 2026:232
+> *Gantert 2026:232*
 
 
 *************************************************************************************************************
@@ -448,14 +449,15 @@ in Katalogen lokal, regional und überregional → die Notationen werden in den 
 ![Katalog eines nach RVK aufgestellten Buches in der UB Greifswald](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Greifswald-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der UB Mannheim](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Mannheim-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Katalogeintrag.png)
 
 
->"In den 1960er Jahren wurde die Regensburger Verbundklassifikation (RVK) als Aufstellungssystematik zur systematischen Erschließung von Beständen in wissenschaftlichen Bibliotheken und Institutionen entwickelt. Inzwischen hat sich in Deutschland, Österreich, der Schweiz, Italien und Liechtenstein ein großer Klassifikationsverbund gebildet. Zahlreiche Universitäts-, Hochschul-und Spezialbibliotheken und weitere Institutionen stellen ihre Bestände ganz oder in Teilen nach RVK auf und nutzen sie als Instrument zur kooperativen Sacherschließung."
+> [!NOTE] 📖
+> "In den 1960er Jahren wurde die Regensburger Verbundklassifikation (RVK) als Aufstellungssystematik zur systematischen Erschließung von Beständen in wissenschaftlichen Bibliotheken und Institutionen entwickelt. Inzwischen hat sich in Deutschland, Österreich, der Schweiz, Italien und Liechtenstein ein großer Klassifikationsverbund gebildet. Zahlreiche Universitäts-, Hochschul-und Spezialbibliotheken und weitere Institutionen stellen ihre Bestände ganz oder in Teilen nach RVK auf und nutzen sie als Instrument zur kooperativen Sacherschließung."
 > 
->-- Gantert 2026:237–240
+> *Gantert 2026:237–240*
 
-
->"Ein Anwendungsbereich der RVK ist die systematische Aufstellung von Freihand- und Magazinbeständen. Die systematische Aufstellung im Freihandbereich eröffnet den Nutzern die Möglichkeit, vor Ort am Regal zu „browsen“. Es erschließt sich der gesamte im Freihandbereich stehende Bestand zu einem bestimmten Thema und zu den inhaltlich angrenzenden Themen. Die Notationen der RVK werden ebenso zur inhaltlichen Erschließung der Bestände in Online-Katalogen herangezogen. So eignen sich die systematischen Notationen als Facette zur Einschränkung einer Suchanfrage für die thematische Recherche. Dies ist beispielsweise im Regensburger Katalog, im Gateway Bayern oder im SWB-Online-Katalog16 in Form eines Sucheinstieges nach Notation realisiert."
->
->-- Häusler/Werr 2018:153
+> [!NOTE] 📖
+> "Ein Anwendungsbereich der RVK ist die systematische Aufstellung von Freihand- und Magazinbeständen. Die systematische Aufstellung im Freihandbereich eröffnet den Nutzern die Möglichkeit, vor Ort am Regal zu „browsen“. Es erschließt sich der gesamte im Freihandbereich stehende Bestand zu einem bestimmten Thema und zu den inhaltlich angrenzenden Themen. Die Notationen der RVK werden ebenso zur inhaltlichen Erschließung der Bestände in Online-Katalogen herangezogen. So eignen sich die systematischen Notationen als Facette zur Einschränkung einer Suchanfrage für die thematische Recherche. Dies ist beispielsweise im Regensburger Katalog, im Gateway Bayern oder im SWB-Online-Katalog in Form eines Sucheinstieges nach Notation realisiert."
+> 
+> *Häusler/Werr 2018:153*
 
 
 *************************************************************************************************************
@@ -474,9 +476,10 @@ in Katalogen lokal, regional und überregional → die Notationen werden in den 
         - können die RVK einfach kostenfrei nutzen
         - können aber nicht über Vorschläge abstimmen
 
->"Vor dem Hintergrund der immer größer werdenden Zahl an Anwendern und des damit verbundenen gestiegenen Betreuungsaufwandes wurde im Jahr 2010 nach jahrzehntelanger Eigenleistung der Universitätsbibliothek Regensburg eine geringe Umlagefinanzierung eingeführt. Diese dient der Gewährleistung des technischen Betriebs. Inzwischen sind über \[140\] Bibliotheken und Institutionen dem engeren Anwenderkreis – der RVK-Community – beigetreten (Stand \[Juli 2026\]). Die Mitglieder der RVK-Community beteiligen sich an der inhaltlichen Weiterentwicklung der RVK. Auf diese Weise wird gewährleistet, dass sich die Fachsystematiken am aktuellen Stand der Forschung orientieren."
+> [!NOTE] 📖 
+> "Vor dem Hintergrund der immer größer werdenden Zahl an Anwendern und des damit verbundenen gestiegenen Betreuungsaufwandes wurde im Jahr 2010 nach jahrzehntelanger Eigenleistung der Universitätsbibliothek Regensburg eine geringe Umlagefinanzierung eingeführt. Diese dient der Gewährleistung des technischen Betriebs. Inzwischen sind über \[140\] Bibliotheken und Institutionen dem engeren Anwenderkreis – der RVK-Community – beigetreten (Stand \[Juli 2026\]). Die Mitglieder der RVK-Community beteiligen sich an der inhaltlichen Weiterentwicklung der RVK. Auf diese Weise wird gewährleistet, dass sich die Fachsystematiken am aktuellen Stand der Forschung orientieren."
 >
->--Häusler/Werr 2018:156
+> *Häusler/Werr 2018:156*
 
 - an der **UB Regensburg** gibt es die **Fachkoordination bztw. Koordinierungsstelle für die RVK**
     - Fachkoordinatorinnen, Sachbearbeiter:innen, Entwickler:innen
@@ -488,9 +491,10 @@ in Katalogen lokal, regional und überregional → die Notationen werden in den 
   - Bibliothekar:innen aus verschiedenen Bibliotheken + Kolleg:innen aus der UB Regensburg + Vertreter:innen der Bibliotheksverbünde (außer hbz)
   - übergeordnetes Gremium, das sich mit der strategischen und technischen Weiterentwicklung der RVK und ihrer Datenstruktur beschäftigt
 
->"Der Arbeitsbereich dieses Gremiums umfasst strategische Planungen und Fragestellungen, die Struktur und technische Weiterentwicklung der RVK als Ganzes betreffen. Der Beirat wird durch die Mitglieder der RVK-Community aus ihren Reihen gewählt. Der RVK-Beirat soll das Prinzip der Zusammenarbeit unter den Anwendern stärken und die RVK im Sinne aller Anwender noch mehr auf die Entwicklungen der Zukunft ausrichten."
+> [!NOTE] 📖 
+> "Der Arbeitsbereich dieses Gremiums umfasst strategische Planungen und Fragestellungen, die Struktur und technische Weiterentwicklung der RVK als Ganzes betreffen. Der Beirat wird durch die Mitglieder der RVK-Community aus ihren Reihen gewählt. Der RVK-Beirat soll das Prinzip der Zusammenarbeit unter den Anwendern stärken und die RVK im Sinne aller Anwender noch mehr auf die Entwicklungen der Zukunft ausrichten."
 >
->--Häusler/Werr 2018:156f
+> *Häusler/Werr 2018:156f*
 
 - für jede Teilsystematik der RVK gibt es **Fachgruppen**
     - Gremien aus Bibliothekar:innen auf Ebene der einzelnen Fachsystematiken: Bewertung von Änderungs- und Neuvorschläge, Pflege, Weiterentwicklung
@@ -640,7 +644,16 @@ Bibliotheken, die über Änderungsvorschläge mit abstimmen wollen, müssen der 
 {{|>}}
 *************************************************************************************************************
 
-...
+Zum Einstieg
+=============
+
+> [!NOTE] 📖
+> "Im RVK-Portal, in dem alle Informationen zur RVK gebündelt werden, steht die RVK in mehreren Versionen zur Verfügung. Zentrales Rechercheinstrument ist die RVK Online, in der man nach Notationen und Benennungen und Registerbegriffen recherchieren kann; viele Notationen sind mit GND-normierten Registerbegriffen verknüpft. Mit der Benennungssuche werden automatisch alle Registerbegriffe durchsucht. Auch das Browsen innerhalb des RVK-Baums ist möglich. 
+>
+> Aus RVK-Online heraus kann zudem direkt eine Notationssuche in den Verbundkatalogen des Bibliotheksverbunds Bayern (BVB), des Gemeinsamen Bibliotheksverbunds (GBV), des Südwestdeutschen Bibliotheksverbunds (SWB), des Österreichischen (obv) und Schweizerischen Bibliotheksverbunds (swisscovery) sowie in lokalen Katalogen von rund 40 wissenschaftlichen Bibliotheken angestoßen werden."
+>
+> *Gantert 2026:239–240*
+
 
 *************************************************************************************************************
 
@@ -649,7 +662,19 @@ Bibliotheken, die über Änderungsvorschläge mit abstimmen wollen, müssen der 
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* RVK-Portal: <https://rvk.uni-regensburg.de/> › linkes Menü: "RVK online"
+* die **Oberfläche** ist in **zwei Fenster** eingeteilt:  
+  * links sehen Sie den RVK-Baum, darüber befindet sich das zentrale Eingabefeld, in dem man nach Notationen und Benennungen suchen kann
+  * im Fenster der rechten Seite ("Ergebnisfenster") werden bei Anwendung die Ergebnisse von Benennungs- und Registersuchen sowie das Tool „CutterJo“ und Details zu ausgewählten Notationen dargestellt
+    ![die Bereiche der RVK Online](abbildungen/RVK-Kurs_RVK-Online_Bereiche.png)
+* im Folgenden schauen wir uns die Suchen und die Angaben zu den Notationen genauer an; um den CutterJo wird es im nächsten Kapitel gehen
+* die **Breite der beiden Fenster** lässt sich über das Pfeilsymbols im "Mittelbalken" ändern
+* mit den beiden Lupen-Buttons +/- können Sie die **Schriftgröße im RVK-Baum** ändern; der mittlere Button ohne +/- setzt sie auf die Voreinstellung zurück
+* der Radiergummi-Button dienst zum **Zurücksetzen aller Suchanfragen**
+* mit demVier-Pfeile-Button wechseln Sie in die **Vollansicht des RVK-Baums** und wieder zurück: die linke Menüleiste wird dabei aus-/eingeblendet
+* Stand Herbst 2026 gibt es leider manchmal ein **Problem mit der Anzeige des Baumes**, an deren Behebung gearbeitet wird, die aber aus technischen Gründen noch länger dauern wird:  
+  * bei längeren Themenabschnitten friert die Anzeige der Notationen-Hierarchie beim Scrollen per Leiste oder Mausrad manchmal ein, wenn die Länge des "ausgeklappten" Abschnitts die Seitenanzeige überschreitet
+  * ein Ein- und wieder Ausklappen behebt das Problem leider nicht; man kann den Bereich dann nur per rechter Maustaste "schieben"
 
 
 *************************************************************************************************************
@@ -659,7 +684,20 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* aus der zentralen RVK-Datenbank werden drei Versionen generiert und im Portal zur Verfügung gestellt: RVK Online, RVK Druck und RVK Einfach
+* RVK Einfach und RVK Druck bieten ergänzende Informationen zur zentralen RVK Online
+* Sie finden die Links zu den Varianten im linken Menü des RVK-Portals
+* die **RVK Druck** bietet jede Teilsystematik in Form einer PDF-Datei an  
+  * die PDF-Dateien enthalten nach der inhaltlichen Struktur jeweils eine Übersicht über sämtliche "Schlüssel", die in dieser Systematik verwendet werden; dazu kommen wir im überübernächsten Abschnitt genauer
+  * nach der Auflistung der Notationen der Teilsystematik folgen die Registerbegriffe, die vergeben wurden, verlinkt mit den jeweils passenden Systemstellen; zu den Registerbegriffen siehe den nächsten Abschnitt
+  * man kann in den PDF-Dateien gut erkennen, wie tief eine Systematik strukturiert und wie umfangreich sie ist
+  * "früher", in der Anfangszeit der RVK, wurden die Fachsystematik in einer Form ähnlich den heutigen PDF-Dateien ausgedruckt und postalisch versandt – das waren noch Zeiten ...
+  * :warning: zurzeit (9/2026) fehlen in den PDF-Dateien die Schlüssel und die Registerbegriffe :disappointed:
+  * :red-star: Grafiken: Screenshots Schlüssel + Schlüsselvermerk + Registerbegriffe
+* die **RVK Einfach** beinhaltet fachsystematikübergreifende Verlinkungen bei Notationsverweisen und das Gesamtregister aller Registerbegriffe  
+  * :warning: zurzeit (9/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline :disappointed:
+  * :red-star: kann man das mit den Notationsverweisen noch irgendwie erklären?
+  * :red-star: Grafiken: Screenshots eines Notationsverweises + Ausschnitt Gesamtregister
 
 
 *************************************************************************************************************
@@ -669,7 +707,18 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* die **Notation** ist der "Code" für eine bestimmte Stelle in einer Systematik; in der RVK besteht eine Notation immer aus zwei Großbuchstaben und drei bis sechs Ziffern  
+  * zum Beispiel: WH 8975
+  * der Begriff "Notation" wird oft gleichbedeutend verwendet mit "System(atik)stelle" und "(Systematik-)Klasse"
+* die **Benennung** ist der Klartext-Name" für die Notation  
+  * zum Beispiel "Rodentia (Nagetiere)" für WH 8975 in der Biologie-Systematik W im Bereich H "Evolution"
+* da eine Benennung, auch wenn sie durchaus ausführlicher sein kann, nicht immer alle Aspekte eines Themengebietes ausdrücken kann, kann man für Systemstellen **Registerbegriffe** angeben, die verdeutlichen, worum es in dieser Klasse geht  
+  * zum Beispiel "Eichhörnchen", "Nagetiere" und "Phylogenie" für WH 8975 Rodentia (Nagetiere)
+  * als Registerbegriffe können nur Schlagwörter aus der [Gemeinsamen Normdatei (GND)](https://de.wikipedia.org/wiki/Gemeinsame%5FNormdatei) verwendet werden
+  * Mitarbeiter:innen in Bibliotheken, die zur "offiziellen RVK-Community" gehören, können über ein Tool im RVK-Portal Registerbegriffe ergänzen oder korrigieren; Mitarbeiter:innen anderer Bibliotheken können Vorschläge per Mail an die [Fachkoordination an der UB Regensburg](https://rvk.uni-regensburg.de/kontakt) schicken
+
+![die Notation WH 8975 als Beispiel](abbildungen/RVK-Kurs_RVK-Online_Notation_WH8975.png)
+
 
 
 *************************************************************************************************************
@@ -679,7 +728,50 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* um gezielt suchen zu können, gibt es im RVK-Portal jeweils eine eigene **Suche** nach Notationen und Benennungen (oben mittig) und nach Registerbegriffen (im rechten Fenster)
+
+
+Suche nach Notationen und Benennungen
+==============================
+
+* drückt man nach Eingabe eines Suchbegriffs im zentralen Suchfeld die Enter-Taste, wird die Benennungs-Suche angestoßen
+* für die **Suche nach einer Notation** die Notation eingeben und kurz warten, bis die Anzeige an die entsprechende Stelle im Baum springt (so es die Notation gibt) oder mit der Maus auf den entsprechenden Button klicken  
+  * wenn es eine Notation nicht gibt, verändert sich die Anzeige nicht
+  * wenn es sie gibt, wird sie mit ihrer Benennung im Baum farbig hinterlegt
+  * außerdem öffnet sich im Ergebnisfeld das Fenster „Details zur Notation“: hier findet man die "Herleitung" der Stelle in der Teilsystematik, die Notation und Benennung sowie, falls vorhanden, Registerbegriffe (mit Links raus zur DNB) und Bemerkungen zur Klasse und/oder Verweisungen auf thematisch auch relevante andere Klassen
+  * ebenfalls hier zu finden sind Links in die Verbundkataloge von BVB, GBV, SWB, OBV, swisscovery und hebis, die eine Suche nach der jeweiligen Notation in diesen Katalogen anstoßen; außerdem kann man in einigen lokalen Bibliothekskatalogen nach ihr suchen
+  * mit dem Button „Kurzkommentare verschicken“ kann jede:r einen Hinweis für die Notation an die Fachkoordination an der UB Regensburg schicken; der Button „Änderungen beantragen“ steht nur Bibliotheken der offiziellen RVK-Community zur Verfügung, die darüber ein Formular für die Meldung von Hinweisen öffnen können
+  * wenn eine Notation eine grundlegende Konzeptänderung erfahren hat, wird das ebenfalls angegeben: NC 1930 wurde z.B. aufgrund von Änderungen in dem NC-Zweig 2023 von "Vatikanstaat" in "Ukraine" geändert (der Vatikan gehört seitdem zu NC 1912 Italien, Vatikanstaat)
+    ![Notation CP 4300 in der RVK Online](abbildungen/RVK-Kurs_Notation_Beispiel-CP4300.png "Beispiel für die Anzeige einer Notation in der RVK Online")
+* die Ergebnisse einer **Suche nach einer Benennung** werden im rechten Fenster unter der entsprechenden Überschrift angezeigt  
+  * ein Klick auf eine Notation in der Trefferliste führt im Baum links an die entsprechende Stelle
+  * dabei wird das Feld „Ergebnisse der Benennungssuche“ im rechten Fenster zugeklappt, damit die Detailinformationen zur Notation angezeigt werden können; die Ergebnisse bleiben aber erhalten, und nach Klick auf den Überschriftenbalken „Ergebnisse der Benennungssuche“ öffnet sich die Trefferliste wieder
+  * praktisch für die Sichtung der Treffer: per Mouseover werden für jeden Treffer die Registerbegriffe angezeigt, die für diese Notation eingetragen sind
+  * Suchbegriffe bei der Benennungssuche werden übrigens automatisch trunkiert: eine Suche nach "Schokola" findet die Klassen NW 6170 Schokolade, Zuckerwaren und ZE 14400 Schokoladenherstellung
+  * bei einer Suche nach Benennungen werden auch die Registerbegriffe nach dem Suchwort durchsucht (in der Variante "Bevorzugte Benennungen", siehe dazu den folgenden Abschnitt)
+  * die Ergebnisse einer Benennungssuche können in eine csv-Datei exportiert werden
+  * über den Button "Verlauf" kann man die in der aktuellen Browsersitzung durchgeführten Suchen noch einmal aufrufen
+
+Suche nach Registerbegriffen
+==============================
+* beim Eintippen eines Suchwortes in der Registersuche werden per **Autocomplete** die in der RVK vergebenen passenden Registerbegriffe angezeigt
+* nach Anklicken eines Begriffs aus der Vorschlagsliste öffnet sich die **Trefferliste** zu dem Begriff
+* man kann **vor der Suche wählen**, ob nur in den sogenannten **Bevorzugten Benennungen**, also den "offiziellen Namen" der Schlagwörter gesucht werden soll oder auch in den **Varianten**, also den synonymen Benennungen und weiteren Namen bzw. Schreibweisen eines Schlagwortes  
+  * sucht man z.B. nach "Jet" nur in den bevorzugten Benennungen, findet man nichts
+  * die Suche über die Varianten bietet aber die beiden Begriffe "Düsenflugzeug" und "Strahlflugzeug" in der Vorschlagsliste an
+  * darüber findet man dann die Notation ZO 7420 Strahlflugzeuge (mit Luftstrahltriebwerk, Strahlturbine, Propellerturbine): der ist nämlich u.a. der Registerbegriff mit der bevorzugten Benennung "Düsenflugzeug" zugewiesen, der die varianten Namen "Jet" und "Strahlflugzeug" umfasst
+  * relevant ist dieser Aspekt z.B. bei den unterschiedlichen Schreibweisen von Personennamen: mit "Puschkin" findet man bei den bevorzugten Benennungen nichts, aber über die Varianten findet man das gesuchte Personenschlagwort "Puškin, Aleksandr Sergeevič" und die ihm zugeordneten Notationen
+  * der bevorzugte Begriff steht in der Vorschlagsliste immer oben
+    ![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
+    ![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante")
+    ![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
+    ![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante")
+* die Trefferliste kann nach dem Begriff oder der Notation sortiert werden über die Spaltenüberschriften
+* bei langen Trefferlisten kann es sich lohnen, sie mit einer **UND-Suche** einzugrenzen:  
+  * ein Klick auf den UND-Button generiert eine Liste der Registerbegriffe, die zusammen mit dem aus der ersten Suche auftreten, aus der man dann einen zweiten (oder dritten oder vierten) Begriff wählen kann
+  * man kann Begriffe auch wieder aus der kombinierten Suche herausnehmen über den Mülleimer-Button
+  * Beispiel: die Suche nach "Landeskunde" und dann über die UND-Verknüpfung die Ergänzung um "Frankreich"
+    ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png) ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png) ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png) ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png)
 
 
 *************************************************************************************************************
@@ -689,7 +781,34 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx  
+> [!NOTE] 📖
+> "Die RVK zeichnet sich durch eine vielfältige und umfangreiche Schlüsselung aus. Diese Schlüssel dienen einerseits der einheitlichen Gliederung wiederkehrender Sachverhalte, andererseits der Arbeitsvereinfachung, denn bei Korrekturen an einem Schlüssel werden alle Notationen, an denen dieser eingerechnet ist, automatisch mitkorrigiert. Jede Fachsystematik hat ihr spezifisches Repertoire an Schlüsseln. Sie sind wie die Fachsystematiken selbst historisch gewachsen und daher nicht gleichmäßig. Dies ist besonders bei schlüsselintensiven Fächern wie etwa der A-Systematik augenfällig.
+>
+> Insgesamt gibt es \[über 140\] verschiedene Schlüssel (Stand \[Mai 2026\]), die sich von zwei bis zu mehreren hundert Stellen ausdehnen können. Der Sachschlüssel zur Geographie S1R etwa hat 918 Positionen. Die einzelnen Schlüsselpositionen reichen von einer Ziffer (z.B. G1D Regionalschlüssel zur Pädagogik) bis zu drei Ziffern (z.B. Sachschlüssel zur Geographie S1R). Bei den Schlüsseln handelt es sich um numerische Schlüssel, die rein additiv gebraucht werden, d.h. die Ziffern ihrer Stellen werden zu den Ziffern der betreffenden Notation, der Grundnotation oder Grundposition, dazugerechnet. In der RVK-Online sind diese Schlüssel ausgerechnet, d.h. die Ziffern wurden zu den Ziffern der betreffenden Grundnotationen addiert. \[…\]
+>
+> Die Bandbreite an Schlüsseln reicht von sachlichen und geographischen Schlüsseln, Epochen-, Autoren- und Formalschlüsseln bis zu Schlüsseln, die den Dokumenttyp beschreiben.   
+>
+> Indem man an die Grundnotation HL 2080 für Bronte, Emily die sechs Ziffern des Schlüssels P5H hinzuaddiert, kommen beispielsweise sechs Notationen für die Autorin Emily Brontë zustande: HL 2080 Gesamtausgaben, HL 2081 Teilsammlungen, HL 2082 Briefe, HL 2083 Einzelausgaben, HL 2084 Übersetzungen von Einzelwerken, HL 2085 Sekundärliteratur."
+>
+> *Häusler/Werr 2018:133f*
+
+* Schlüssel sind **festgelegte "Sets" von Systemstellen**, die zu Notationsnummern hinzuaddiert werden, um einen bestimmten inhaltlichen Aspekt immer gleich strukturiert abzubilden
+* es gibt ganz **verschiedene Schlüssel**: geographisch, zeitlich, für Autor:innen, für formale Aspekte wie den Medientyp, zur alphabetischen Sortierung u.a.m.
+* die **Vorteile** der Nutzung von Schlüsseln:
+  * die strukturierte Benennung wiederkehrender Sachverhalte
+  * die Arbeitsvereinfachung z.B. bei Korrekturen
+* die **Nachteile**:
+  * die Festlegung u.U. vieler Stellen, die dann ggf. für andere Themen nicht mehr zur Verfügung stehen
+  * es können Notationen entstehen, die ohne „Sinn“ sind, wie z.B. "Buchhandel und Verlagswesen in der Arktis" (AN 47999)
+* **wo findet man die Schlüsselübersichten?** – wie oben schon erwähnt: in der RVK Druck  
+  * die PDF-Dateien der einzelnen Teilsystematiken enthalten nach der Liste der Notationen jeweils eine Übersicht über sämtliche "Schlüssel", die in dieser Systematik verwendet werden
+  * bei den Notationen wird durch ein Pluszeichen und den Schlüsselnamen angegeben, dass der jeweilige Schlüssel Anwendung findet, z.B. WB 1110+Z2S
+  * aus Platzgründen ist der Schlüssel hier nicht "durchdekliniert", aber die Schlüsselangabe ist mit der Schlüsselliste in der Datei verlinkt
+* **in der RVK Online** sind die Schlüssel bereits vollständig eingetragen, und damit werden sie zu einem festen Bestandteil der Notationsbereiche, auf die sie angewendet werden: daher sind sie oft gar nicht als Schlüssel erkennbar  
+  * → in der praktischen Arbeit mit der RVK Online muss man also nicht weiter über Schlüssel nachdenken, aber man sollte wissen, dass es sie gibt und wie sie funktionieren
+
+
+*Hier folgen noch Beispiele für Schlüssel.*
 
 *************************************************************************************************************
 
