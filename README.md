@@ -1,4 +1,5 @@
-!--
+<!--
+
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
 version:  0.1
@@ -6,7 +7,7 @@ version:  0.1
 logo:     https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
 
 language: de
-narrator: Deutsch Female
+narrator: German Female
 
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
 tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, RVK, Tutorial
@@ -26,7 +27,8 @@ translate: off
 {{|>}}
 *************************************************************************************************************
 
-> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! | Stand 16.10.2026 (Abschnitte bis "Was hat es mit den Schlüssel auf sich?" umgesetzt)
+> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
+> Stand 16.10.2026 (Abschnitte bis 'Was hat es mit den Schlüssel auf sich?' umgesetzt)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
