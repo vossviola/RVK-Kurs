@@ -28,7 +28,7 @@ translate: off
 *************************************************************************************************************
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 16.10.2026 (Abschnitte bis 'Was hat es mit den Schlüssel auf sich?' umgesetzt)
+> Stand 19.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?' und 'Das Portal "RVK Online"'
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -595,45 +595,58 @@ Warum die RVK nutzen und nicht z.B. die DDC oder eine Haussystematik?
 {{|>}}
 *************************************************************************************************************
 
-**"RVK" steht für ...**
+"RVK" steht für ...
+----------------------------------------------------
 - [( )] Regensburger Verbundkatalogisierung
 - [(X)] Regensburger Verbundklassifikation
 - [( )] Regensburger Versorgungskasse	
+
 	
-**Die RVK wurde entwickelt ...**
+Die RVK wurde entwickelt ...
+----------------------------------------------------
 - [( )] in den 1920er Jahren 
 - [(X)] in den 1960er Jahren
 - [( )] in den 1980er Jahren
 - [( )] in den 2000er Jahren
 - [( )] in den 2010er Jahren
 
-**Die Nutzung der RVK ist ...**
+
+Die Nutzung der RVK ist ...
+----------------------------------------------------
 - [(X)] kostenlos
 - [( )] kostenpflichtig
 
-**Änderungsvorschläge für die RVK werden eingearbeitet ...**
+
+Änderungsvorschläge für die RVK werden eingearbeitet ...
+----------------------------------------------------
 - [( )] jeweils in der Folgewoche
 - [( )] einmal im Monat
 - [(X)] einmal im Quartal
 - [( )] einmal im Jahr
 
-**Aus wie vielen Teilsystematiken besteht die RVK?**
+
+Aus wie vielen Teilsystematiken besteht die RVK?
+----------------------------------------------------
 - [( )] 10
 - [(X)] 34
 - [( )] 58
 - [( )] 124 
 
-**Richtig oder falsch?**
-Die RVK deckt als Universalklassifikation alle Wissenschaftsbereiche ab.
+
+Richtig oder falsch?
+----------------------------------------------------
+Die RVK deckt als Universalklassifikation alle Wissenschaftsbereiche ab. <br/>
 [[ (richtig) | falsch ]]
 
-Der Beirat der RVK entscheidet darüber, wer die RVK nutzen darf.
+Der Beirat der RVK entscheidet darüber, wer die RVK nutzen darf. <br/>
 [[ richtig | (falsch) ]]
 
-Bibliotheken, die über Änderungsvorschläge mit abstimmen wollen, müssen der RVK-Community offiziell beitreten.
+Bibliotheken, die über Änderungsvorschläge mit abstimmen wollen, müssen der RVK-Community offiziell beitreten. <br/>
 [[ (richtig) | falsch ]]
 
-**Ist Ihre Bibliothek eine "offizielle" RVK-Community-Bibliothek?**
+
+Ist Ihre Bibliothek eine "offizielle" RVK-Community-Bibliothek?
+----------------------------------------------------
 - [Finden Sie es heraus!](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46)
 
 
@@ -810,7 +823,17 @@ Suche nach Registerbegriffen
   * → in der praktischen Arbeit mit der RVK Online muss man also nicht weiter über Schlüssel nachdenken, aber man sollte wissen, dass es sie gibt und wie sie funktionieren
 
 
-*Hier folgen noch Beispiele für Schlüssel.*
+Beispiele für Schlüssel
+-----------------------
+
+| Schüsselart | Beispielschlüssel | Gliederung des Beispielschlüssels | Beispielnotation |
+| ------ | ----- | ----- | ----- |
+| **Autorenschlüssel**<br/>zur Gliederung von Primär- und Sekundärliteratur einer/eines Autorin/Autors bzw. über die/den Autor:in | Anglistik & Amerikanistik<br/>› P5H | 0 Gesamtausgaben<br/>1 Teilsammlungen<br/>2 Briefe<br/>3 Einzelausgaben<br/>4 Übersetzungen von Einzelwerken<br/>5 Sekundärliteratur | HL 2080 ![Beispiel-Schlüssel-Notation HL 2080](abbildungen/RVK-Kurs_Schluessel_HL2080_RVK-Online.png) |
+| **Epochenschlüssel**<br/>wenn ein chronologischer Gesichtspunkt ausgedrückt werden soll | Musikwissenschaft<br/>› Z1L | 0 allgemein<br/>1 Antike 2<br/>Frühchristentum, Mittelalter (-1400)<br/>3 Renaissance (1400-1600)<br/>4 Barock, Klassik (1600-1800)<br/>5 19\. Jahrhundert<br/>6 19\. und 20\. Jahrhundert<br/>7 20\. Jahrhundert<br/>8 21\. Jahrhundert | LP 12200 ![Beispiel-Schlüssel-Notation LP 12200](abbildungen/RVK-Kurs_Schluessel_LP12000_RVK-Online.png) |
+| **Formalschlüssel**<br/>Form eines Dokuments | Rechtswissenschaften<br/>› F1P | 0 Gesetzestexte, Materialien, Entwürfe, Reformliteratur<br/>1 Nachschlagewerke, Formularbücher, Tabellen<br/>2 Tagungs- und Kongressberichte, sonstige Sammelwerke (außer Festschriften)<br/>3 Studienhilfsmittel (z.B. Fall- und Klausursammlungen)<br/>4 Entscheidungssammlungen, Rechtsprechungsübersichten<br/>5 Kommentare<br/>6 Gesamtdarstellungen (z.B. Lehr- und Handbücher, Einführungen)<br/>7 Grundlagen und Methoden<br/>8 Komplexe Untersuchungen; Schriften, die mehrere Untergruppen betreffen; Einzeldarstellungen, soweit nicht im folgenden ausgegliedert | PD 8100 ![Beispiel-Schlüssel-Notation PD 8100](abbildungen/RVK-Kurs_Schluessel_PD8100_RVK-Online.png)   |
+| **Geographischer / Regional- / Länder-Schlüssel**<br/>zur geographischen sachlichen Ordnung | Pädagogik<br/>› G1D| 0 Allgemeines und Deutschland<br/>1 Deutschland (DDR) (1949-1990)<br/>2 USA und Kanada<br/>3 ehem. Sowjetunion, GUS, Russland<br/>4 Großbritannien<br/>5 Frankreich<br/>6 Schweiz<br/>7 Österreich<br/>8 Skandinavien<br/>9 Sonstige | DI 2000 ![Beispiel-Schlüssel-Notation DI 2000](abbildungen/RVK-Kurs_Schluessel_DI2000_RVK-Online.png) |
+| **Zahlenschlüsselung zur alphabetischen Ordnung**kann in allen Systematiken angewendet werden, wenn an der betreffenden Stelle genug Platz zur nächsten Stelle vorhanden ist (mindestens 29 Stellen) | Germanistik, Niederlandistik, Skandinavistik › Z2I | 00 a<br/>01 b<br/>02 c<br/>03 d<br/>04 e<br/>usw. | GC 2921 ![Beispiel-Schlüssel-Notation GC 2921](abbildungen/RVK-Kurs_Schluessel_GC2921_RVK-Online.png) |
+
 
 *************************************************************************************************************
 
@@ -819,7 +842,8 @@ Suche nach Registerbegriffen
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
+* GND: [**GND-Explorer**](https://explore.gnd.network/), [**lobid-gnd**](http://lobid-gnd)
 
 *************************************************************************************************************
 
@@ -828,7 +852,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)  
 
 *************************************************************************************************************
 
@@ -837,7 +861,115 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+Wie lauten die Benennungen der folgenden Notationen?
+----------------------------------------------------
+* AH <br/>
+  [[Wörterbücher]]
+* AN 54000 - AN 55800<br/>
+  [[Bibliothekspersonal]]
+* CC <br/>
+  [[ Systemische Philosophie | (Systematische Philosophie) | Logik]]
+* ER 450 <br/>
+  [[ (Nachschlagewerke, linguistische Wörterbücher \(Terminologie\)) | Kongressberichte, Sammelwerke (verschiedener Autoren) | Einzelne Perioden, Richtungen und Personen › 16.–18. Jahrhundert]]
+* QT 600< br/>
+  [[ Umweltökonomie | Fischerei, Meereswirtschaft | (Wasserreserven) ]]
+* VR 2050 <br/>
+  [[Arzneibücher (Pharmakopöen) anderer Länder | (Internationale Arzneibücher (Pharmakopöen)) | Amtliche Arzneibücher (Pharmakopöen) und ihre Kommentare und Ergänzungsbücher für Deutschland ]]
+
+
+Wie lauten die Notationen, die diese Benennungen tragen?
+----------------------------------------------------
+* Bromeliaceae (Ananasgewächse) <br/>
+  [[WL 9625]]
+* Fahrräder <br/>
+  [[ZO 4340]]
+* Flugsicherheit <br/>
+  [[ZO 7874]]
+* Insolvenzrecht <br/>
+  [[PU 3284]]
+* Onomasiologie (in der E-Systematik) <br/>
+  [[ET 415]]
+* Schokolade, Zuckerwaren <br/>
+  [[NW 6170]]
+
+
+Richtig oder falsch?
+--------------------
+* bei BF geht es um Fundamentaltheologie <br/>
+  [[ richtig | (falsch) ]]
+* die Notationengruppe CN beschäftigt sich mit Differentieller Psychologie <br/>
+  [[ richtig | (falsch) ]]
+* die Notation ID 2412 steht für den Sprachwandel im Französischen <br/>
+  [[ (richtig) | falsch ]]
+* die Geschichte der Musikpädagogik findet man unter anderem unter LW 56920 <br/>
+  [[ (richtig) | falsch ]]
+* um Papierforschung geht es in AM 36200 <br/>
+  [[ richtig | (falsch) ]]
+* Im Notationsbereich von ZY 9890 bis ZY 9899 geht es um Computerspiele und E-Sport <br/>
+  [[ (richtig) | falsch ]]  
+
+
+Welche Registerbegriffe sind diesen Notationen zugeordnet?
+--------------------
+* ZY 7610 - ZY 7619 Voltigieren <br/>
+  [[Voltigieren]]
+* WE 3300 Ribosomen <br/>
+  [[Ribosom]]
+* PF 308 Leiharbeit <br/>
+  [[Arbeitnehmerüberlassung]]
+* ET 425 Einzelprobleme der Bedeutungsentwicklung <br/>
+  [[Metapher]]
+* EO 2010 Sprachcharakteristik <br/>
+  [[Ägyptisch]]
+* CP 3800 Aggression, Frustration <br/>
+  [[Wut]]
+
+
+Wie viele Registerbegriffe sind diesen Notationen zugeordnet?
+--------------------
+*Tragen Sie die Antwort als Ziffern ein.*
+
+* FL 10000 Allgemeine Sammlungen <br/>
+  [[2]]
+* LW 56967 Hörerziehung, Werkhören, Gehörbildung im Unterricht <br/>
+  [[3]]
+* RR 73651 Teilgebiete und Einzelfragen <br/>
+  [[3]]
+* QF 020 Deutschland <br/>
+  [[4]]
+* WT 3832 Monotremata (Kloakentiere) Didelphia (Beuteltiere) <br/>
+  [[0]]
+* ZO 7025 Luftfahrtpersonal <br/>
+  [[9]]
+
+
+Wie heißt der Schlüssel F1B in der Theologie?
+--------------------
+- [( )] "Reihenfolge bei Textausgaben"
+- [( )] "Autorenschlüssel"
+- [( )] "Autorenschlüssel zur jiddischen Literatur"
+- [(X)] "Schlüssel zu Religionen der Menschheit"
+- [( )] "Schlüssel zur Territorialkirchengeschichte"
+- [( )] "Schlüssel zur Homiletik"
+- [( )] "Autorenschlüssel zu BW Evangelische Theologie"
+
+
+Wie viele Stellen hat der Autorenschlüssel P4H für Anglistik und Amerikanistik?
+--------------------
+- [( )] 1
+- [( )] 2
+- [( )] 3
+- [( )] 4
+- [(X)] 5
+- [( )] 6
+- [( )] 7
+
+
+Sie haben einen Tippfehler in einer Notationsbezeichnung oder in der Anmerkung zu einer Notation gefunden. Was tun Sie?
+--------------------
+- [( )] Ich Ignoriere ihn: Wird sich schon irgendwer drum kümmern.
+- [(X)] Ich melde ihn per "Kurzkommentar verschicken" formlos an die Kolleg:innen in der UB Regensburg, damit er verbessert werden kann.
+
 
 *************************************************************************************************************
 
