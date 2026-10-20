@@ -28,7 +28,7 @@ translate: off
 *************************************************************************************************************
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 19.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?' und 'Das Portal "RVK Online"'
+> Stand 20.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?', 'Das Portal "RVK Online"' und 'Notationen und Signaturen'
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -980,7 +980,16 @@ Sie haben einen Tippfehler in einer Notationsbezeichnung oder in der Anmerkung z
     {{|>}}
 *************************************************************************************************************
 
-xxx
+Zum Einstieg
+=============
+
+> [!NOTE] 📖
+> "Die Notationen in der RVK sind alphanumerisch aus zwei lateinischen Großbuchstaben für die Haupt- bzw. Untergruppe, einem Spatium und drei bis \[sechs\] arabischen Ziffern für die weiteren Untergliederungsebenen gebildet. \[…} <br/>
+> Mit der Notation erfolgt die sachliche Zuordnung eines Mediums. <br/>
+> Die meisten Anwender der RVK nutzen die Notationen neben der klassifikatorischen Erschließung zur Signaturbildung. Die Signatur wird durch Erweiterung der Notation gebildet. Jedes Medium erhält auf diese Weise eine Individualsignatur, die den Standort des Mediums innerhalb der Gesamtaufstellung eindeutig festlegt. <br/> 
+> Eine Signatur besteht aus dem Lokalkennzeichen, der Notation und individualisierenden Elementen".
+>
+> *Häusler/Werr 2018:132*
 
 
 *************************************************************************************************************
@@ -990,7 +999,93 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx 
+Notationen
+==========
+
+* eine Notation **repräsentiert eine Klasse oder Systemstelle in der Klassifikation**
+* in der RVK bilden die mit **Großbuchstaben** abgebildeten **Hauptgruppen** die erste Ordnungsebene der Systematik  
+  * Beispiele: D = Pädagogik, MA–ML = Politologie, MN–MS = Soziologie, MX–MZ = Militärwissenschaft
+* die **Untergruppen** stellen die zweite Ordnungseinheit der Systematik dar; sie grenzen die Hauptgruppe formal oder inhaltlich ein und werden durch eine **Buchstabenkombination** gekennzeichnet, die aus dem Hauptgruppenbuchstaben und einem weiteren Großbuchstaben besteht
+  * die Aufteilung und die inhaltliche Zuordnung der Untergruppenbuchstaben hängen vom jeweiligen Fachgebiet und den verfügbaren Buchstaben ab; nur A wird stets für Zeitschriften verwendet
+  * Beispiel: <br/>
+    V = Chemie und Pharmazie (Hauptgruppe) <br/>
+    VE = Physikalische und theoretische Chemie (Untergruppe) <br/>
+    VT = Pharmakologie und Toxikologie (Untergruppe) 
+* zur weiteren Gliederung der Untergruppen in **Feingruppen** werden **drei- bis sechsstellige Zahlenreihen** gebildet, je nachdem wie viele Feingruppen innerhalb einer Untergruppe vorkommen sollen
+  * Beispiel: <br/>
+    X–Y = Medizin (Hauptgruppe) <br/>
+    XE = Hygiene (Untergruppe) <br/>
+    XE 5700 = Tropenmedizin, Allgemeines (Feingruppe) <br/>
+    XE 6100 = Arbeitshygiene (Feingruppe) <br/>
+
+
+Signaturen
+==========
+
+* Signaturen haben die **Funktion**, den **Standort eines Buches oder eines anderen Mediums innerhalb der Gesamtaufstellung eindeutig festzulegen**
+* sie müssen deshalb für jede bibliographische Einheit verschieden sein, d. h. jeder Band muss eine **Individualsignatur** tragen, die ihn von allen anderen Bänden unterscheidet
+* wenn man die RVK zur Aufstellung von Medien verwenden will, bedeutet das: zur inhaltlichen Notation müssen noch Elemente hinzukommen, die sich auf das jeweils vorliegende Werk beziehen
+* neben der eindeutigen Identifikation eines Bandes wird dann auch eine alphabetische oder chronologische Ordnung innerhalb der Systemstelle der Notation erreicht
+* die **Grundprinzipien zur Signaturenvergabe**:  
+  * jedes Medium erhält nur eine Signatur
+  * das wichtigste Prinzip: die Signatur soll eindeutig sein
+  * das zweitwichtigste: die Signatur soll so kurz wie möglich sein
+  * verwendet werden
+    * lateinische Großbuchstaben
+    * arabische Ziffern
+    * einige festgelegte Interpunktionszeichen
+* eine RVK-Signatur besteht in der Regel aus **drei Teilen**:
+  * einem **Lokalkennzeichen** (kurz LKZ), das den Standort der Aufstellung des Mediums angibt, z.B. eine (Teil-)Bibliothek › wird von den Bibliotheken ortsspezifisch festgelegt
+    * es bezeichnet den Ort der Aufstellung bzw. die Zugänglichkeit eines Buches
+    * das Lokalkennzeichen kann ggf. auch Hinweise zum Medientyp oder zur Ausleihbarkeit geben
+    * Lokalkennzeichen bestehen aus 1–3 Ziffern oder Buchstaben
+  * der systematischen, also "inhaltlichen" **Notation** › wird der RVK Online entnommen
+  * der **Individualisierung** für den spezifischen Band › wird selbst erstellt oder aus Fremddaten übernommen
+
+Beispiele für RVK-Signaturen
+-----------------------------
+
+| **Lokalkennzeichen (LKZ)** | **Notation** | **Individualisierung** |
+|------- | ------------ | ---------------------- |
+| 00      | 500 GC 1015  | E71                    |
+| 500     | EC 1879      | W846 S452              |
+| 61      | ER 745       | D853(3)                |
+| KC      | GE 4001      | B724(9)-2+3            |
+
+
+![Beispiel für eine RVK-Signatur und ihre drei Teile im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Signatur_Beispiel_UB-Regensburg.png "Beispiel für eine RVK-Signatur und ihre drei Teile im Katalog der UB Regensburg")
+
+Lokalkennzeichen
+----------------
+
+* die **Lokalkennzeichen** bestehen meistens aus Zahlen, manchmal auch aus Buchstaben  
+  * man kann auch auf das Lokalkennzeichen verzichten, wenn es z.B. nur einen Bibliotheksstandort gibt oder nur eine Bibliothek von mehreren einer Einrichtung die RVK zur Aufstellung nutzt
+  ![Beispiel für eine RVK-Signatur im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Regensburg.png) ![Beispiel für eine RVK-Signatur im Katalog der UB Greifswald](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Greifwald.png) ![Beispiel für eine RVK-Signatur im Katalog der ULB Münster](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Muenster.png)
+  *61, 620, KC: Beispiele für Lokalkennzeichen in den Uni-Bibliotheken Regensburg, Greifswald und Münster*
+
+Individualisierender Teil
+--------------------------
+
+* der **individualisierende Teil** umfasst mehrere Elemente  
+  * Kürzel für Urheber:innen, also z.B. Verfasser:in oder Herausgeber:in
+  * ggf. Kürzel für den Titel des Werkes
+  * Angaben zu Auflage, Band, Exemplar
+* die **Kürzel für Urheber:innen und für Titel** werden nach dem "Cutter-Verfahren" gebildet – dazu mehr im folgenden Abschnitt
+
+![Beispiel für ein "einfaches" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_1.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_farbkodiert_1.png)
+*Beispiel für ein "einfaches" Buch in unterschiedlichen Darstellungen*
+
+![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_2.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_farbkodiert_2.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_3.png)
+*Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen*
+
+
+> [!NOTE]
+> Die einzelnen thematischen Systemstellen bzw. Klassen der RVK, die zur Einordnung von Medien verwendet werden, werden mit **Notationen** gekennzeichnet. <br/> 
+> → Beispiel: ET 410 Historische Semantik
+> 
+> Die einzelnen Medien erhalten für ihre Aufstellung im Regal eine **Signatur**, die aus der Notation und einigen anderen Bestandteilen besteht.  <br/>
+> → Beispiel: KC/ET 410 S839 als Signatur für das Buch„Meaning and change of meaning“ von Gustaf Stern in der Bibliothek des Germanistischen Institutes im Vom-Stein-Haus der Universität Münster
+
 
 *************************************************************************************************************
 
@@ -999,7 +1094,30 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx 
+* die Grundidee des "Cutterns" ist eine feingliedrige alphabetische Ordnung von Titeln oder Namen
+* die Kürzel, die dazu verwendet werden, werden nach ihren "Erfinder:innen", Charles Ammi Cutter und Kate Emery Sanborn, Cutter-Sanborn-Nummern, Cutter-Nummern oder kurz einfach nur "Cutter" oder "CSN" genannt
+* das Prinzip: das jeweilige Ordnungswort – ein Name oder ein Werktitel – werden durch eine Buchstaben-Ziffern-Kombination verschlüsselt: sie besteht aus dem ersten Buchstaben des Ordnungswortes und einer ohne Leerstelle angeschlossenen ein- bis dreistelligen Zahl
+* die Zahl basiert auf einer Tabelle, die Charles Cutter und Kate Emery Sanborn in den 1960ern entwickelt haben
+
+![Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976")
+
+* heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de)
+* die "Verschlüsselung" des Ordnungswortes, also die Auswahl der CSN, wird "cuttern" oder "vercuttern" genannt
+* Beispiele:  
+  * Aristoteles = A717, Mustermannn = M991, Schmidt, Andreas = S349, Schmidt, Martin = S353, Waalkes = W111
+  * Eichhörnchen = E34, Einführung = E35, Handbuch = H236, Introduction = I61, Linguistics = L755, Süßwarenindustrie = S944
+
+![das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png) ![das "CutterJo"-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png)  
+*das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt und integriert im Portal RVK-Online*
+
+* für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
+* es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
+* weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
+* warum macht man sich die Arbeit mit dem Cuttern und nimmt nicht einfach Numerus Currens für die Aufstellung der Medien?  
+  * durch die Verwendung von CSNs erhält eine Notation eine alphabetische "Binnengliederung" nach den Urheber:innen der Werke oder, z.B. in Primärliteratur-Klassen, nach den Werktiteln
+  * damit stehen dann alle Werke eines/einer Verfasser:in oder Herausggeber:in zu einem Thema nebeneinander, und wenn es mehrere Ausgabe oder Übersetzungen gibt, stehen auch die beisammen
+  * bei Bedarf kann man mit "Vorcuttern" auch formale oder thematische Gruppen innerhalb einer Klasse bilden
+  * all diese nützlichen Gliederungen stehen nicht zur Verfügung, wenn man Numerus Currens nutzt
 
 *************************************************************************************************************
 
@@ -1008,7 +1126,25 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx 
+* im Normalfall genügt es, die/den **Verfasser:in / Herausgeber:in / Urheber:in** zu cuttern:  
+  * Beispiel: KC/GB 2944 M946 = Hans-Georg Müller, "DeutschGPT – Deutschunterricht im Dialog mit Künstlicher Intelligenz"
+* wenn aber jemand mehrere Bücher zu einem Thema (= in einer RVK-Klasse) geschrieben hat, wird zur Unterscheidung der Bücher ein Cutter für den **Titel der Werkes** ergänzt  
+  * der Titel-Cutter kann auf zwei oder eine Zahl gekürzt werden, wenn das zur Unterscheidung mehrerer Werke einer Autorin oder eines Autors genügt; man spricht dann von einem "Kurz-Cutter"
+  * sollte die Autorin bzw. der Autor mehrere Bücher mit dem gleichen Titelanfang geschrieben haben, werden sie über unterschiedliche lange Titel-Cutter unterschieden
+  * Beispiele:  
+    * KC/GB 2946 B527 = *Bernhardt*, Sebastian (Hrsg.): Literatur in Lehrwerken für den Deutschunterricht
+    * KC/GB 2946 B527 U6 = *Bernhardt*, Sebastian (Hrsg.): *Unterrichtshilfen* für den Literaturunterricht
+    * KC/GB 2976 B527 = *Bernhardt*, Sebastian (Hrsg.): Interpretation - Literaturdidaktische Perspektiven
+    * KC/GB 2978 B527 = *Bernhardt*, Sebastian (Hrsg.): Frühkindliches Spiel und literarische Rezeption: Perspektiven der Kindheitspädagogik und der Literaturdidaktik
+    * KC/GB 2978 B527 E7 = *Bernhardt*, Sebastian (Hrsg.): *Erzähltheorie(n)* und Literaturunterricht: Verhandlungen eines schwierigen Verhältnisses
+    * KC/GB 2978 B527 L7 = *Bernhardt*, Sebastian (Hrsg.): *Literarästhetisches* Lernen im Ausstellungsraum: Literaturausstellungen als außerschulische Lernorte für den Literaturunterricht
+    * KC/GB 2978 B527 L77 = *Bernhardt*, Sebastian (Hrsg.):* Literaturausstellungen* und Vermittlung: transdisziplinäre Perspektiven
+    * KC/GB 2978 B527 L776 = *Bernhardt*, Sebastian (Hrsg.): *Literarästhetisches* Lernen außerhalb des Klassenzimmers: Interdisziplinäre Perspektiven
+    * KC/GB 2978 B527 L776 P9 = *Bernhardt*, Sebastian (Hrsg.): *Literaturunterricht* in der *Primarstufe* zwischen Themenorientierung und Ästhetik
+    * KC/GB 2978 B527 L776 S4 = *Bernhardt*, Sebastian (Hrsg.): *Literaturunterricht* in den *Sekundarstufen* zwischen Themenorientierung und Ästhetik
+    * KC/GB 2978 B527 U6 = *Bernhardt*, Sebastian (Hrsg.): *Unzuverlässiges* Erzählen in Literatur und Medien: didaktische Perspektiven
+* weiterführende Informationen zur Auswahl der zu cutternden Ordnungswörter und Spezialfälle gibts im Kapitel "RVK zur Aufstellung von Medien"
+
 
 *************************************************************************************************************
 
@@ -1017,7 +1153,62 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx 
+
+Da ja jedes Werk seine ganz eigene Signatur bekommen soll, werden formale Aspekte zur Individualisierung der Signatur genutzt.
+
+Bandzählung
+-----------
+
+* die Zählung von Bänden (oder auch Abteilungen oder ähnlichen Untergliederungen) wird mit Bindestrich ohne Leerzeichen an den Urheber- oder Titel-Cutter angefügt
+* es können bis zu zwei weitere untergeordnete Zählungen z.B. für Teilbände, mit Komma angehängt werden
+* Beispiele  
+  * 12/ER 450 H535-2 = Band 2 eines mehrbändigen Werkes
+  * 12/ES 940 E57-1,1 = vom Band 1 eines mehrbändigen Werkes der Teilband 1
+
+Auflagenbezeichnung
+-------------------
+
+* die Auflagenbezeichnung wird – außer bei der ersten Auflage – ohne Leerzeichen in runden Klammern angefügt
+* Zusätze wie „erweiterte“, „neubearb.“ usw. entfallen
+* Beispiele  
+  * 61/HF 350 C991(2) = 2\. Aufl.
+  * 61/HF 350 C991(3) = 3\. Aufl.
+  * 61/FH 15900 V878-2(5) = Bd. 2, 5\. Aufl.
+* bei mehrbändigen Werken mit verschiedener Auflage der Einzelbände kann die Auflagenbezeichnung vor oder nach der Bandzählung stehen, je nachdem, ob die Bände oder die vollständigen Auflagen nebeneinanderstehen sollen  
+  * 00/GE 4001 F879(25)-5 = 25\. Aufl. eines mehrbändigen Werkes, Band 5 – die vollständigen Auflagen stehen nebeneinander im Regal
+  * 00/AH 11000 D845-2(8) = 2\. Band eines mehrbändigen Werkes, 8\. Auflage – die einzelnen Bände stehen in ihren unterschiedlichen Auflagen nebeneinander im Regal
+
+Mehrfachexemplare
+-----------------
+
+* Mehrfachexemplare am gleichen Standort werden durch +2, +3 usw. (ohne Leerstelle) bezeichnet
+* Mehrfachexemplare an verschiedenen Standorten sind bereits durch die Lokalkennzeichen hinlänglich unterschieden
+* Beispiele  
+  * 11/GW 2230 H634+2 = 2\. Exemplar
+  * 11/GF 5101 L138-2(6)+5 = 5\. Exemplar der 6\. Auflage des 2\. Bandes
+
+Übersetzungen
+-------------
+
+* bei Übersetzungen wird der Originaltitel des Werkes als Ordnungswort verwendet, an dessen CSN dann ein Großbuchstabe für die Sprache der Übersetzung angehängt wird
+* Beispiele  
+  * 50/EC 3765 L192 M587 = George Lakoff:: "Metaphors we live by", engl. Original
+  * 50/EC 3765 L192 M587D = George Lakoff: "Leben in Metaphern", dt. Übersetzung von "Metaphors we live by" (und nicht L442)
+  * 50/IH 91900 G279 J43 = Anna Gavalda: „Je voudrais que quelqu’un m’attende quelque part”, frz. Original
+  * 50/IH 91900 G279 J43D = Anna Gavalda: „Ich wünsche mir, dass irgendwo jemand auf mich wartet“, dt. Übersetzung von „Je voudrais que quelqu’un m’attende quelque part“ (und nicht I16)
+  * 50/GN 9999 S295 S399 = Frank Schätzing, „Der Schwarm“, dt. Original
+  * 50/GN 9999 S295 S399E = Frank Schätzing, „The Swarm“, engl. Übersetzung von „Der Schwarm“ (und nicht S973)
+
+Weiterführende Informationen zu diesen Signaturenbestandteilen gibts im Kapitel "RVK zur Aufstellung von Medien".
+
+> [!NOTE] 📖
+> "Wird die RVK zur Sacherschließung genutzt, werden die systematischen Notationen auf Verbundebene mit den Titeldatensätzen der Medien verknüpft. Wird die RVK zusätzlich zur systematischen Aufstellung der Medien genutzt, wird auf Lokalebene mit Hilfe der Notation für jedes Medium eine Individualsignatur gebildet.
+>
+> Die Individualsignatur besteht in der Regel aus drei Teilen: dem Lokal-oder Standortkennzeichen, der RVK-Notation und einem oder mehreren individualisierenden Elementen. Das Lokalkennzeichen (LKZ) bestimmt den Aufstellungsort oder die Zugänglichkeit des Mediums, gelegentlich auch den Medientyp. Es kann aus Ziffern oder anderen Zeichen bestehen. Die RVK-Notation bestimmt die sachliche Einordnung des Mediums. Die RVK-Notationen bestehen immer aus zwei lateinischen Großbuchstaben, einem Spatium und einer Zahlenfolge von 3 bis 5 arabischen Ziffern. Der erste Großbuchstabe bezeichnet i. d. R. die erste Ordnungsebene oder die Hauptgruppe der 34 Fachsystematiken der RVK \[…\]. Der zweite Großbuchstabe kennzeichnet die zweite Ordnungsebene oder die Untergruppe. Zur weiteren Untergliederung werden drei-bis fünfstellige Zahlenfolgen genutzt \[Anmerkung: es gibt auch sechststellige}. Jede Notation hat eine Benennung, z. B. hat die Notation NS 3105 aus der Fachsystematik Geschichte die Benennung „Regensburg“ oder die Notation HE 360 aus der Fachsystematik Anglistik, Amerikanistik die Benennung „Psycholinguistik, Soziolinguistik“. Auf die RVK-Notation folgen individualisierende Elemente zur weiteren Tiefenerschließung, wie die Schlüsselung des Verfassernamens oder Herausgebers. \[…\].   
+> 
+> Weitere Gliederungselemente wie das Erscheinungsjahr (mit Punkt zwei-, drei-oder vierstellig an die Notation gehängt .2025), die Auflagenbezeichnung (in runder Klammer angehängt (4)), die Bandzählung (mit Bindestrich verbunden -2) oder die Nummer von Mehrfachexemplaren (durch Pluszeichen verbunden +5) können, wenn erforderlich, zur weiteren Gliederung angehängt werden. Beispielsweise handelt es sich bei der Signatur 00 NS 3105 B344-2 um den zweiten Band einer Geschichte der Stadt Regensburg von Karl Bauer, der im Magazin (LKZ 00) steht."
+> 
+> *Gantert 2026:237–240*
 
 *************************************************************************************************************
 
@@ -1027,7 +1218,8 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* [RVK Online](https://rvk.uni-regensburg.de/)
+* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) an der UB Eichstätt-Ingolstadt
 
 *************************************************************************************************************
 
@@ -1036,7 +1228,8 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* **Regeln für die Signaturenvergabe an der UB Regensburg** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* Cutter, Charles Ammi / Sanborn, Kate E. (1976): **Cutter-Sanborn three-figure author table**. Swanson-Swift rev., 3\. print. Englewood, Colorado: Libraries Unlimited.
 
 *************************************************************************************************************
 
@@ -1045,7 +1238,130 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Was hiervon sind RVK-Notationen, was nicht?
+-------------------------------------------
+* CN 1500 <br/>
+  [[ (richtig) | falsch ]]
+* CN 1550 <br/>
+  [[ richtig | (falsch) ]]
+* IJ 20007 <br/>
+  [[ (richtig) | falsch ]]
+* MS VP 2001 <br/>
+  [[ richtig | (falsch) ]]
+* QP 348g <br/>
+  [[ richtig | (falsch) ]]
+* ZB 28000 <br/>
+  [[ (richtig) | falsch ]]
+
+
+
+Was hiervon ist Notation, was ist Signatur? 
+-------------------------------------------
+* UL 3100 <br/>
+  [[ (Notation) | Signatur | weder noch ]]
+* 84 UX 3000 E22-2 <br/>
+  [[ Notation | (Signatur) | weder noch ]]
+* 500 ET 350 H445 <br/>
+  [[ Notation | (Signatur) | weder noch ]]
+* 83 24040 <br/>
+  [[ Notation | Signatur | (weder noch) ]]
+* QP 320 <br/>
+  [[ (Notation) | Signatur | weder noch ]]
+* AZ XY <br/>
+  [[ Notation | Signatur | (weder noch) ]]
+
+
+
+Ordnen Sie für die Signatur „100/DW 1500 H468“ die Bezeichnungen den richtigen Elementen zu.
+-------------------------------------------
+
+- [[100]	[D]	[DW]	[DW 1500]	[H468]]
+- [( )	( )	( )		(X)			( )]  Klasse "Soziologische, bildungspolitische und rechtliche Fragen u. dgl. › Allgemeines und Deutschland"
+- [( )	(X)	( )		( )			( )]  Hauptgruppe "Pädagogik"
+- [(X)	( )	( )		( )			( )]  Lokalkennzeichen
+- [( )	( )	(X)		( )			( )]  Feingruppe "Erwachsenenbildung und Jugendbildung"
+- [( )	( )	( )		( )			(X)]  Autor:in/Herausgeber:in
+
+
+
+Ordnen Sie die Namen und Titel ihren richtigen Cuttern zu.
+-------------------------------------------
+
+*Ziehen Sie einen Cutter auf das Feld mit dem Plus-Zeichen.*
+
+Janosch
+[->[B646 | H230 | H236 | H933 | J25 | ( J34 ) | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+
+Mileva Marić
+[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | ( M333 ) | M334 | M468 | S367 | S369 ]]
+
+Albrecht Mayer
+[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | ( M468 ) | S367 | S369 ]]
+
+Die Blechtrommel
+[->[ ( B646 ) | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+
+Roman Ossipowitsch Jakobson
+[->[B646 | H230 | H236 | H933 | ( J25 ) | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+
+Hunde in der Sprachtherapie einsetzen: Ein Praxisbuch
+[->[B646 | H230 | H236 | ( H933 ) | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+
+Jürgen Macha
+[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | ( M149 ) | M333 | M334 | M468 | S367 | S369 ]]
+
+Schokolade in der Kunst
+[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | ( S367 ) | S369 ]]
+
+Handball '72 \[zweiundsiebzig\]
+[->[B646 | H230 | ( H236 ) | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+
+Jennifer M. Schomaker
+[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | ( S369 ) ]]
+
+
+
+Wie lauten die CSNs für diese Namen und Titel?
+-------------------------------------------
+
+* Irmgard Keun <br/>
+  [[K43]]
+* Myriam Keil <br/>
+  [[K27]]
+* Oh, wie schön ist Panama <br/>
+  [[O36]]
+* Onomasiologie und Semasiologie der Preißelbeere <br/>
+  [[O58]]
+* Post für den Tiger <br/>
+  [[P857]]
+* Postmigration <br/>
+  [[P858]]
+
+
+
+Ordnen Sie diese individualisierenden Signaturen-Bestandteile den richtigen Fällen zu.
+-------------------------------------------
+
+*Teil 1*
+
+- [[O58-4]	[S367+3]	[L755(4)]	[C545D]	]
+- [( )		( )			( )			( )]  erste Auflage
+- [( )		( )			(X)			( )]  vierte Auflage
+- [( )		(X)			( )			( )]  drittes Exemplar
+- [( )		( )			( )			( )]  dritte Auflage, viertes Exemplar
+- [( )		( )			( )			(X)]  deutsche Übersetzung
+- [(X)		( )			( )			( )]  Band 4 eines mehrbändigen Werkes
+
+*Teil 2*
+
+- [[S379-5.2]	[T222E]	[Z99-3(3)]	[W423-5(2)+2]]
+- [( )			(X)		( )			( )]  englische Übersetzung
+- [( )			( )		( )			( )]  koreanische Übersetzung
+- [( )			( )		(x)			( )]  Band drei, dritte Auflage
+- [(X)			( )		( )			( )]  Teilband 5,2 eines mehrbändigen Werkes
+- [( )			( )		( )			( )]  zweites Exemplar der fünften Auflage des zweiten Bandes
+- [( )			( )		( )			(X)]  zweites Exemplar der zweiten Auflage des fünften Bandes
+
 
 
 *************************************************************************************************************
