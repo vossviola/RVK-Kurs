@@ -4,17 +4,17 @@ author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
 version:  0.1
 
-logo:     https://www.ulb.uni-muenster.de/imperia/md/images/ulb2/_v/logo.svg
+logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
+icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 
 language: de
 narrator: German Female
 
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
-tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, RVK, Tutorial
+tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, Regensburger Verbundklassifikation, RVK, Tutorial
 
 classroom: false
 classroom: disable
-translate: off
 
 -->
 
@@ -118,232 +118,6 @@ Kontakt & Feedback
 
 
 *************************************************************************************************************
-
-## temp: Formatierungs-Notizen
-
-{{|>}}
-*************************************************************************************************************
-
-Infokästen
-======================================
-
-> [!NOTE]
-> ...
-
-> [!NOTE] 📝 Dran denken!
-> ...
-
-> [!TIP]
-> ...
-
-> [!IMPORTANT]
-> ...
-
-> [!WARNING]
-> ...
-
-> [!CAUTION]
-> ...
-
-
-Zitatkästen
-======================================
-
-> “Live as if you were to die tomorrow.
-> Learn as if you were to live forever.”
->
-> -- Mahatma Gandhi
-
-
-
-*************************************************************************************************************
-
-## temp: Übungsaufgaben Übersicht
-
-{{|>}}
-*************************************************************************************************************
-
-Texteingabe
-======================================
-
-Eine Texteingabe ist im Grunde nur ein auf eine Frage folgendes Eingabefeld, bei dem geprüft wird, ob der eingegebene Text mit einer Lösung übereinstimmt.
-Der Button mit dem Haken zeigt die Lösung an und setzt die Übung auf "bearbeitet" (für die Dauer der Browser-Sitzung).
-
-Wie heißt der Hund von Asterix?
-
-    [[Idefix]]
-
-
-*Variante ohne "Zeig mir die Lösung"-Button*
-
-Wie heißt der Freund von Asterix? 
-
-    <!-- data-solution-button="off" -->
-    [[Obelix]]
-
-
-*Variante mit "der Zeig-mir-die-Lösung-Button wird erst nach zwei Fehlversuchen angezeigt"*
-
-Wie heißt der Freund von Asterix? 
-
-    <!-- data-solution-button="2" -->
-    [[Obelix]]
-
-
-*Variante mit Lösungshinweis* (solange der Hinweis-Button nach einem Klick farbig bleibt, gibt es noch einen weiteren Hinweis)
-
-Wie heißt der Freund von Asterix? 
-
-    [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint.
-    [[?]] Und auch nicht der Druide.
-
-
-*Variante mit "der Lösungshinweis wird erst nach zwei Fehlversuchen angezeigt"*
-
-Wie heißt der Freund von Asterix? 
-
-    <!-- data-hint-button="2" -->
-    [[Obelix]]
-    [[?]] Hier ist nicht der Hund gemeint.
-    [[?]] Und auch nicht der Druide.
-    
-
-
-Single Choice
-======================================
-
-Es gibt eine richtige Lösung.
-
-    [( )] Option falsch 1
-    [(X)] <-- **Die richtige Antwort**
-    [( )] Option falsch 2
-
-
-*Variante mit Kommentar der richtigen Lösung*
-*(macht aber nicht so richtig Sinn, weil es auch immer einen automatischen richtig/falsch-Hinweis gibt)*
-
-What is 37 + 15?
-
-    [[52]]
-    [[?]] the solution is larger than 50
-    [[?]] it is less than 55
-    [[?]] it should be an even number
-***********************************************************************
-52 is the correct solution, because ...
-***********************************************************************
-
-
-*damit kann man dann auch Richtig-Falsch-Fragen erstellen*
-
-Heißt der Hund von Asterix Fido?
-
-    [( )] ja
-    [(X)] nein
-
-    
-Die RVK wurde in Regensburg erfunden.
-
-    [(X)] richtig
-    [( )] falsch
-
-
-
-Multiple Choice
-======================================
-
-Es werden mehrere Lösungsmöglichkeiten vorgegeben, von denen auch mehrere auswählbar sind. 
-
-    [[X]] **<-- richtig**
-    [[ ]] falsch
-    [[ ]] **<-- richtig**
-    [[X]] falsch
-
-
-
-Matrix
-======================================
-
-Which of these are tools to organize your data analysis?
-
-- [[Tools for data analysis] (Not a tool for data analysis)]
-- [           (X)                         ( )              ]  Jupyter
-- [           (X)                         ( )              ]  Binder
-- [           ( )                         (X)              ]  Saturn
-- [           ( )                         (X)              ]  Boa
-
-
-*Variante mit Limitierung auf drei Versuche, dann wird aufgelöst*:
-
-Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
-
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [[Generic]    [Subject-specific]]
-- [    (X)             ( )      ]  Zenodo  
-- [    (X)             ( )      ]  figshare  
-- [    ( )             (X)      ]  PANGAEA
-- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
-
-
-Man kan auch Single und Multi Choice in einer Matrix kombinieren:
-
-    [ [head1] [ ;-) ] [ Option3 ] ]
-    [   ( )     ( )       (X)     ]  <-- Single Choice
-    [   [ ]     [X]       [X]     ]  <-- Multiple Choice
-
-
-
-Begriffe zueinandersortieren
-======================================
-  
-Assign the terms to the FAIR principles.
-
-| Definition      | Term |
-| ----------- | ----------- |
-| [[ Findable | Accessible | Interoperable | (Reusable) ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | (License) | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ (Persistent Identifier (PID)) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ (Findable) | Accessible | Interoperable | Reusable ]]      | [[ Persistent Identifier (PID) | (Data is described with rich metadata) | License | Metadata is accessible, even if data is (no longer) available or accessible | Use a metadata standard to describe your data ]]|
-| [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
-| [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent Identifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
-
-
-Begriffe in eine Reihenfolge bringen
-======================================
-
-What is the correct order of a species name?
-
-[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
-***
-Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
-
-The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
-***
-
-
-
-Lückentext
-======================================
-
-mit Auswahl der gesuchten Wörter aus einer Dropdown-Liste
----------------------------------------------------------
-
-Dies ist ein Beipielsatz, bei dem hier [[ Wort 4 | Wort 2 | Wort 3 | (Wort 1) ]] ausgewählt werden muss, hier [[ Wort 3 | Wort 1 | Wort 4 | (Wort 2) ]], dann hier [[ Wort 1 | Wort 2 | (Wort 3) | Wort 4 ]] und zum Schluss hier [[ Wort 1 | Wort 2 | Wort 3 | (Wort 4) ]].
-
-
-mit Eintragen der gesuchten Wörter
------------------------------------
-
-I (learn) [[  have been learning  ]] English for seven years now. But last year I (not / work) [[ was not working ]] hard enough for English, that's why my marks (not / be) [[ were not ]] really that good then. 
-As I (pass / want) [[ want to pass ]] my English exam successfully next year, I (study) [[ am going to study ]] harder this term.
-
-
-kombiniert
------------------------------------
-Asterix und  [[  Obelix  ]] wohnen in [[ Westfalen | Tirol | (Fallien) ]]. [[ Ihre Katze | (Ihr Hund) ]] hei0t [[ Idefix ]].
-
-
-*************************************************************************************************************
-
 
 # RVK – was ist das?
 
@@ -1607,7 +1381,7 @@ Wie können Sie über mehrere Unterklassen suchen?
 {{|>}}
 *************************************************************************************************************
 
-* **Notation(en) finden** – siehe dazu das vorhergehende Kapitel
+* **Notation(en) finden** – siehe dazu das vorhergehende Kapitel "RVK zur Recherche von Medien"
 * **bei mehreren passenden Notationen: eine Notation festlegen für die Aufstellung**
   * es gibt dabei kein "richtig" oder "falsch": jede Bibliothek darf die RVK anwenden, wie sie möchte
   * gerade bei Doppelstellen kommt es darauf an, in was für einer Bibliothek der Bestand "wohnt"
