@@ -10,6 +10,8 @@ icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbu
 language: de
 narrator: German Female
 
+mode:     Presentation
+
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
 tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, Regensburger Verbundklassifikation, RVK, Tutorial
 
@@ -481,12 +483,13 @@ Zum Einstieg
   * nach der Auflistung der Notationen der Teilsystematik folgen die Registerbegriffe, die vergeben wurden, verlinkt mit den jeweils passenden Systemstellen; zu den Registerbegriffen siehe den nächsten Abschnitt
   * man kann in den PDF-Dateien gut erkennen, wie tief eine Systematik strukturiert und wie umfangreich sie ist
   * "früher", in der Anfangszeit der RVK, wurden die Fachsystematik in einer Form ähnlich den heutigen PDF-Dateien ausgedruckt und postalisch versandt – das waren noch Zeiten ...
-  * :warning: zurzeit (9/2026) fehlen in den PDF-Dateien die Schlüssel und die Registerbegriffe :disappointed:
-  * :red-star: Grafiken: Screenshots Schlüssel + Schlüsselvermerk + Registerbegriffe
+  * > [!WARNING] Baustelle
+    > Zurzeit (10/2026) fehlen in der RVK Druck die Schlüssel und die Registerbegriffe. <br/>
+    > Wenn sie wieder verfügbar sind, tragen wir hier Screenshots zu den Schlüsseln, Schlüsselvermerken und Registerbegriffen nach.
 * die **RVK Einfach** beinhaltet fachsystematikübergreifende Verlinkungen bei Notationsverweisen und das Gesamtregister aller Registerbegriffe  
-  * :warning: zurzeit (9/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline :disappointed:
-  * :red-star: kann man das mit den Notationsverweisen noch irgendwie erklären?
-  * :red-star: Grafiken: Screenshots eines Notationsverweises + Ausschnitt Gesamtregister
+  * > [!WARNING] Baustelle
+    > Zurzeit (10/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :( <br/>
+    > Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu Notationsverweisesen und dem Gesamtregister nach.
 
 
 *************************************************************************************************************
@@ -608,6 +611,9 @@ Beispiele für Schlüssel
 | **Geographischer / Regional- / Länder-Schlüssel**<br/>zur geographischen sachlichen Ordnung | Pädagogik<br/>› G1D| 0 Allgemeines und Deutschland<br/>1 Deutschland (DDR) (1949-1990)<br/>2 USA und Kanada<br/>3 ehem. Sowjetunion, GUS, Russland<br/>4 Großbritannien<br/>5 Frankreich<br/>6 Schweiz<br/>7 Österreich<br/>8 Skandinavien<br/>9 Sonstige | DI 2000 ![Beispiel-Schlüssel-Notation DI 2000](abbildungen/RVK-Kurs_Schluessel_DI2000_RVK-Online.png) |
 | **Zahlenschlüsselung zur alphabetischen Ordnung**kann in allen Systematiken angewendet werden, wenn an der betreffenden Stelle genug Platz zur nächsten Stelle vorhanden ist (mindestens 29 Stellen) | Germanistik, Niederlandistik, Skandinavistik › Z2I | 00 a<br/>01 b<br/>02 c<br/>03 d<br/>04 e<br/>usw. | GC 2921 ![Beispiel-Schlüssel-Notation GC 2921](abbildungen/RVK-Kurs_Schluessel_GC2921_RVK-Online.png) |
 
+> [!WARNING] Baustelle
+> Zurzeit (10/2026) fehlen in der RVK Druck die Schlüssel. <br/>
+> Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu den Schlüssel(stelle)n nach.
 
 *************************************************************************************************************
 
@@ -876,14 +882,14 @@ Individualisierender Teil
 ![Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976")
 
 * heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de)
+
+  ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png) ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png)
+  *das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt und integriert im Portal RVK-Online*
+
 * die "Verschlüsselung" des Ordnungswortes, also die Auswahl der CSN, wird "cuttern" oder "vercuttern" genannt
 * Beispiele:  
   * Aristoteles = A717, Mustermannn = M991, Schmidt, Andreas = S349, Schmidt, Martin = S353, Waalkes = W111
   * Eichhörnchen = E34, Einführung = E35, Handbuch = H236, Introduction = I61, Linguistics = L755, Süßwarenindustrie = S944
-
-![das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png) ![das "CutterJo"-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png)  
-*das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt und integriert im Portal RVK-Online*
-
 * für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
 * es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
 * weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
