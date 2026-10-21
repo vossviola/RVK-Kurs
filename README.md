@@ -28,7 +28,7 @@ translate: off
 *************************************************************************************************************
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 20.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?', 'Das Portal "RVK Online"' und 'Notationen und Signaturen'
+> Stand 1.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?', 'Das Portal "RVK Online"'. 'Notationen und Signaturen' und 'RVK zur Aufstellung von Medien'
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -1373,7 +1373,7 @@ Ordnen Sie diese individualisierenden Signaturen-Bestandteile den richtigen Fäl
 {{|>}}
 *************************************************************************************************************
 
-xxx
+... fällt uns hier noch was "zum Einstieg" ein?
 
 
 *************************************************************************************************************
@@ -1383,7 +1383,40 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Gehen wir davon aus, dass jemand Literatur zu einem bestimmten Thema sucht und dafür RVK-Notationen zur Recherche nutzen möchte.
+Zum Finden passender Notationen gibt es mehrere Möglichkeiten
+
+Notationen in der RVK-Online ermitteln
+---------------------------------------
+
+* Browsen über die Klassifikationen in der RVK Online
+* Suche nach Notationen-Namen
+* Suche nach Registerbegriffen
+* → siehe dazu die Tipps im Kapitel "Das Portal "RVK online"" oben
+* darauf achten, ob es in den Bemerkungen zu gefundenen Notationen Hinweise z.B. auf thematisch ähnliche oder Doppelstellen gibt
+
+![Beispiel für einen Notations-Verweis in der RVK](abbildungen/RVK-Kurs_Notation-mit-Verweis_Beispiel-1.png) 
+![Beispiel für einen Notations-Verweis in der RVK](abbildungen/RVK-Kurs_Notation-mit-Verweis_Beispiel-2.png)
+*zwei Beispiele für Verweise zu thematisch ähnilchen Klassen*
+
+
+Schneeballsystem" anwenden
+---------------------------------------
+
+* zum jeweiligen Thema passende Titel im „[Mannheimer ISBN-Tool](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html)“ auf RVK-Notationen prüfen , die von Bibliotheken für das Buch vergeben wurden  
+  * hierfür müssen die Titel über eine ISBN verfügen; ältere Titel können damit nicht als Referenzbeispiele dienen
+* zum jeweiligen Thema passende Titel im [Karlsruher Virtuellen Katalog](https://kvk.bibliothek.kit.edu/) (KVK) auf RVK-Notationen prüfen  
+  * eignet sich auch für Werke ohne ISBN
+  * Treffer mit RVK-Notationen sind v.a. im BVB-Verbundkatalog zu erwarten
+* zum jeweiligen Thema passende Titel im Katalog einer "einschlägigen RVK-Bibliothek" auf RVK-Notationen prüfen  
+  * eignet sich auch für Werke ohne ISBN
+  * überlegen Sie z.B. anhand des Fächerspektrums [bayerischer Universitäten und Hochschulen](https://de.wikipedia.org/wiki/Kategorie:Hochschule%5Fin%5FBayern), wo das von Ihnen gesuchte Thema gut vertreten ist, und stöbern Sie im Katalog der jeweiligen Bibliothek
+  * als Anregung können die Bibliotheken dienen, deren Katalog in der RVK Online bei der Katalogsuche verlinkt sind (siehe dazu den nächsten Abschnitt)
+  * mit der Zeit werden Sie ein Gefühl dafür entwickelt, welche Bibliothek sich als "Referenzbibliothek" für welche Themengebiete eignet
+
+![Beispiel für einen Notations-Verweis in der RVK](abbildungen/RVK-Kurs_Referenzbibliotheken_Beispiel-1.png) 
+![Beispiel für einen Notations-Verweis in der RVK](abbildungen/RVK-Kurs_Referenzbibliotheken_Beispiel-2.png)
+*Beispiele für fachspezifische Medien: Musik in der Bibliothek der Hochschule für Musik Würzburg und Tiermedizin in der UB der LMU München*
 
 
 *************************************************************************************************************
@@ -1393,7 +1426,38 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Man hat einige Notationen beisammen, die gut zum Recherchethema passen.   
+Wie findet man nun Bücher dazu?
+
+Literatur über die RVK Online finden
+------------------------------------
+
+* bei jeder Notation gibt es rechts im Informationsbereich zwei Katalog-Links: „Suche in Fernleihe/Bibliotheksverbünden“ und "Suche im lokalen Bestand"
+* für eine erste Recherche eignet sich z.B. der Verbundkatalog des BVB
+  ![Der Button zur Recherche im BVB in der RVK Online](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_RVK-Online.png)
+* Tipp: Falls Ihre Bibliothek in der Liste für den lokalen Bestand noch nicht dabei ist, das aber für Sie hilfreich wäre, schreiben Sie die Koordinierungsstelle an der UB Regensburg an – vielleicht lässt sich Ihr Katalog ergänzen!
+
+in einem Bibliothekskatalog nach Notationen suchen
+---------------------------------------------------
+
+* prüfen Sie, ob und wenn ja wie Sie im jeweiligen Katalog gezielt nach Notationen suchen können  
+  * einige Beispiele:  
+    * in den Katalogen der [UB Regensburg](https://katalog.uni-regensburg.de/) oder der [Bibliothek der HS Ansbach](https://fantp20.bib-bvb.de/TouchPoint/start.do?View=fan&Language=de) geht das z.B. in der erweiterten Suche über das Feld "Notation"
+    * im [Katalog der ULB Münster](https://katalogplus.uni-muenster.de/) über "Klassifikationen"
+    * in dem [der SUB Hamburg](https://katalogplus.sub.uni-hamburg.de/) über "Systematik"
+    * im [Discovery-System der UB Greifwald](https://discovery.ub.uni-greifswald.de/) sucht man mit "topic:\[Notation\]", also z.B. "topic:ER 745".
+
+![Recherche nach RVK-Notationen im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Regensburg-UB.png) ![Recherche nach RVK-Notationen im Katalog der ULB Münster](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Muenster-ULB.png) ![Recherche nach RVK-Notationen im Katalog der SUB Hamburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Hamburg-SUB.png) ![Recherche nach RVK-Notationen im Katalog der UB Greifswald](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Greifswald-UB.png)
+*Recherche nach RVK-Notationen in den Katalogen der Uni-Bibliotheken Regensburg, Münster, Hamburg, Greifswald*
+
+* es kann sinnvoll sein, die Notation mit Anführungsstrichen einzuschließen, um sie als Suchphrase zu kennzeichnen
+* Tippa  
+  * arbeiten Sie mit trunkierten oder verknüpften Suchen, um Unterklassen „mitzunehmen“  
+    * für Batterien gibt es z.B. die Notationen VN 6050 – VN 6059 › Suche nach „VN 605\*“
+    * für die Textlinguistik gibt es ET 760 – ET 790 › Suche nach „ET 76\* ODER ET 77\* ODER ET 78\* ODER ET 79\*“
+  * kombinieren Sie Suchen nach Notation(sbereich)en und Titelstichwörtern  
+    * für die Suche nach Literatur zu Aspekten der Optik und der visuellen Wahrnehmung in E.T.A. Hoffmanns Erzählung 'Der Sandmann'“ könnte man z.B. mit GK 4944 + „sandmann\* OR optik\*“ suchen
+    * für Literatur zum Thema "Mord im Alten Testament aus ethischer Sicht" könnte man z.B. mit den per Benennungssuche "Mord" ermittelten Notationen BK 6145 und BK 6130 sowie mit BC 4\* (für BC 4000 – BC 4560) nach dem Stichwort "Ethik" suchen
 
 
 *************************************************************************************************************
@@ -1403,7 +1467,61 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Es gibt einige Aspekte, die man rund um die Nutzung der RVK zur Literaturrecherche "im Hinterkopf" haben sollte.
+
+Zu berücksichtigen in der RVK 
+=============================
+
+* **nicht alle RVK-Klassen sind bereits mit Registerbegriffen versehen**
+  * eine Suche damit in der RVK Online schließt also viele Klassen aus
+* **Doppelstellen**  
+  * in der RVK gibt es oft mehrere Möglichkeiten, Medien zu einem Thema oder zu einer Person einzuordnen
+  * diese sogenannten Doppelstellen oder Äquivalenz-Klassen bieten die Möglichkeit, Titel unter verschiedenen Aspekten einzuordnen; sie verlangen für die Aufstellung von Medien aber auch eine Entscheidung für eine Klasse
+  * > [!NOTE] 📖
+    >"Im Hinblick auf die Ausdifferenzierung der einzelnen Fachsystematiken kann man bei der RVK in Ansätzen von einer Reader Interest Classification sprechen, d.h. die Klassenbildung erfolgt aus dem Blickwinkel der Wissenschaft bzw. der Benutzererwartung heraus. Dies hat Doppelstellen zur Folge. Martin Luther verfügt beispielsweise in den Fachsystematiken Theologie, Germanistik, Pädagogik und Politik über Systemstellen. Die Primär- und Sekundärliteratur kann so je nach Wissenschaftsdiskurs und fachlichem Schwerpunkt verschiedenen Fachsystematiken zugeordnet werden. Es ist möglich, für ein Werk mehrere Notationen zu vergeben, was für den Nutzer bei der Recherche einen breiteren Sucheinstieg bedeutet. Wenn eine Notation zur Signaturbildung herangezogen wird, um einen Standort im Regal festzulegen, muss man sich für eine Notation entscheiden. Die Bibliothek wählt diese Notation nach ihren lokalen Bedürfnissen aus." 
+    >
+    > *Häusler/Werr 2018:132*
+  * Bespiele für Doppelstellen:  
+    * Georg Wilhelm Friedrich Hegel: Theologie (B), Philosophie (CG), Pädagogik (D), Politologie (MC), Geschichte (NB)  
+      * BF 3900-3901 Theologie › Philosophie
+      * CG 4060-4077 Philosophie › Geschichte der Philosophie
+      * DD 7040-7041 Pädagogik › Geschichte der Pädagogik und des Bildungswesens
+      * MC 6450-6453 Politologie › Geschichte der polit. Philosophie und der Ideologien
+      * NB 4772 Geschichte › Geschichte als Wissenschaft und Unterrichtsfach
+    * Spracherwerb: Psychologie (CQ), Allgemeine Sprachwissenschaft (ER)  
+      * CQ 4000 Psychologie › Entwicklungspsychologie › Entwicklung der Sprache
+      * ER 910 Allg. Sprachwissenschaft › Spracherwerb, individ. Sprachstatus
+    * Sprachdidaktik/-unterricht: Pädagogik (DP), Germanistik (GB), Allgemeine Sprachwissenschaft (ES)  
+      * GB 2952-2968 Germanistik › Deutschunterricht › Sprachunterricht
+      * ES 866-885 Allg. Sprachwissenschaft › Sprachunterricht
+      * DP 4000-4030 Pädagogik › Didaktik und Methodik des Unterrichts › Erstlesen und Erstschreiben
+  * da die Entscheidung für eine Klasse und damit für eine Notation davon abhängt, in welcher Bibliothek und damit in welcher fachlichen Ausrichtung sich ein Medium befindet, muss jede Bibliothek für sich entscheiden, wie bei der Einarbeitung von Medien mit Doppelstellen umgegangen werden soll
+  * so sollten je nach Bedarf z.B. Listen dazu erstellt werden, wo bestimmte Personen oder Themen eingestellt werden bzw. welche Notationen nicht genutzt werden sollen
+  * zudem kann es hilfreich sein, beim Umarbeiten von Beständen Konkordanzen zwischen der jeweiligen Haus-Systematik und der RVK zu erstellen oder sich Notizen dazu zu machen, wie bestimmte RVK-Notationen für den eigenen Bestand verwendet werden
+* **individuelle Zeitschriften- und Reihennotationen sind nicht in der RVK verzeichnet**  
+  * erkennbar sind sie für Zeitschriften am zweiten Großbuchstaben A
+  * Beispiele  
+    * unter TA 1000 Allg. Naturwissenschaften › Referateblätter und Zeitschriften haben einige Bibliotheken TA 4180 für die „Abhandlungen aus dem Westfälischen Museum für Naturkunde“ vergeben
+    * unter GA 1000 nutzt eine Bibliothek GA 9140 für die „Zeitschrift für deutsche Philologie“, eine andere nutzt GA 9470
+    * einmalige Kongresse in der Klassischen Archäologie werden bei der Notationsgruppe LE 1851ff. verzeichnet, indem Unterklassen mit der Jahreszahl gebildet werden, z.B. LE 1987 für Kongresse im Jahr 1987
+
+
+Zu berücksichtigen in Bibliothekskatalogen
+==========================================
+
+* **in den meisten Bibliotheken wird nur selbständige Literatur nach RVK erschlossen**
+  * für spezielle Themen, die eher in einzelnen Artikeln behandelt werden, ist die RVK daher ggf. nicht gut zur Recherche geeignet
+* **nicht alle Medien einer Bibliothek sind mit RVK-Notationen erschlossen**
+  * ähnlich wie bei der Recherche mit Schlagwörtern durchsucht man bei einer Suche mit RVK-Notationen immer nur einen Teilbestand
+* **eBook-Ausgaben sind oft nicht mit RVK-Notationen versehen**
+  * auch hier deckt eine Suche nach Notationen nicht den gesamten Bestand ab
+  * die BVB-Verbundzentrale führt vierteljährlich eine RVK- (und Schlagwort-)Anreicherung bei parallelen Print- und E-Book-Titelaufnahmen durch; das erhöht nach und nach die Menge der über Notationen findbaren Medien in den Katalogen bayerischer Bibliotheken
+* **es können fehlerhafte oder "unpassende" Notationen vorkommen**
+  * es kann bei der Katalogisierung von Titeln zu Tippfehlern oder Zahlendrehern kommen
+  * es können noch veraltete Notationen zu finden sein
+    * die Teilsystematik P Rechtswissenschaft wurde zum Beispiel vor einigen Jahren von dreistelligen auf vierstellige Notationen umgestellt; nicht alle Bibliotheken haben dann aber ihre Bestände entsprechend aktualisiert, daher findet man manchmal noch dreistellige P-Notationen
+    * gelegentlich werden einzelne Notationen gelöscht, und nicht alle Bibliotheken prüfen, ob sie unter der Notation ggf. Bestände haben; Beispiele aus den letzten Jahren sind z.B. ZS 5010 Holz, Rinde, Kork und ZS 5020 Holztechnologie oder LR 56966 Programmierte Musikerziehung (die Titel gehören jetzt in LR 56967 Hörerziehung, Werkhören, Gehörbildung im Unterricht)
+  * es kann sein, dass die Zuordnung eines Werkes zu einer Notation thematisch für eine Bibliothek sinnvoll ist, für eine andere aber überhaupt nicht passt
 
 
 *************************************************************************************************************
@@ -1413,7 +1531,9 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
+* ["**Mannheimer ISBN-Tool**"](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html)
+* [**Karlsruher Virtueller Katalog** (KVK)](https://kvk.bibliothek.kit.edu)
 
 *************************************************************************************************************
 
@@ -1422,7 +1542,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
 
 *************************************************************************************************************
 
@@ -1431,7 +1551,44 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Richtig oder falsch?
+------------------------
+* Nicht alle Klassen der RVK sind mit einem Registerbegriff versehen. <br/>
+  [[ ( richtig ) | falsch ]]
+* Alle Medien in bayerischen Bibliotheken sind nach RVK erschlossen und aufgestellt, weil die RVK dort die Standard-Systematik ist. <br/>
+  [[ richtig | ( falsch ) ]]
+* Wenn es zu einem Thema Doppelstellen gibt, darf eine Bibliothek nur die Notationen einer Stelle nutzen. <br/>
+  [[ richtig | ( falsch ) ]]
+* Mit der Suche nach RVK-Notationen findet man sowohl Bücher als auch Zeitschriftenartikel. <br/>
+  [[ richtig | ( falsch ) ]]
+* Wenn ein gedrucktes Buch mit RVK-Notationen erschlossen ist, ist die dazugehörige eBook-Ausgabe es auch. <br/>
+  [[ richtig | falsch | ( vom Einzelfall abhängig ) ]]
+* Wenn Bibliothek A ein Buch unter Notation x stellt, steht es in Bibliothek B auch unter der Notation. <br/>
+  [[ richtig | falsch | ( vom Einzelfall abhängig ) ]]
+
+
+Über welche Wege können Sie herausfinden, welche Literatur in einer Bibliothek unter einer bestimmten Notation aufgestellt oder damit erschlossen wurde?
+-----------------------------------------------------
+
+  * über den [KVK](https://kvk.bibliothek.kit.edu) <br/>
+  [[ ( richtig ) | falsch ]]
+  * über die Katalogsuche unten rechts bei Notationen in der RVK Online <br/>
+  [[ ( richtig ) | falsch ]]
+  * über Google Books <br/>
+  [[ richtig | ( falsch ) ]]
+  * über den Katalog der Bibliothek in der erweiterten Suche <br/>
+  [[ ( richtig ) | falsch ]]
+
+
+Wie können Sie über mehrere Unterklassen suchen?
+------------------------------------------------
+
+* Ich führe für jede Klasse eine eigene Suche durch<br/>
+  [[ ( richtig, aber aufwändig ) | falsch ]]
+* ich kombiniere mehrere Suchanfragen mit UND-Verknüpfung <br/>
+  [[ ( richtig ) | falsch ]]
+* ich arbeite mit trunkierten Notationen <br/>
+  [[ ( richtig ) | falsch ]]
 
 
 *************************************************************************************************************
@@ -1441,16 +1598,21 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+... fällt uns hier noch was "zum Einstieg" ein?
 
 *************************************************************************************************************
 
-## Notation(en) festlegen
+## Notation(en) finden & festlegen
 
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* **Notation(en) finden** – siehe dazu das vorhergehende Kapitel
+* **bei mehreren passenden Notationen: eine Notation festlegen für die Aufstellung**
+  * es gibt dabei kein "richtig" oder "falsch": jede Bibliothek darf die RVK anwenden, wie sie möchte
+  * gerade bei Doppelstellen kommt es darauf an, in was für einer Bibliothek der Bestand "wohnt"
+  * Tipp: "vom Regal her denken": neben welchen Büchern sollte ein Werk stehen?
+  * Achtung: Fremddaten "kritisch lesen": es kann falsche oder unpassende Notationen geben (Tippfehler, veraltete Notationen), CSNs können anders gewählt worden sein, als man das selbst tun würde usw.
 
 *************************************************************************************************************
 
@@ -1459,7 +1621,454 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* für den grundlegenden **Aufbau von RVK-Signaturen** siehe das Kapitel "RVK-Notation vs. RVK-Signatur"
+* Achtung: Fremddaten "kritisch lesen": es kann Tippfehler geben, CSNs können anders gewählt worden sein, als man sie für die eigenen Bibliothek ansetzen würde usw.
+
+
+Lokalkennzeichen
+================
+
+* arbeitet **Ihre Bibliothek** mit Lokalkennzeichen?  
+  * wenn nein, können Sie diesen Schritt überspringen
+  * wenn ja, finden Sie das zu nutzende Kennzeichen heraus
+* aus Gründen der Übersichtlichkeit tragen die meisten Beispiel-Signaturen in den folgenden Abschnitten keinen "Lokalkennzeichen-Platzhalter" vor den Notationsangaben
+
+
+Bestimmung, Ansetzung und Cutterung des Ordnungswortes
+======================================================
+
+erste CSN
+----------
+
+* das Ordnungswort ist in der Regel der **Name des ersten geistigen Schöpfers**: dies kann eine Person oder eine Körperschaft sein
+* gibt es keinen geistigen Schöpfer, aber einen **Mitwirkenden**, so wird dessen Name zum Ordnungswort
+* wo auch dies entfällt, wird das erste Ordnungswort des vorliegenden **Titels** (ggf. ohne einen am Anfang stehenden Artikel) als Ordnungswort gewählt
+* **Ausnahmen von dieser Grundregel** sind in den Systematik im Einzelnen festgelegt
+  * z.B. wird bei **Festschriften** meist der Name des Gefeierten zur Bildung der CSN verwendet
+    * gibt es mehrere Festschriften zu einer Person, wird mit Punkt und Erscheinungsjahr unterschieden
+    * sollte es eine identische CSN für unterschiedliche Gefeierte geben, wird für einen der beiden eine zweite CSN für den Herausgeber verwendet
+* die **Namen von Personen und Körperschaften** werden – auch bei Transkriptionen – in der nach RDA gültigen Form angesetzt, sofern diese nicht von der im jeweiligen Fachgebiet geläufigen Namensform abweicht
+* **Spatien** zwischen Präfix und Familiennamen, Bindestriche zwischen Doppelnamen sowie Sonderzeichen und Apostrophe entfallen: Di Stefano = Distefano = D614, nicht D536; D’Angelo = Dangelo, Müller-Lüdenscheid = Müllerlüdenscheid
+* „Mac“- und „Mc“-Namen werden einheitlich wie „Mac“ behandelt
+* Beispiele  
+  * LR 56950 **A465** – **Alt**, Michael: Das musikalische Kunstwerk
+  * DG 2434 **G864** – Zur Lyrikdiskussion. hrsg. von Reinhold **Grimm**
+  * DR 6200 **K29** – Schulverfassung. eingel. und bearb. von Adolf Kell
+  * NC 4900 **I59** – **Institut** für Zeitgeschichte <München>. München. Alph. Katalog
+  * RB 10053 **G878** – Die **große** illustrierte Länderkunde. hrsg. von Bertelsmann
+  * AV 87200 **K64** – **Kleines** Kommersbuch: ein Liederbuch fahrender Schüler. (kein Herausgeber genannt)
+  * LF 3480 **D334** – **De Lain**e, Janet: The baths of Caracalla. (nicht D278)
+  * PN 566 **M612**(3) – Bundesbaugesetz. Bearb. Otto Schlichter, Rudolf Stich, Hans- Joachim Tittel. 3\. überarb. Aufl. \[1\. Aufl. u. d. Titel: **Meyer**, Klaus: Bundesbaurecht\]
+* bei **verschiedenen Auflagen** eines Werkes wird die CSN der ersten bzw. früherer Auflagen beibehalten
+* bei **mehrbändigen Werken** und **geschlossen aufgestellten** **Serien** wird die CSN des ersten Bandes auch für die weiteren Bände beibehalten
+* **Übungsbücher**, **Begleitbände, Materialbände** u.ä., die eindeutig einem bestimmten Hauptwerk zugeordnet sind, können zusammen mit diesem Hauptwerk aufgestellt werden, indem in solchen Einzelfällen für das Ordnungswort nicht die Namen der Verfasser/Bearbeiter dieser Bände, sondern die des Hauptwerkes verwendet werden, und die Bände eine fingierte Bandzählung erhalten.
+  * Beispiele 
+    * QC 072 M278 G8-1(6) Mankiw, N. G.: Grundzüge der Volkswirtschaftslehre, 6\. Aufl.
+    * QC 072 M278 G8-2(5) Herrmann, M.: Arbeitsbuch Grundzüge der Volkswirtschafts­lehre, 5\. Aufl. › nicht unter H568, sondern mit unter M278
+* **Titel**, die mit einem Wort beginnen, das aus **nur einem Buchstaben** besteht (z.B. das englische „I“) wer­den mit dem in der Cutter-Sanborn-Tabelle nicht enthaltenen Cutter 10 bzw. 110 versehen
+  * Beispiel
+    * HM 2814 = Übersetzungen von Einzelwerken von Robert Graves → HM 2814 I10D Graves, Robert: dt. Übersetzung von „I, Claudius“
+* **Sonderzeichen am Titelanfang** werden ausgeschrieben
+  * PG 465 R351 P222 Reichenbach, Sandy Bernd: „§ 1004 BGB als Grundlage von Beweisverboten“ (§ = Paragraph = P222)
+  * LH 84550 D325 H348 Deiss, Amely: „#catcontent“ (# = Hashtag = H348)
+* die **CSN soll nicht ausdrücken, was in der jeweils zu individualisierenden systematischen Notation bereits enthalten ist**
+  * zur Notation für einen bestimmten Autor darf also nicht die CSN eben dieses Autors treten (es sei denn, der Verfassername ist anzusetzender Bestandteil des Sachtitels und die CSN muss aus diesem Sachtitel gebildet werden)
+  * Beispiele  
+    * LU 42180 = Telemann, G. Ph. › für die CSN ist der Titel zu nehmen: LU 42180 M987 Telemann, Georg Philipp: „Musikalische Werke“
+    * aber: GK 4430 G599 „Goethes Arbeitszimmer und Schlafstube“, obwohl GK 4430 = Goethe, Gedenkstätten
+* **Kommentare** zu einzelnen Werken besonders bezeichneter bedeutender Autoren werden mit zusätzlichen Kurz-CSN bezeichnet
+  * Beispiele
+    * zur Medea des Euripides wird bei einer Übersetzung die Notation für Übersetzungen des Autors (FH 24027) um die Kurz-CSN für das Werk (M4) ergänzt › FH 24027 M4
+    * entsprechend bekommt ein moderner Kommentar zur Medea des Euripides die ergänzte Grundnotation FH 24040 M4
+
+
+Erweiterung durch eine zweite CSN
+----------------------------------
+
+* in **Einzelfällen**, bei denen an bestimmten Stellen der systematischen Aufstellung besonders viel Literatur anfällt und durch die erste CSN keine ausreichende Individualisierung der Signatur erreicht wird, kann sie durch eine weitere CSN erweitert werden
+* dazu wird in der Regel das erste Ordnungswort des Sachtitels (ggf. ohne Artikel) verwendet; ggf. können hilfsweise auch die Übersetzungssprache oder ein sonstiger geeigneter Begriff verwendet werden
+* die zusätzliche CSN wird dabei soweit **verkürzt**, wie es die notwendige Individualisierung erlaubt; verschieden lange Zusatz-CSN sind nebeneinander möglich
+* Verkürzung meint in diesem Fall, dass zunächst nur die erste Ziffer der CSN, dann die zweite und ggf. auch die dritte Ziffer genommen wird
+* die Ziffern der Cutter-Tabelle sind auch bei Verkürzung genau zu übernehmen, also nicht zu erhöhen oder zu vermindern.
+* Beispiel für mehrere Werke des Autors Brian C. Vickery in einer Klasse:  
+  * AN 93000 V637 Classification and indexing science
+  * AN 93000 V637 F1 Faceted classification
+  * AN 93000 V637 F13 Faceted classification schemes
+  * AN 93000 V637 F138 Facettenklassifikation
+
+
+Chronologische Ordnung mit Hilfe des Erscheinungsjahres
+========================================================
+
+* an einigen entsprechend ausgewiesenen Stellen in der RVK ist vorgesehen, dass das Erscheinungsjahr oder das Veranstaltungsjahr für eine chronologische Ordnung verwendet wird
+* **Jahr als Teil der systematischen Notation**  
+  * bei Kongressen wird in einigen Fächern das Veranstaltungsjahr Teil der Notation; für die weitere Gliederung wird eine CSN aus Veranstaltungsort, Körperschaft oder Sachtitel ergänzt
+  * Beispiele  
+    * in der Mathematik ist eine Untergruppe, nämlich SD, für Kongresse vorgesehen
+      * Kongress, der 1990 in Würzburg abgehalten wurde = Notation SD 1990 W959
+    * die einmaligen Kongresse in der Klassischen Archäologie werden bei der Notationsgruppe LE 1851 ff. verzeichnet, die weitere Gliederung erfolgt dann mit CSN des Ortes
+      * 1987 in Athen veranstalteter Kongress = systematische Notation LE 1987 A867
+* **Jahr als Teil der CSN**  
+  * an anderen Stellen wird die Literatur chronologisch geordnet, indem das Erscheinungsjahr der fest vorgegebenen systematischen Notation angefügt wird
+  * an Stellen, an denen bereits eine weitere Gliederung per CSN vorgesehen ist, wird das Erscheinungsjahr dieser CSN angefügt; dabei wird nach der systematischen Notation oder nach der CSN ein Punkt gesetzt und das Erscheinungsjahr direkt angeschlossen
+  * dieses Ordnungsprinzip gilt z.B.  
+    * in den Systematiken der Philologien, der Theologie und der Fächer Philosophie, Psychologie und Pädagogik für die Textausgaben der dort eigens ausgewiesenen Autoren,
+    * in den Systematiken der Mathematik und der Naturwissenschaften für die Systemstellen „Gesammelte Werke“,
+    * in der Systematik Kunstgeschichte für Museums-, Ausstellungs- und Auktionskataloge
+  * im konkreten Fall sind die Detailregelungen der jeweiligen Fachsystematik zu entnehmen
+  * Beispiele  
+    * GI 6100 = G. E. Lessing, Gesamtausgaben → Hinweis in der RVK: „Weitere Untergliederung durch Punkt und Erscheinungsjahr des zuerst erschienenen Bandes minus 1000.“
+      * GI 6100.1974 = ab 1974 erschienene Werkausgabe von G. E. Lessing
+    * GI 6101 = G. E. Lessing, Einzelausgaben → Hinweis in der RVK: „Weitere Untergliederung durch zweistellige Cutterung des Titels, Punkt und Erscheinungsjahr minus 1000.“
+      * GI 6101 E53.1911 = 1911 erschienene Ausgabe von Lessings „Emilia Galotti“
+      * GI 6101 E53.2000 = 2000 erschienene Ausgabe von Lessings „Emilia Galotti“
+  * falls mehrere Ausgaben des gleichen Textes dasselbe Erscheinungsjahr haben, müssen sie durch eine zusätzliche CSN (in der Regel des Herausgebers oder Bearbeiters) unterschieden werden, entweder als 1-Ziffer-Kurz-CSN oder, falls sie zur Unterscheidung nicht ausreicht, 2- oder dreistellige CSN
+  * Beispiele  
+    * GI 6101 N27.1947 G8 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Adolf von Grolman
+    * GI 6101 N27.1947 L2 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Bernhard Lamey
+  * bei mehrbändigen Werken ist das Erscheinungsjahr des ersten erschienen Bandes für alle Bände verbindlich
+
+
+Inhaltliche Ordnung einer Systemstelle per CSN
+===============================================
+
+* an einzelnen Stellen der Systematik bietet die Feingruppe allein noch keine ausreichende inhaltliche Differenzierung
+* in diesen Fällen werden nach Vorgabe der RVK zusätzlich einschlägige Sachbegriffe oder Namen per CSN geschlüsselt; diese Stellen sind in der Systematik als solche gekennzeichnet
+* wichtig für die Systematisierungspraxis ist: es handelt sich bei diesen Sonderfällen um eine inhaltliche, nicht um eine formale (rein signaturentechnische) Cutterung
+* Beispiele
+  * HP 1227 = Englischsprachige Literatur außerhalb der Brit. Inseln und der USA › Afrika › Regionale Literaturgeschichte › Einzelne Staaten
+    * Hinweis in der RVK: CSN des Staates und Kurz-CSN des Verfassers
+    * HP 1227 S944 G16 „Truth and reconciliation“ über Südafrika von Susan Gallagher
+  * ST 250 = Informatik › Monographien › Software und -entwicklung › Einzelne Programmiersprachen (A-Z)
+    * Hinweis in der RVK: Alphabetische Ordnung durch Kurz-CSN der Programmiersprachenbezeichnung
+    * ST250 P99 G123 „Starting out with Python“ von Tony Gaddis
+* die inhaltliche CSN wird an einigen besonders ausgewiesenen Systemstellen auch zur Unterscheidung der Einzelausgaben eines Schriftstellers verwendet, wenn die Systematik nur eine gemeinsame Stelle für diese Einzelausgaben vorsieht
+  * dabei kann die dreistellige Cutterung des Werktitels um die letzte Ziffer gekürzt werden; das ist bei der Systemstelle jeweils vermerkt
+  * Beispiel
+    * GI 6101 = Lessing, Einzelwerke
+      * Hinweis in der RVK: „Weitere Untergliederung durch zweistellige Cutterung des Titels, Punkt und Erscheinungsjahr minus 1000\. Beispiel GI 6101 E53.974
+      * GI 6101 N27.996 Lessing, Nathan der Weise in einer Ausgabe von 1996 (die vollständige Cutterung von „Nathan“ wäre N274)
+* wo man sich dieses Verfahrens bedient, muss es innerhalb derselben Feingruppe durchgehend angewendet werden: eine CSN innerhalb der Systematik darf also nicht mit einer formalen CSN als Bestandteil des individualisierenden Teils der Signatur wechseln
+* es ist für die Systemstellen jeweils festgelegt, ob für die Sachbegriffsbildung eine vollständige oder eine auf zwei oder eine Ziffer verkürzte CSN gewählt werden soll
+* wenn notwendig, kann für eine weitere Individualisierung auch auf derselben Systemstelle zwischen verschieden langen CS-Notationen variiert werden; es muss aber mindestens eine Ziffer der CSN erhalten bleiben
+  * Beispiel: HN = Englische Literatur: Die Literatur des 20\. Jahrhunderts seit 1945
+    * HN 5873 E9 MacKenzie, Compton: Extraordinary women
+    * HN 5873 E96 MacKenzie, Compton: Extremes meet
+* in Systematiken wie z.B. Germanistik und Romanistik wird bei autorenbezogenen Bibliographien und Lexika die Systemstelle für Sekundärliteratur verwendet und A1 vorgecuttert
+  * Beispiel: GK 4931 = Hölderlin, Friedrich › Sekundärliteratur
+    * GK 4931 A1 S451 Seebaß, Friedrich: Hölderlin-Bibliographie
+
+
+Bandzählung
+===========
+
+* die Zählung von Bänden (oder auch Abteilungen oder ähnlichen Untergliederungen) wird mit Bindestrich ohne Leerzeichen an den Urheber- oder Titel-Cutter angefügt
+* es können bis zu zwei untergeordnete Zählungen z.B. für Teilbände mit Komma angehängt werden
+* Beispiele  
+  * ER 450 H535-2 = Band 2 eines mehrbändigen Werkes
+  * ES 940 E57-1,1 = Teilband 1,1 eines mehrbändigen Werkes
+* mehrere zusammengebundene Folgebände werden durch Schrägstrich miteinander verbunden, lückenlose Heftfolgen oder Bände mit Bindestrich
+* an eine Lücke schließt die neue Zählung mit Punkt an  
+  * Beispiel: BD 3000 G963-2,3,4/6 = Heft 4, 5 und 6 des 3\. Teiles des 2\. Bandes
+* sind zahlreiche Hefte mit springender Zählung zusammengebunden, kann nach der ersten Zählung „u.a.“ angegeben werden, um die Signatur so kurz wie möglich zu halten  
+  * Beispiel: BD 3000 B415-1,1 u.a. = Heft 1,2; 1,3-6; 2,1-3 angebunden an Heft 1,1
+* Sonderbände, wie z.B. Register-, Material- und Ergänzungsbände, die nicht in die fortlaufende Bandzählung einbezogen wurden, erhalten bei abgeschlossenen Werken eine fingierte Zählung im Anschluss an die Bandzählung des Grundwerkes bzw. an dessen Anfang
+* bei nicht abgeschlossenen Werken kann der Sonderband auch als Untergliederung des davor erschienenen Bandes behandelt werden
+* sonstige fingierte Zählungen sollen nur in Anlehnung an bibliographische oder Verlagsübersichten vorgenommen werden (auch -0)
+* Beispiel: LH 22760 K96-10 = Katalog des Kunsthistorischen Instituts in Florenz, erster Nachtragsband (das Grundwerk hat 9 Bände)
+* bei mehrbändigen Werken wird die RVK-Notation in der Hauptaufnahme eingetragen; die vollständigen Signaturen werden bei den Einzelbänden vermerkt
+
+
+Auflagenbezeichnung
+===================
+
+* die Auflagenbezeichnung wird – außer bei der ersten Auflage – ohne Leerzeichen in runden Klammern angefügt
+* Zusätze wie „erweiterte“, „neubearb.“ usw. entfallen
+* Beispiele  
+  * HF 350 C991(2) = 2\. Aufl.
+  * HF 350 C991(3) = 3\. Aufl.
+  * FH 15900 V878-2(5) = Bd. 2, 5\. Aufl.
+  * FH 15900 V878-3(4) = Bd. 3, 4\. Aufl.
+* bei mehrbändigen Werken mit verschiedener Auflage der Einzelbände kann die Auflagenbezeichnung vor oder nach der Bandzählung stehen, je nachdem, ob die Bände oder die vollständigen Auflagen nebeneinanderstehen sollen  
+  * GE 4001 F879(25)-5 = 25\. Aufl. eines mehrbändigen Werkes, Band 5 (die vollständigen Auflagen stehen nebeneinander im Regal)
+  * AH 11000 D845-2(8) = 2\. Band eines mehrbändigen Werkes, 8\. Auflage (die einzelnen Bände stehen in ihren unterschiedlichen Auflagen nebeneinander im Regal)
+* Ausnahmen bilden die Fälle, bei denen die Auflage durch eine eigene systematische Notation bereits gekennzeichnet ist
+* bei Veröffentlichungen, die in regelmäßigen Abständen als neue Auflage, Ausgabe, Edition usw. erscheinen, wird die Ausgabebezeichnung bzw. das Berichts- oder Erscheinungsjahr als Bandzählung betrachtet
+* Beispiele  
+  * AF 11040-4 = Who's who in Germany 4th edition (RVK-Notation: „Periodische Who's who“ für Deutschland allg.)
+  * AF 64340-1973/74 Who's who in Malaysia 1973-74 (RVK-Notation: „Periodische Who's who“ für Malaysia u.a.)
+
+
+Mehrfachexemplare
+=================
+
+* Mehrfachexemplare am gleichen Standort werden durch +2, +3 usw. (ohne Leerstelle) bezeichnet
+* Mehrfachexemplare an verschiedenen Standorten sind bereits durch die Lokalkennzeichen hinlänglich unterschieden
+* Beispiel: GF 5101 L138-2(6)+5 = 5\. Exemplar der 6\. Auflage des 2\. Bandes
+* das Prinzip der einheitlichen Signaturvergabe schließt für Mehrfachexemplare eines Werkes innerhalb des gleichen LKZ unterschiedliche Signaturen aus
+* eine Ausnahme sind Mehrfachexemplare von Zeitschriften und zeitschriftenartige Reihen
+
+
+Sonderbestimmungen für Formalklassen und Literaturgattungen
+========================================================
+
+Bei bestimmten Formalklassen und bestimmte Literaturgattungen wird im Interesse einer Vereinfachung der Signatur abweichend von der oben beschriebenen Praxis verfahren.
+
+
+Angebundene Schriften
+---------------------
+
+* angebundene Schriften erhalten keine gesonderte Signatur, sondern die Signatur des Werkes, an das sie angebunden sind
+* es wird in einer externen Fußnote darauf hingewiesen, dass es sich um eine angebundene Schrift handelt, zum Beispiel in der Form „Angebunden an: Geistiger Schöpfer: Haupttitel, Erscheinungsjahr“
+
+
+Nachdrucke
+----------
+
+* Nachdrucke können wie die Originalausgabe behandelt werden
+* sind Originalausgabe und ein unveränderter Nachdruck vorhanden, kann der Nachdruck wie ein zweites Exemplar behandelt werden
+* Beispiele  
+  * GB 1610 S454(2) = 2\. überarb. Auflage 1999
+  * GB 1610 S454(2)+2 = 2001 ersch. unveränd. Nachdruck der 2\. Aufl. 1999
+* sind Originalausgabe und veränderte Nachdrucke vorhanden, wird eine Unterscheidung des Nachdrucks vom Original notwendig
+* bei Nachdrucken einer 1\. Auflage wird dazu das Erscheinungsjahr mit vorgestelltem Punkt innerhalb Klammern an die Signatur angeschlossen
+* Beispiele  
+  * ST 300 M245(.2001) = 2001 erschienener Nachdruck der 1\. Auflage
+  * ST 300 M245(.1955) = 1955 erschienener Nachdruck der 1\. Auflage
+* Nachdrucke oder Lizenzausgaben von späteren Auflagen (auch, wenn sie im Impressum als 1\. Auflage bezeichnet werden) erhalten das Erscheinungsjahr innerhalb der Klammern mit Punkt an die Auflagenzahl angeschlossen. Diese Konstruktion ermöglicht es, dass z.B. die später nachgedruckten (und vielleicht um erweiterte Bibliographien ergänzten) Ausgaben eines Textes desselben Herausgebers nebeneinanderstehen und nicht von zwischenzeitlich erschienenen Ausgaben desselben Textes von anderen Herausgebern vermischt werden.  
+  * Beispiele  
+    * ST 300 M245(3.2000) = 2000 erschienener Nachdruck der 3\. Auflage
+    * ST 300 M245(2.1960) = 1960 erschienener Nachdruck der 2\. Auflage
+
+
+Übersetzungen
+-------------
+
+* bei Übersetzungen wird der Originaltitel des Werkes als Ordnungswort verwendet, an dessen CSN dann ein Großbuchstabe für die Sprache der Übersetzung angehängt wird
+* die Titel-CSN kann bei Bedarf gekürzt werden
+* auch wenn es bei Autoren eigene Werk- oder Übersetzungs-Systemstellen gibt, wird der Sprachcode angehängt
+* Beispiele  
+  * IH 91900 G279 J43 Anna Gavalda: „Je voudrais que quelqu'un \[…\]”, frz. Original
+  * IH 91900 G279 J43D Anna Gavalda: „Ich wünsche mir, dass irgendwo jemand auf mich wartet“, dt. Übersetzung von „Je voudrais que \[…\]“
+  * CF 4504 L664 Thomas Hobbes, „Leviathan“, englisches Original
+  * CF 4504 L664D Thomas Hobbes, „Leviathan“, deutsche Übersetzung
+  * IT 5572D Dante Alighieri, „Über das Dichten in der Muttersprache“ (De vulgari eloquentia <dt.> ) (IT 5572 = Systemstelle zum Einzelwerk „De vulgari eloquentia“)
+* wenn es zu einem Werk mehrere Übersetzungen in eine Sprache gibt, werden sie per Erscheinungsjahr unterschieden.  
+  * Beispiele  
+    * CF 4504 L664D.1996 Thomas Hobbes, „Leviathan“, dt. Übersetzung, 1996
+    * CF 4504 L664D.2015 Thomas Hobbes, „Leviathan“, dt. Übersetzung, 2015
+* will man vermerken, dass eine bestimmte Auflage eines Werkes übersetzt wurde oder die Übersetzung in einer bestimmten Auflage erschienen ist, kann die Auflagenbezeichnung vor bzw. nach dem Sprachcode gesetzt werden (je nach gewünschter Sortierung).  
+  * Beispiel: Harris, D. C.: „Lehrbuch der Quantitativen Analyse“, 8\. Aufl. (Originalausg.: „Quantitative Chemical Analysis”, 8\. Aufl.)  
+    * VG 6100 H313 Q1(8)D
+    * oder VG 6100 H313 Q1D(8)
+    * nicht › nicht H313 L524
+* unterscheiden sich die Ursprungs- und die Übersetzungs-Auflagen, kann das mit zwei Auflagen­be­zeich­nungen – nach dem Titel-CSN und nach dem Sprachcode – angezeigt werden  
+  * Beispiel: Borchardt-Ott, Walter: „Crystallography“, 3\. Aufl. (Originalausgabe: „Kristallographie“, 7\. Aufl.)  
+    * UQ 1000 B726 K9E(3)
+    * oder UQ 1000 B726 K9(7)E(3)
+    * nicht B726 C957
+* bei Autoren ohne eigene Übersetzungsstelle, bei denen verschiedene Ausgaben nach Erscheinungsjahr sortiert und zusätzlich verschiedene Übersetzungen vorliegen, die ebenfalls nach Erscheinungsjahr sortiert werden müssen, wird der Sprachencode ausnahmsweise noch vor das Erscheinungsjahr gesetzt, damit alle Übersetzungen zusammenstehen.  
+  * Beispiele  
+    * IT 6401 D291D.1926-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 1926, Band 1 (IT 6401 = Einzelwerke von Boccaccio)
+    * IT 6401 D291D.1958(7)-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 7\. Aufl. 1975 (1\. Aufl. 1958), Band 1
+* gibt es keinen Originaltitel, wird der vorliegende Titel für die CSN verwendet und der Großbuchstabe für die Sprache entfällt.  
+  * Beispiel: FL 31552 G296 „Gedichte“ von Giannes Ritsos, ausgewählt u. aus d. Griechischen übers. von Klaus-Peter Wedekind (FL 31552 = Übersetzungen von Giannes Ritsos, G296 = Gedichte)
+* zweisprachige Ausgaben werden zu den Originaltexten systematisiert; die CSN wird nach dem Originaltitel vergeben
+
+* Übersetzungskürzel für Sprachen finden sich in der folgenden Tabelle
+| Kürzel | Sprache |
+| -- | -------------- |
+| AL | Albanisch      |
+| AR | Arabisch       |
+| A  | Armenisch      |
+| B  | Bulgarisch     |
+| CH | Chinesisch     |
+| D  | Deutsch        |
+| E  | Englisch       |
+| F  | Französisch    |
+| GA | Galizisch      |
+| G  | Griechisch     |
+| HE | Hebräisch      |
+| HI | Hindi          |
+| I  | Italienisch    |
+| J  | Jiddisch       |
+| JA | Japanisch      |
+| K  | Katalanisch    |
+| KO | Koreanisch     |
+| KR | Kroatisch      |
+| L  | Latein         |
+| LE | Lettisch       |
+| LI | Litauisch      |
+| M  | Maltesisch     |
+| N  | Niederländisch |
+| NG | Neugriechisch  |
+| PE | Persisch       |
+| PL | Polnisch       |
+| P  | Portugiesisch  |
+| R  | Russisch       |
+| RA | Rätoromanisch  |
+| RU | Rumänisch      |
+| SA | Sardisch       |
+| SE | Serbisch       |
+| SK | Slowakisch     |
+| SL | Slowenisch     |
+| SV | Schwedisch     |
+| S  | Spanisch       |
+| SW | Swahili        |
+| T  | Türkisch       |
+| TI | Tibetisch      |
+| TS | Tschechisch    |
+
+
+Bibliographien und Nachschlagewerke
+------------------------------------
+
+* Bibliographien, Nachschlagewerke und Enzyklopädien erhalten in manchen Fällen eine eigene Grundsignatur, die in der RVK eigens ausgewiesen sind
+* dazu sind im Einzelnen die Anweisungen in den Fachsystematiken zu beachten
+* auch unter anderen Hauptgruppen aufzustellende Handbücher oder Fachlexika sollen eigene Grund­sig­na­turen erhalten, wenn die betreffende Einzelsystematik dies vorsieht, damit die Signatur kurz und über­sichtlich bleibt
+* Beispiele  
+  * LP 12025 „Musik in Geschichte und Gegenwart“
+  * QK 000 B218 „Bank- und Börsen-ABC“ (RVK-Stelle „Allg. Bankwesen mit CSN)
+  * VA 1060 Beilsteins Handbuch der organischen Chemie, Grundwerk
+  * VA 1061 \~ 1\. Ergänzungswerk
+  * VA 1070 \~ Gesamtsachregister
+
+
+Schriftenreihen
+---------------
+
+* Schriftenreihen werden in der Regel nicht als Einheit behandelt, sondern nach der sachlichen Zugehörigkeit der Einzelstücke getrennt; die Stücktitel erhalten also die jeweilige RVK-Systemstelle mit CSN
+* Reihen können aber geschlossen aufgestellt werden, wenn sie sich auf ein eng begrenztes Sachgebiet beziehen und/oder ihre Kenntnis im entsprechenden Fachbereich vorausgesetzt werden kann; die Reihe wird dann wie eine Zeitschrift behandelt (keine Titel-CSN, sondern eigene Grundsignatur); es kann auch ein eigenes Nummernkontingent im Anschluss an das Alphabet der Zeitschriften vorgesehen werden
+* für thematisch weit gestaffelte Serien ist die Nutzung von Sammelsignaturen möglich, z.B. in den Bereichen AV–AZ; die Nutzung von Einzelsignaturen für Monographien ist aber empfehlenswerter
+* für thematisch eng gefasste Reihen kann man eine eigene Notation für die Reihe mit einer Bandzählung kombinieren
+* für einige große Schriftenreihen gibt es eigene Notationen, z.B. „Corpus Christianorum“ = NH 9015 oder „Beilsteins Handbuch der Organischen Chemie“ = VA 1060
+* sehr spezielle Schriftenreihen können auch systematischen Feingruppen (mit CSN) zugeordnet werden: so werden „Sonstige Schriftenreihen“ in der Mathematik mit der CSN für die Universität (U58) und dann mit der Kurz-CSN für den Ort (z.B. P8 für Potsdam) vergeben
+* wo eine Systematik geschlossen aufgestellte Schriftenreihen vorsieht, müssen alle Stücke mit der Reihensignatur versehen werden; die alternative Signierung nach dem Stücktitel ist dann innerhalb derselben Systematik nicht zulässig
+
+
+Zeitschriften und zeitschriftenartige Reihen
+--------------------------------------------
+
+* die RVK-Untergruppen für Zeitschriften oder zeitschriftenartige Reihen stellen Kontingente dar, aus denen die Signaturen für die Zeitschriften gebildet werden
+* die Signaturen sind, abgesehen vom Buchstaben der Hauptgruppe und vom Buchstaben A der Untergruppe, nicht festgelegt (z.B. GA); auf lokaler Ebene erhalten die Zeitschriften also eine lokalspezifische Signatur
+* nicht frei wählbar für die Verbundebene jedoch ist die Notation: für jedes Kontingent gibt es eine sogenannte Grundnotation, die in der RVK Online normiert ist (z.B. GA 1000)
+* Beispiele
+  * Modern Austrian Literature: Lokale Signatur in Regensburg: 64/GA 6500, frei gewählt aus dem Kontingent GA. Grundnotation ist GA 1000 
+  * The German Quarterly: Lokale Signatur in Regensburg: 64/GA 4340, frei gewählt aus dem Kontingent GA. Grundnotation ist GA 1000
+* > [!NOTE] 📖
+  >"In aller Regel belegen am Beginn jeder Fachsystematik die Zeitschriften des jeweiligen Faches die Untergruppe A (z.B. CA, DA, EA, GA). Es sind außer den beiden Großbuchstaben der Haupt- und Untergruppe keine weiteren Notationselemente festgelegt. Die Untergruppen für Zeitschriften oder zeitschriftenartige Reihen stellen sogenannte Kontingente dar, aus denen die Signaturen für die Zeitschriften gebildet werden. Die Signaturen sind, abgesehen vom Buchstaben der Hauptgruppe und vom Buchstaben A der Untergruppe, nicht festgelegt und damit für die lokale Ebene von den Bibliotheken nach eigenem Ermessen wählbar. Auf lokaler Ebene erhalten die Zeitschriften also eine lokalspezifische Signatur. Nicht frei wählbar für die Verbundebene jedoch ist die Notation. Für jedes Kontingent gibt es eine sogenannte Grundnotation, die in der RVK Online normiert ist. Die Grundnotation ist die in der RVK-Online angegebene Notation, die alle innerhalb des Kontingents vergebenen Signaturen umfasst. Z.B.: Modern Austrian Literature Lokale Zeitschriftensignatur an der UB Regensburg: 64/GA 6500, frei gewählt aus dem Kontingent GA. Grundnotation ist GA 1000 The German Quarterly Lokale Zeitschriftensignatur an der UB Regensburg: 64/GA 4340, frei gewählt aus dem Kontingent GA. Grundnotation ist GA 1000\. \[…\]  
+  >
+  > In den Fachsystematiken sind ebenso Kontingente für Schriftenreihen, Kongressberichte, Wörterbücher, Enzyklopädien usw. reserviert. Im Zusammenhang mit der Normierung der Zeitschriftenkontingente beschloss man auf dem RVK-Anwendertreffen, diese Kontingente ebenfalls auf eine Grundnotation zurückzusetzen. Auch bei diesen Kontingenten bilden die Anwenderbibliotheken auf lokaler Ebene die Signaturen wie gehabt nach eigenem Ermessen. In den (Verbund-)Katalogen wird jedoch ausschließlich die Grundnotation vergeben.  
+  >
+  > Im RVK-Portal sind die Erläuterungen zur Vergabe von Zeitschriftensignaturen sowie zu normierten Grundnotationen bei Schriftenreihen und Serien hinterlegt."
+  >
+  > *Häusler/Werr 2018:152f*
+* bei Zeitschriften und zeitschriftenartigen Reihen entfällt die CSN; sie erhalten eine vereinfachte Signatur, die aus dem zutreffenden Hauptgruppenbuchstaben, einem Untergruppenbuchstaben (meist A) und einer mehrstelligen Nummer besteht
+* die zu verwendenden Buchstaben und Nummernbereiche sind in der jeweiligen Fachsystematik ausgewiesen
+* Beispiele  
+  * BA = Zeitschriften der Theologie und Religionswissenschaften
+  * QA = Zeitschriften der Wirtschaftswissenschaften
+  * HC = Zeitschriften der Anglistik
+  * LD = Zeitschriften der Klass. Archäologie, Kunstgeschichte und Musikwissenschaft
+  * MN = Zeitschriften der Soziologie
+  * in der Systematik Rechtswissenschaft stehen nur die allgemeinen juristischen Zeitschriften bei PA, die anderen zu Beginn der jeweils einschlägigen Untergruppe; ebenso wird in der Systematik Allgemeines verfahren
+* innerhalb der Untergruppe werden die Zeitschriften in der Regel alphabetisch nach dem ersten Wort des Titels (unter Umgehung eines einleitenden Artikels) aufgestellt
+* das Alphabet wird bei der Signaturvergabe in entsprechenden Nummern aus dem vorgesehenen Kontingent umgesetzt
+* durch weiträumig springende Nummernvergabe ist darauf zu achten, dass neue Titel ohne Schwierigkeiten eingeschoben werden können
+* in einigen Fächern sind in der RVK für die Teilgebiete eines Fachs eigene Alphabete mit aufeinanderfolgenden Nummernkreisen ausgewiesen  
+  * Beispiel: QA = Zeitschriften der Wirtschaftswissenschaften  
+    * QA 20000 – QA 22499 = Zeitschriften zum Rechnungswesen
+    * QA 90000 – QA 94999 = IHK-Berichte und Berichte anderer öffentl. Körperschaften
+* ändert eine Zeitschrift oder zeitschriftenartige Reihe ihren Titel unter Fortführung der Bandzählung, so behält sie ihre Notation, auch wenn der neue Titel die alphabetische Ordnung durchbricht.  
+  * Beispiele  
+    * XA 13160 Acta Pathologica, Microbiologica et Immunologica Scandinavica (Titel bis 1992)
+    * XA 13160 Apmis (Titel ab 1993)
+* Mehrfachexemplare – auch an verschiedenen Standorten – erhalten eine eigene, auf die Signatur des ersten Exemplars folgende Grundsignatur
+* dies gilt jedoch nicht, wenn lediglich die Bände desselben Exemplars auf verschiedene Standorte verteilt sind, z.B. ältere Jahrgänge im Magazin, die neueren in einer Teilbibliothek stehen
+* Beispiele  
+  * 12/UA 4060 = Funkschau 1\. Exemplar, Standort 1 (Lokalkennzeichen 12)
+  * 12/UA 4061 = Funkschau 2\. Exemplar, Standort 1 (Lokalkennzeichen 12)
+  * 25/UA 4062 = Funkschau 3\. Exemplar, Standort 2 (Lokalkennzeichen 25)
+* Sonderbände einer Zeitschrift oder zeitschriftenartigen Reihe wie z.B. Register-, Material- und Ergänzungsbände werden behandelt als Untergliederung des davor erschienenen Bandes bzw. des (letzten) Bandes, auf den sie sich beziehen  
+  * Beispiele  
+    * UA 1850-40,1 = Index zu Band 31-40
+    * AB 70010-0,1 = erster rückwärtiger Ergänzungsband
+* einzelne Abteilungen einer Zeitschrift, neue Folgen, die verschiedenen Klassen von Akademieschriften, Beilagen und ähnliches erhalten nach Möglichkeit eigene Grundsignaturen
+* nur wo dies aus Platzmangel nicht mehr möglich ist, kann eine Zählung der Abteilung usw. durch Punkt und Großbuchstaben oder Ziffer angeschlossen werden.  
+  * Beispiele  
+    * AX 17140 Bayer. Akademie der Wiss., Phil.-Hist. Klasse, Abhandlungen
+    * AX 17145 Bayer. Akademie der Wiss., Phil.-Hist. Klasse, Abhandlungen NF
+    * AX 17210 Bayer. Akademie der Wiss., Math.-Phys. Klasse, Abhandlungen
+    * PA 3300.A Deutsches Recht, Ausgabe A
+* sehr spezielle Zeitschriften oder zeitschriftenartige Reihen, die sich auf eine bestimmte Feingruppe, insbesondere auf einzelne Autoren oder Künstler, beziehen, können wie Monographien die entsprechende systematische Signatur mit CSN oder, falls genügend Platz vorhanden, eine eigene Position im Bereich der für den Betreffenden zur Verfügung stehenden Stellen erhalten
+* in der Systematik Germanistik zum Beispiel folgen bei autorenbezogenen Zeitschriften auf die Notation für Sekundärliteratur A1, Punkt und Erscheinungsjahr des ersten Bandes der Zeitschrift
+* Beispiele  
+  * HT 6916 Walt Whitman Review (eigene Notation für die Zeitschrift)
+  * GL 4846 Deutsche Literatur › Grillparzer, Franz › Sekundärliteratur (Hinweis in der RVK: „\[…\] Bei autorenbezogenen Zeitschriften folgt auf die Systemstelle für Sekundärliteratur A1, Punkt und Erscheinungsjahr des ersten Bandes \[…\]“)
+  * GL 4846 A1.1890 Grillparzer-Gesellschaft, Jahrbuch, 1\. Band 1890 erschienen
+  * GM 4755 A1.1972 Arbeitskreis Heinrich Mann. Mitteilungsblatt
+* für viele Bibliotheken gilt inzwischen, dass die Signatur eines Zeitschriftenbandes/-heftes nicht mehr den genauen Bestand wiedergeben muss: sie sollte so kurz wie möglich sein
+* diese Regelung sollte natürlich nur bei Lokaldatenaufnahmen oder -korrekturen berücksichtigt werden; bereits beklebte Zeitschriftenbände werden nicht eigens umkorrigiert
+* Beispiel: 50/NA 1040, Bestand bei Bd. 2: Heft 2 bis 4 und Heft 6 › als Signatur ausreichend: 50/NA 1040-2 (der genaue Bestand ist dem jeweiligen Lokalsatz zu entnehmen)
+
+
+Nicht-Buch-Materialien
+----------------------
+
+* wenn es **größere Bestände** **eigenständiger Nicht-Buch-Materialien** (CDs, DVDs u.ä.)gibt, empfiehlt es sich, dafür ein eigenes Lokalkennzeichen anzulegen und die Medien dort versammelt aufzustellen  
+  * zur Bildung der Signaturen gibt es dann verschiedene Möglichkeiten
+  * man kann die Signaturen für die Medien parallel zu denen der Bücher bilden und sie durch das Lokalkennzeichen unterscheiden  
+    * Beispiele  
+      * „Rico, Oskar und die Tieferschatten“ von Andreas Steinhöfel
+        * XX/DX 4451 S822 R5 = das Buch im Freihandbestand der Bibliothek
+        * XXM/DX 4451 S822 R5 = der Film im Medien-Bestand der Bibliothek
+      * „In Zeiten des abnehmenden Lichts“ von Eugen Ruge
+        * XX/GN 9999 R928 I35= das Buch im Freihandbestand der Bibliothek
+        * XXM/GN 9999 R928 I35 = die Hörspiel-CD im Medien-Bestand der Bibliothek
+  * eine weitere Möglichkeit, um z.B. Filme gesammelt aufzustellen, ist die Nutzung der Regisseur-System­stel­len AP 51000 – AP 51400 und der Sortierung nach Filmtitel  
+    * Beispiel: „Doktor Schiwago“ von Boris L. Pasternak  
+      * XX/KI 5234 D65.1960 = das Buch in einer Ausgabe von 1960
+      * XXM/AP 51400 C196 D6 = der Film unter der Regie von Giacomo Campiotti 2002
+      * XXM/AP 51400 L437 D6 = der Film unter der Regie von David Lean 1965
+* wenn es **nur wenige Nicht-Buch-Materialien** gibt, kann man sie mit den Buch-Medien gemeinsam aufstellen  
+  * die Signaturen für die Medien werden inkl. Lokalkennzeichen wie die zu Buch-Medien gebildet
+* wenn es notwendig ist, **gleichlautende Titel** zu unterscheiden (z.B. wenn ein Buch und seine Verfilmung oder mehrere Einspielungen vorhanden sind), wird analog zu Buch-Medien vorgegangen:  
+  * Erweite­rung durch eine zweite CSN
+  * Verwendung unterschiedlich langer CSN
+  * chronologische Ordnung über das Erscheinungsjahr usw.
+  * Beispiele  
+    * „Rico, Oskar und die Tieferschatten“ von Andreas Steinhöfel
+      * XX/DX 4450 S822 = das Buch
+      * XX/DX 4450 S822 R5 = der Film
+      * XX/DX 4450 S822 R541 = das Hörbuch
+    * „In Zeiten des abnehmenden Lichts“ von Eugen Ruge
+      * XX/GN 9999 R928 I35 = das Buch
+      * XX/GN 9999 R928 I3 = die Hörspielfassung auf CD
+    * „Doktor Schiwago“ von Boris L. Pasternak
+      * XX/KI 5234 D65.1960 = das Buch in einer Ausgabe aus 1960
+      * XX/KI 5234 D65.1965 = der Film aus 1965
+      * XX/KI 5234 D65.2002 = der Film aus 2002
+* **beiliegende Datenträger** können bei Bedarf z.B. per Bandzählung erfasst werden  
+  * Beispiel: „Zeitmanagement“ von Alexander Häfner, Buch mit CD-ROM  
+    * QB 300 H133-1 = Buch
+    * QB 300 H133-2 = CD-ROM
+* bei Veröffentlichungen auf Datenträgern kann eine Unterscheidung verschiedener **Versionen** erforderlich sein (z.B. Version 4.0 oder 6.2)
+* die Versionsbezeichnung wird ggf. wie eine Auflagenbezeichnung in runden Klammern angefügt  
+  * Beispiel: ZN 2455 B927(5.0) = Budig, Peter-Klaus: Langenscheidt e-Fachwörterbuch Elektrotechnik und Elektronik, Version 5.0
+
+
+Grobsignaturen
+--------------
+
+* für bestimmte Medientypen, die unter einem Lokalkennzeichen stehen, kann man sogenannte **Grobsignaturen** verwenden, die nur aus dem Hauptgruppenbuchstaben und einer laufenden Nummer bestehen
+* dabei folgt auf das Lokalkennzeichen nicht eine systematische Signatur, sondern nur der Hauptgruppenbuchstabe mit direkt angeschlossener laufender Nummer
+* Beispiel: XXX/N5794 = Grobsignatur im Bereich Geschichte
+* an der UB Regensburg wird dieses Verfahren z.B. angewendet für Manuskripte, Inkunabeln, Frühdrucke, „Werke von 1550 bis 1799“, „Rara (Wertvolle Bücher ab 1800)“, Dissertationen bis 1909, „Minderwichtige Literatur“ oder Mikromaterialien
+* denkbar sind sie außerdem z.B. für größere Bestände von Mikromaterialien, Dias o.ä.; für diesen Bestand sollte dann auch ein gesondertes Lokalkennzeichen verwendet werden
+* wenn man sich zwischen systematischen und groben Signaturen entscheiden muss, hat die systematische den Vorrang
+
+![Beispiel für eine Grobsignatur in der Biologie im Bestand der UB Regensburg](abbildungen/RVK-Kurs_Signatur_Beispiel_Grobsignatur_W15384_Regensburg.png "Beispiel für eine Grobsignatur in der Biologie im Bestand der UB Regensburg")
+
 
 *************************************************************************************************************
 
@@ -1468,7 +2077,11 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* es wird nach den Notationen und dann nach dem individualisierenden Teil der Signaturen sortiert
+  * GC 9301 K83 A517 steht vor GC 9301 K90 A517 steht vor GC 9302 K80 A517
+* aber Achtung: es wird nach Stellen bzw. Ziffern sortiert, nicht nach Zahlen!
+  * so steht z.B. S38 T3 vor S38 T35 vor (!) S38 T7 vor S38 T78
+
 
 *************************************************************************************************************
 
@@ -1477,7 +2090,59 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+Systematische Signaturen
+========================
+
+Alphabetische Aufstellung nach Cutter-Sanborn-Notation (CSN)
+------------------------------------------------------------
+
+| **Beispiel** | **Erläuterung** |
+| ----- | ----- |
+| **XX/FX 156005 A887** | Grundtyp (Verfasser-CSN)Atzert, Karl: De Cicerone interprete Graecorum   |
+| **XX/GM 7651 S377 P98** | Verfasser-CSN + Zusatz-Kurz-CSN für TitelSchrader, Julie: Pusteblümchens Moritaten   |
+| **XX/BO 2370 A923 W646 O3** | Sachbegriffs-CSN + Verfasser-CSN + Titel-Kurz-CSNWieland, Wolfgang, Offenbarung bei Augustinus , Augustinus vorgecuttert |
+
+Chronologische Aufstellung
+--------------------------
+
+| **Beispiel** | **Erläuterung** |
+| ----- | ----- |
+| **XX/FX 178000.1973** | einfacher TypPublius Vergilius Maro › Gesamtausgaben  |
+| **XX/FH 26001 M83.1974** | Erweiterung um CSN einer EinzelausgabeHippocrates › Teilausgaben/Einzelausgaben/Fragmente › De morbis |
+
+
+Erweiterung durch Band-/Jahrgangszählung
+=========================================
+
+| **Beispiel** | **Erläuterung** |
+| ----- | ----- |
+| **\-20,1-7.9-15** | Heft 1-7 und 9-15 des 20\. Bandes |
+| **\-1/3**   | zusammengebundene Bände 1–3 |
+| **\-199,3.5** | Teil 3 und 5 des 199\. Bandes   |
+| **\-20,12,2** | 2\. Halbband des 12\. Teiles des 20\. Bandes  |
+| **\-1960,1**  | Teil 1 des Jahrgangs 1960 |
+| **\-32 u.a.** | Band 32 und andere Bände einer geschlossen aufgestellten Schriftenreihe in einem Band |
+
+
+Erweiterung durch Auflagenbezeichnung
+=====================================
+
+| **Beispiel** | **Erläuterung** |
+| ----- | ----- |
+| **(12)** | 12\. Aufl. |
+| **(.1955)**  | 1955 erschienener Nachdruck der 1\. Auflage |
+| **(2.1960)** | 1960 erschienener Nachdruck der 2\. Auflage |
+| **(.2001)**  | 2001 erschienener Nachdruck der 1\. Auflage |
+| **(3.2002)** | 2002 erschienener Nachdruck der 3\. Auflage |
+
+
+Grobsignatur
+============
+
+| **Beispiel** | **Erläuterung** |
+| ----- | ----- |
+| **XXY/B7473** | ein nach Grobsignatur aufgestelltes Medium aus dem Bereich Theologie und Religionswissenschaften |
+
 
 *************************************************************************************************************
 
@@ -1486,7 +2151,20 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+Die Grafiken geben einen handlichen Überblick über die notwendigen Entscheidungen zur Erstellung einer RVK-Signatur.
+
+💾 [PDF-Datei mit den Grafiken](downloads/RVK-Kurs_Signaturenbildung_Entscheidungswege.pdf)
+
+Monografien
+-----------
+![Entscheidungswege für Monografien Teil 1](abbildungen/RVK-Kurs_Signaturenvergabe_Entscheidungswege_Monografie_1.png) 
+![Entscheidungswege für Monografien Teil 2](abbildungen/RVK-Kurs_Signaturenvergabe_Entscheidungswege_Monografie_2.png)
+
+Zeitschriften 
+------------
+![Entscheidungswege für Zeitschriften](abbildungen/RVK-Kurs_Signaturenvergabe_Entscheidungswege_Zeitschrift.png)
+
+
 
 *************************************************************************************************************
 
@@ -1495,7 +2173,10 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* [RVK Online](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
+* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) der UB Eichstätt-Ingolstadt, 2002
+* für Bestands-Umsystematisierungen können Mappings zwischen der RVK und anderen Klassifikationen interessant sein: bei [Cocoda](https://coli-conc.gbv.de/cocoda/app/) gibt es z.B. ein Mapping zwischen der RVK und der DDC, und man kann eigene Mappings z.B. für lokale Haussystematiken anlegen
+
 
 *************************************************************************************************************
 
@@ -1504,7 +2185,12 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* Musikwissenschaft LD/LP-LY – 11 Signierbeispiele aus den [RVK-Schulungsunterlagen der UB Regensburg](https://rvk.uni-regensburg.de/?view=article&id=150:informations-und-schulungsunterlagen&catid=122)
+* Erläuterungen zur Vergabe von Notationen und Signaturen für Serien, Schriftenreihen, Kongressberichte, Lehrbücher usw. aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* Erläuterungen zur Vergabe von Zeitschriftennotationen aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* ST Informatik Kurzcutterung (thematische Zwischencutterung aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* Berichte, Vorträge, Veröffentlichungen in der [Bibliographie zur RVK](https://rvk.uni-regensburg.de/?view=article&id=52:52-bibliographien-und-schrifttum&catid=45)
+
 
 *************************************************************************************************************
 
@@ -1513,7 +2199,81 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
- xxx
+Sind diese (Kurz-)Cutter korrekt?
+---------------------------------
+  * R5615 für Adam Riese <br/>
+  [[ korrekt | ( falsch ) ]]
+  * G974 für "Das Gummibärchen-Orakel" <br/>
+  [[ ( korrekt ) | falsch ]]
+  * E35 für Albert Einstein <br/>
+  [[ ( korrekt ) | falsch ]]
+  * H70 für "Hör mal, kleines Eichhörnchen!" <br/>
+  [[ korrekt | ( falsch ) ]]
+  * K12 für Franz Kafka <br/>
+  [[ korrekt | ( falsch ) ]]
+  * M946 für Heiner Müller <br/>
+  [[ ( korrekt ) | falsch ]]
+  * M947 für Rosemarie Müller <br/>
+  [[ ( korrekt ) | falsch ]]
+  * K86 für Theo Koslowsky <br/>
+  [[ korrekt | ( falsch ) ]]
+  * W32 für "Wasserzeichen Fabeltiere: Greif, Drache, Einhorn" <br/>
+  [[ ( korrekt ) | falsch ]]
+
+
+Sortieren Sie diese Signaturen in die richtige Reihenfolge.
+-----------------------------------------------------------
+
+*Gruppe 1*
+- [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]]
+- [( )			( )			(X)			( )  ]  AM 33100 W431
+- [(X)			( )			( )			( )  ]  AM 33100 H541 W322
+- [( )			( )			( )			(x)  ]  AM 33200 T28
+- [( )			(X)			( )			( )  ]  AM 33100 H541 W45
+
+*Gruppe 2*
+
+- [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]	[Platz 5]]
+- [( )			(X)			( )			( ) 		( ) ]  BK 6050 J25-2
+- [( )			( )			( )			(X)  		( ) ]  KV 6050 S571
+- [( )			( )			(X)			( ) 		( ) ]  BK 6050 J25-10
+- [(X)			( )			( )			( ) 		( ) ]  BK 6050 A528
+- [( )			( )			( )			( )  		(X) ]  BK 6050 T629
+
+*Gruppe 3*
+
+- [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]]
+- [(X)			( )			( )			( )  ]  GC 9301 Q3 M25
+- [( )			( )			(X)			( )  ]  GC 9301 Q3 M77
+- [( )			(X)			( )			( )  ]  GC 9301 Q3 M5
+- [( )			( )			( )			(X)  ]  GC 9301 Q3 M77
+
+*Gruppe 4*
+
+- [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]]
+- [( )			( )			( )			(x)  ]  MS 1780 W774 A9
+- [( )			( )			(X)			( )  ]  MS 1780 W774 A895
+- [( )			(X)			( )			( )  ]  MS 1780 W774 A67
+- [(X)			( )			( )			( )  ]  MS 1780 W774 A222
+
+*Gruppe 5*
+
+- [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]]
+- [(X)			( )			( )			( )  ]  ZY 6104 O618 M498
+- [( )			(X)			( )			( )  ]  ZY 6104 O62 S115
+- [( )			( )			(X)			( )  ]  ZY 6104 O62 S25
+- [( )			( )			( )			(X)  ]  ZY 6104 O62 S253
+
+
+
+
+ Beispieltitel zum Üben
+----------------------
+
+In [dieser PDF-Datei](downloads/RVK-Kurs_Signaturenbildung_Uebungen_in-arbeit.pdf) finden Sie einfache und knifflige Fälle. Erstellen Sie die Signaturen für die Werke.
+Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
+> [!IMPORTANT]
+> Die Datei ist noch "work in progress"!
 
 
 *************************************************************************************************************
