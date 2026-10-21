@@ -28,7 +28,7 @@ translate: off
 *************************************************************************************************************
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 21.10.2026 › bislang umgesetzt: Abschnitte 'RVK – was ist das?', 'Das Portal "RVK Online"'. 'Notationen und Signaturen' und 'RVK zur Aufstellung von Medien'
+> Stand 21.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -2283,7 +2283,9 @@ Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 {{|>}}
 *************************************************************************************************************
 
-xxx
+In jeder Bibliothek, die die RVK nutzt, kann es kleinere oder größere Spezifika in der lokalen Anwendung geben im Vergleich zu den grundlegenden Regelungen der UB Regensburg.
+
+Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken der ULB Münster gelten, die die RVK verwenden](https://www.ulb.uni-muenster.de/rvk).
 
 
 *************************************************************************************************************
@@ -2293,7 +2295,31 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* **Informationen**  
+  * Website zur RVK an den Bibliotheken der ULB Münster: [https://uni.ms/rvk](https://uni.ms/rvk)
+* **Kommunikation**  
+  * Koordinierungsstelle RVK an der ULB Münster: Sarah Pielmeier & Viola Voß
+  * zentrale Mail-Adresse rund um die RVK an der ULB Münster: [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de)
+  * es gibt auch einen Kanal "RVK" zum Austausch im Chat-System der Uni, Mattermost
+* **die RVK in Bibliotheken und im KatalogPlus**  
+  * einige Bibliotheken wurden oder werden auf die RVK umgestellt; der Großteil der Bibliotheken nutzt aber weiterhin Haussystematiken
+  * die Bibliotheken, die mit der RVK arbeiten, sorgen für "Notationen im Katalog", aber auch Bestände anderer Bibliotheken werden über das Einspielen von Fremddaten mit RVK-Notationen versehen
+* **RVK-Anwenderverbund**  
+  * seit 2016 ist die ULB Münster Mitglied der [RVK-Community](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46)
+
+
+*************************************************************************************************************
+
+## Recherche nach Beständen mit RVK-Notation
+
+{{|>}}
+*************************************************************************************************************
+
+* in der **erweiterten Suche im** [**KatalogPlus**](https://www.ulb.uni-muenster.de/katalogplus) steht das Feld "Klassifikationen" für die Sache nach RVK-Notationen zur Verfügung:  
+  ![Suche nach RVK-Notationen im Katalog der ULB Münster](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Muenster-ULB.png) 
+
+* man kann **aus der RVK Online von einer Notation aus** unter "Suche lokalen Bestand" › "ULB Münster" prüfen, welche Titel mit dieser Notation in unserem Katalog verzeichnet sind:  
+  ![Suche nach Beständen mit einer Notation im Katalog der ULB Münster über die RVK Online](abbildungen/RVK-Kurs_RVK-Online_Katalogrecherche-Muenster-ULB.png)
 
 
 *************************************************************************************************************
@@ -2303,7 +2329,37 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* das Lokalkennzeichen besteht für das Bibliothekssystem der Universität Münster nicht, wie in anderen Bibliotheken üblich, aus Ziffern, sondern aus **zwei bis drei Buchstaben**
+* die Grundzüge des Münsteraner Lokalkennzeichensystems:  
+  * die Bibliotheken sind **nach dem Fachbereich**, dem sie angehören, **geordnet**
+  * sie erhalten jeweils ein **Haupt-Lokalkennzeichen** aus **zwei Buchstaben**
+  * der erste Buchstabe steht für den Fachbereich bzw. den fachbereichsunabhängigen Bereich, der zweite für die Bibliothek
+  * dieses Haupt-LKZ wird zentral von der Koordinierungsstelle RVK in der ULB festgelegt
+  * Beispiele  
+    * FE = Bibliothek des Instituts für Erziehungswissenschaft (Fachbereich 6)
+    * FS = Bibliothek des Instituts für Sozialwissenschaften (Fachbereich 6)
+    * KC = Bibliothek des Germanistischen Instituts im Vom-Stein-Haus (Fachbereich 9)
+    * KH = Bibliothek des Instituts für Slavistik (Fachbereich 9)
+    * OA = Didaktik der Biologie (Fachbereich 13)
+  * der **optionale dritte Buchstabe** des Lokalkennzeichens wird für weitere Aufstellungsorte innerhalb der Bibliothek oder des Instituts verwendet
+  * die Bibliotheken können über die Verwendung der dritten Stelle selbst entscheiden
+  * Beispiele  
+    * KC = Bibliothek des Germanistischen Instituts im Vom-Stein-Haus
+      * KC › Freihand-Bestand
+      * KCL › Schreib-Lese-Zentrum
+      * KCM › Mercator-Bibliothek
+      * KCP › Forschungsbibliothek Phonopoetik
+      * KCR › Ratgeber-Literatur zur Berufsorientierung für Germanist:innen
+      * KCT › Tests
+    * FE = Bibliothek des Instituts für Erziehungswissenschaft (Fachbereich 6)  
+      * FE › Freihand-Bestand
+      * FEA › Arbeitsstelle für Deutsch-Amerikanische Bildungsgeschichte
+      * FEF › Archiv Fachdidaktik Pädagogik
+      * FEG › Studienwerkstatt Grundschulforschung
+      * FEL › Lese- & Zeitschriftensaal
+      * FEP › Präsenzbestand
+      * FET › Testothek
+* wechselt ein Buch seinen Aufstellungsort innerhalb von Bibliotheken der ULB Münster, die die RVK nutzen, muss nur das Lokalkennzeichen geändert werden; ansonsten kann die Signatur in der Regel unverändert bleiben
 
 
 *************************************************************************************************************
@@ -2313,7 +2369,7 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* in vielen Bibliotheken der ULB Münster sind die Zeitschriften gesondert in eigenen Signaturengruppen aufgestellt, z.B. unter einer Z-Signatur; hier kann es sinnvoll sein, die bisherige Aufstellung der Zeitschriften beizubehalten, da sich die Umstellung auf die RVK nicht unbedingt lohnt
 
 
 *************************************************************************************************************
@@ -2323,7 +2379,8 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* die **Jahreszahl** des Erscheinungsjahres wird in Münster – im Unterschied zum Regensburger Verfahren – immer vierstellig angegeben; Hinweise wie „minus 1000“ daher bitte ignorieren. 1961 wird als 1961 angegeben, nicht als 961
+* für **Schulbücher** gibt es z.B. in der Bibliothek im Vom-Stein-Haus ein System zur Darstellung von Verlag, Schulform und Klassenstufe in den Signaturen per Cutter und Bandangaben
 
 
 *************************************************************************************************************
@@ -2333,7 +2390,11 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+* für die thematische Suche nach Medien, analog zur Schlagwort-Suche, werden **RVK-Notationen** in Bibliotheken der ULB Münster ins **lokale Titeldatenfeld 983** ## \$\$b \$\$2 rvk\_loc sowie ins **Titeldatenfeld 084** ## \$\$a \$\$2 rvk eingetragen
+  * gibt es für ein Medium mehrere Notationen, wird für jede Notation ein Feld angelegt
+  * wenn die Notation in der Signatur eines bearbeiteten Mediums noch nicht in den Feldern 983 und 084 erfasst ist, wird sie dort eingetragen
+* die **Signatur** eines Mediums wird in das Bestandssatzfeld 852 h eingetragen.  
+  * wenn größere Bibliotheksbestände auf die RVK umgearbeitet werden sollen, kann die zukünftige RVK-Signatur eines Mediums vorab im Exemplarsatzfeld Interne Notiz 1 eingetragen werden
 
 
 *************************************************************************************************************
@@ -2343,17 +2404,31 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Lokalkennzeichen
+----------------
+
+* das LKZ wird (ohne „/“) auf einem einzelnen Etikett auf dem oberen Rücken angebracht
+* das Etikett für das LKZ kann, ebenso wie das Signaturschild, farbig sein
+* für nicht-ausleihbaren Bestand hat sich ein LKZ-Etikett mit roter Schrift bewährt
+* bei großen Beständen kann es sich lohnen, vorgedruckte Etiketten mit dem LKZ zu bestellen
 
 
-*************************************************************************************************************
+Signatur
+----------------
 
-## Varia
+* die Signatur wird ohne LKZ und ohne den Schrägstrich unten am Buchrücken an die übliche Position geklebt
+* normalerweise ist das Etikett weiß; um Bestandsbereiche oder die Ausleihbarkeit von Medien zu markieren, können auch farbige Etiketten verwendet werden
+* zur Übersichtlichkeit werden nach Hauptgruppe, Feingruppe, CSNs und Auflagenangaben Zeilenumbrüche gesetzt
+* die folgende Tabelle zeigt einige Beispiele
 
-{{|>}}
-*************************************************************************************************************
+|   |   |   |   |
+|---|---|---|---|
+| GI <br/> 6520 <br/> C368  | GE <br/> 9999 <br/> L987 <br/> M8 | AH <br/> 16996 <br/> H598 <br/> M8(4) | AH <br/> 16996 <br/> H598 <br/> M8(4)\-2 |
+| AH <br/> 16996 <br/> H598 <br/> M8\-2(4) | GL <br/> 5864 <br/> H598 <br/> M8\-2+3 | GC <br/> 5968 <br/> A1 <br/> H517 <br/> \-1984 | GM <br/> 5163 <br/> B85.2000 <br/> G5 |
+| GL <br/> 2039. <br/> 1927 | GL <br/> 5864. <br/> 1996 <br/> \-4 | AH <br/> 16996 <br/> H598. <br/> 2000 | AH <br/> 19669 <br/> H598 <br/> (2.1960) |
+| HM <br/> 2814 <br/> H598 <br/> (.1969) | HM <br/> 2814 <br/> I10D | ER <br/> 730 <br/> E19S <br/> 9D(8) |                  |
 
-xxx
+![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB.jpg "Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster")
 
 
 *************************************************************************************************************
@@ -2363,7 +2438,9 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx   
+* eine **Liste der Münsteraner Lokalkennzeichen** und die **Handreichung zur Nutzung der RVK an der ULB Münster** sind [auf der Website zur RVK](https://www.ulb.uni-muenster.de/rvk) zu finden
+* weitere Dokumentationen sind **im internen Wiki der Bibliothek** verfügbar
+
 
 *************************************************************************************************************
 
@@ -2372,6 +2449,85 @@ xxx
 {{|>}}
 *************************************************************************************************************
 
-xxx
+Richtig oder falsch?
+--------------------
+* Alle Bibliotheken der ULB Münster werden nach und nach auf die RVK umgestellt. <br/>
+  [[ richtig | ( falsch ) ]]
+* Zeitschriften müssen in Bibliotheken der ULB Münster auf jeden Fall nach RVK aufgestellt werden. <br/>
+  [[ richtig | ( falsch ) ]]
+* Die ULB Münster ist Mitglied der "RVK-Community". <br/>
+  [[ ( richtig ) | falsch ]]
+* Als Mitglied der RVK-Community darf die ULB über Änderungen und Erweiterungen der RVK mit abstimmen <br/>
+  [[ ( richtig ) | falsch ]]
+
+
+Woraus bestehen die Lokalkennzeichen für die Bibliotheken der ULB Münster?
+------------------------------------
+[[ Zahlen | ( Buchstaben ) | aus einer Mischung von beidem ]]
+
+
+Für welche Bibliothek gelten diese Münsteraner Lokalkennzeichen?
+----------------------------------------------------------------
+* FEP <br/>
+  [[ ( Bibliothek Erziehungswissenschaft › Präsenzbestand ) | Bibliothek im Vom-Stein-Haus › Germanistik › Tests | Bibliothek im Vom-Stein-Haus › Didaktik der Biologie | Bibliothek Slavistik › Rara | Bibliothek Sozialwissenschaften › Aasee-Lab | Zentralbibliothek | dieses Lokalkennzeichen gibt es in Münster nicht ]]
+* FSA <br/>
+  [[ Bibliothek Erziehungswissenschaft › Präsenzbestand | Bibliothek im Vom-Stein-Haus › Germanistik › Tests | Bibliothek im Vom-Stein-Haus › Didaktik der Biologie | Bibliothek Slavistik › Rara | ( Bibliothek Sozialwissenschaften › Aasee-Lab ) | Zentralbibliothek | dieses Lokalkennzeichen gibt es in Münster nicht ]]
+* KCT <br/>
+  [[ Bibliothek Erziehungswissenschaft › Präsenzbestand | ( Bibliothek im Vom-Stein-Haus › Germanistik › Tests ) | Bibliothek im Vom-Stein-Haus › Didaktik der Biologie | Bibliothek Slavistik › Rara | Bibliothek Sozialwissenschaften › Aasee-Lab | Zentralbibliothek | dieses Lokalkennzeichen gibt es in Münster nicht ]]
+* KHR <br/>
+  [[ Bibliothek Erziehungswissenschaft › Präsenzbestand | Bibliothek im Vom-Stein-Haus › Germanistik › Tests | Bibliothek im Vom-Stein-Haus › Didaktik der Biologie | ( Bibliothek Slavistik › Rara ) | Bibliothek Sozialwissenschaften › Aasee-Lab | Zentralbibliothek | dieses Lokalkennzeichen gibt es in Münster nicht ]]
+* MS <br/>
+  [[ Bibliothek Erziehungswissenschaft › Präsenzbestand | Bibliothek im Vom-Stein-Haus › Germanistik › Tests | Bibliothek im Vom-Stein-Haus › Didaktik der Biologie | Bibliothek Slavistik › Rara | Bibliothek Sozialwissenschaften › Aasee-Lab | Zentralbibliothek | ( dieses Lokalkennzeichen gibt es in Münster nicht ) ]]
+* OA <br/>
+  [[ Bibliothek Erziehungswissenschaft › Präsenzbestand | Bibliothek im Vom-Stein-Haus › Germanistik › Tests | ( Bibliothek im Vom-Stein-Haus › Didaktik der Biologie ) | Bibliothek Slavistik › Rara | Bibliothek Sozialwissenschaften › Aasee-Lab | Zentralbibliothek | dieses Lokalkennzeichen gibt es in Münster nicht ]]
+
+
+Wo wird das Lokalkennzeichen an Münsteraner RVK-Büchern angebracht?
+--------------------
+* es wird mit auf das Signaturenetikett geschrieben <br/>
+  [[ richtig | ( falsch ) ]]
+* es wird auf einem gesonderten Etikett oben am Buchrücken befestigt <br/>
+  [[ ( richtig ) | falsch ]]
+* es wird auf einem gesonderten Etikett unten am Buchrücken direkt über das Signaturenetikett geklebt <br/>
+  [[ richtig | ( falsch ) ]]
+* es wird gar nicht aufs Buch geklebt, sondern steht nur im Katalogeintrag <br/>
+  [[ richtig | ( falsch ) ]]
+
+
+Sind dies korrekte Signaturen für Münsteraner Bücher?
+--------------------
+* FS/MB 2300 P889(2)+7 <br/>
+  [[ ( ja ) | nein ]]
+* KC/ER 945 L192 – <br/>
+  [[ ( ja ) | nein ]]
+* 61 ER 945 L192 <br/>
+  [[ ja | ( nein ) ]]
+* KH/KP 5480 D999-2 <br/>
+  [[ ( ja ) | nein ]]
+* 17\.30-00/47 <br/>
+  [[ ja | ( nein ) ]]
+* OA/DP 6330 S542 <br/>
+  [[ ( ja ) | nein ]]
+
+
+
+Sie haben ein Buch gefunden, das gut zu einer thematischen Suche einer Nutzerin passt. Wie können Sie ausgehend von diesem Treffer verfahren, um mehr Literatur zu dem Thema zu finden?
+--------------------
+
+Das gefundene Buch: „[Erwachsenenbildung für die Migrationsgesellschaft](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991024188909706449)“  
+![Das Buch 'Erwachsenenbildung für die Migrationsgesellschaft' im Katalog der ULB Münster](abbildungen/RVK-Kurs_Lokalteil_MS_Beispiel-Buch.png)
+ 
+  
+* Ich wähle in der erweiterten Suche das Suchfeld "Signatur" aus und gebe "FE/DW 1500\*" ein. <br/>
+  [[ ( richtig ) | falsch ]]
+* Ich klicke in der Detailanzeige des Treffers im Feld "Klassifikation" auf DW 1500\. <br/>
+  [[ ( richtig ) | falsch ]]
+* Ich wähle in der erweiterten Suche das Suchfeld "Signatur" aus und gebe 3K 79148" ein. <br/>
+  [[ richtig | ( falsch ) ]]
+* Ich wähle in der erweiterten Suche das Suchfeld "Signatur" aus und gebe ein: Pae 4\*. <br/>
+  [[ ( richtig ) | falsch ]]
+* Ich wähle in der erweiterten Suche das Suchfeld "Klassifikation" aus und gebe "DW 1500" ein. <br/>
+  [[ ( richtig ) | falsch ]]
+
 
 *************************************************************************************************************
