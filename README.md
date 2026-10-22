@@ -30,7 +30,7 @@ classroom: disable
 *************************************************************************************************************
 
 > [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 21.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
+> Stand 22.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -67,6 +67,11 @@ Nach Abschluss des Kurses …
 - können Sie verschiedene Strategien anwenden, um RVK-Notationen zu einem Thema zu finden,
 - können Sie RVK-Signaturen für Medien erstellen,
 - können Sie, wenn es im Lokalteil ein Kapitel zur Nutzung der RVK speziell an Ihrer Bibliothek gibt, die lokal geltenden Vorgaben anwenden, oder alternativ erläutern, wie diese Vorgaben für die ULB Münster aussehen.
+
+> [!TIP] **Hinweise zur Nutzung**
+> Über das Menü oben rechts können Sie über die Einstellungen – der Button mit den kleinen Schiebereglern – die Schriftgröße und die Kontrastfarbe anpassen und zwischen Hell-/Dunkel-Modus wechseln.
+>
+> Durch einen Klick auf den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
 > Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne unter der im Impressum genannten Adresse!
@@ -108,7 +113,6 @@ Technik
 
 * Dieser Kurs wird über [LiaScript](https://liascript.github.io/) bereitgestellt.
 * Die Daten liegen während der Entwicklung des Kurses auf [https://github.com/vossviola/RVK-Kurs/].
-* Durch einen Klick auf den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
 
 Kontakt & Feedback
