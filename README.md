@@ -21,7 +21,7 @@ classroom: disable
 -->
 
 
-[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK-Kurs)
+[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/vossviola/RVK-Kurs "zum Kurs im LiaScript-Player")
 
 
 # Die RVK – wozu, was, wie?
@@ -105,20 +105,20 @@ Erstellung des Kurses
 Lizenz
 -------------------------
 
-Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](http://creativecommons.org/licenses/by/4.0/).
+Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/ "zur Lizenz-Website").
 
 
 Technik
 -------------------------
 
-* Dieser Kurs wird über [LiaScript](https://liascript.github.io/) bereitgestellt.
-* Die Daten liegen während der Entwicklung des Kurses auf [https://github.com/vossviola/RVK-Kurs/].
+* Dieser Kurs wird über [LiaScript](https://liascript.github.io/ "zur Website von LiaScript") bereitgestellt.
+* Die Daten liegen während der Entwicklung des Kurses auf [GitHub](https://github.com/vossviola/RVK-Kurs/ "zu den Dateien für diesen Kurs auf GitHub").
 
 
 Kontakt & Feedback
 -------------------------
 
-* Koordinierungsstelle RVK der ULB Münster, rvk.ulb@uni-muenster.de
+* Koordinierungsstelle RVK der ULB Münster, [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de "Mail an die Koordinierungsstelle schicken")
 * Wir freuen uns jederzeit über Vorschläge zur Verbesserung und Ergänzung des Kurses!
 
 
@@ -139,7 +139,7 @@ Zum Einstieg
 Dies sind Bibliotheksbücher, die gemäß der Regensburger Verbundklassifikation aufgestellt und erschlossen werden:
 ![Bücher in einem Bibliotheksregal, die nach RVK aufgestellt sind](abbildungen/RVK-Kurs_Beispiel-Buecher_Muenster-ULB_Detail.jpg) ![Katalogeintrag eines der auf dem vorhergehenden Bild abgebildeteten Bücher](abbildungen/RVK-Kurs_Beispiel-Buecher_Muenster-ULB_Detail_Katalogeintrag.png)
 
-Wieso sehen die Signaturenschilder und der Eintrag "Klassifikationen" im Katalog – hier beispielhaft [in dem der ULB Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991038586399706449) – so aus, wie sie aussehen?
+Wieso sehen die Signaturenschilder und der Eintrag "Klassifikationen" im Katalog – hier beispielhaft [in dem der ULB Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991038586399706449 "Link zu einem Medium mi Katalog der ULB Münster") – so aus, wie sie aussehen?
 
 Darum geht es in diesem Kurs.
 
@@ -177,11 +177,11 @@ Darum geht es in diesem Kurs.
 - es werden **Gruppen oder Klassen** gebildet, die durch bestimmte **Zeichen oder Codes aus Zahlen und Buchstaben** dargestellt werden
 - Klassifikationen sind also eine Methode zur **Wissensordnung und Wissenspräsentation**
 - Beispiele
-    - Geowissenschaften: [Systematik der Minerale](https://de.wikipedia.org/wiki/Systematik_der_Minerale)
-    - Lebensmittel: [Einteilung von Feiner Backware](https://de.wikipedia.org/wiki/Feine_Backware)
-    - Medizin: [Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme](https://de.wikipedia.org/wiki/Internationale_statistische_Klassifikation_der_Krankheiten_und_verwandter_Gesundheitsprobleme) = International Statistical Classification of Diseases and Related Health Problems (ICD)
-    - Technik: [Schiffsklassifikationen](https://de.wikipedia.org/wiki/Schiffsklasse#Schiffsklassifikation)
-    - Bibliothekswesen: [ASB](https://de.wikipedia.org/wiki/Allgemeine_Systematik_f%C3%BCr_%C3%96ffentliche_Bibliotheken), [DDC](https://de.wikipedia.org/wiki/Dewey-Dezimalklassifikation), [LCC](https://de.wikipedia.org/wiki/Library_of_Congress_Classification), [BK](https://de.wikipedia.org/wiki/Basisklassifikation), [TUM-Systematik](https://www.ub.tum.de/tum-systematik-faecher), zahllose Haussystematiken von Bibliotheken – und die [RVK](https://de.wikipedia.org/wiki/Regensburger_Verbundklassifikation)
+    - Geowissenschaften: [Systematik der Minerale](https://de.wikipedia.org/wiki/Systematik_der_Minerale "zur Systematik der Minerale")
+    - Lebensmittel: [Einteilung von Feiner Backware](https://de.wikipedia.org/wiki/Feine_Backware "zum Wikipedia-Artikel zu Feinen Backwaren")
+    - Medizin: [Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme](https://de.wikipedia.org/wiki/Internationale_statistische_Klassifikation_der_Krankheiten_und_verwandter_Gesundheitsprobleme "zum Wikipedia-Eintrag zur ICD") = International Statistical Classification of Diseases and Related Health Problems (ICD)
+    - Technik: [Schiffsklassifikationen](https://de.wikipedia.org/wiki/Schiffsklasse#Schiffsklassifikation "zum Wikipedia-Eintrag zur Schiffsklassifikation")
+    - Bibliothekswesen: [ASB](https://de.wikipedia.org/wiki/Allgemeine_Systematik_f%C3%BCr_%C3%96ffentliche_Bibliotheken "zum Wikipedia-Eintrag zur ASB"), [DDC](https://de.wikipedia.org/wiki/Dewey-Dezimalklassifikation "zum Wikipedia-Eintrag zur DDC"), [LCC](https://de.wikipedia.org/wiki/Library_of_Congress_Classification "zum Wikipedia-Eintrag zur LCC"), [BK](https://de.wikipedia.org/wiki/Basisklassifikation "zum Wikipedia-Eintrag zur BK"), [TUM-Systematik](https://www.ub.tum.de/tum-systematik-faecher "zur Systematik der Bibliothek der TU München"), zahllose Haussystematiken von Bibliotheken – und die [RVK](https://de.wikipedia.org/wiki/Regensburger_Verbundklassifikation "zum Wikipedia-Eintrag der RVK")
 
 *************************************************************************************************************
 
@@ -226,7 +226,7 @@ Inhaltserschließung von Medien
 =========================
 in Katalogen lokal, regional und überregional → die Notationen werden in den Katalogisaten eingetragen → dadurch sind thematische Recherchen in regionalen und überregionalen Katalogen, Discovery-Systemen usw. möglich
 
-*Beispiel-Katalogeinträge der Uni-Bibliotheken [Greifswald](https://discovery.ub.uni-greifswald.de/search?q=id%3A566068036&v=566068036), [Mannheim](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21181813300002561) und [Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/dhla6/alma991044929853806449):*
+*Beispiel-Katalogeinträge der Uni-Bibliotheken [Greifswald](https://discovery.ub.uni-greifswald.de/search?q=id%3A566068036&v=566068036 "zu einem Medium im Katalog der UB Greifswald"), [Mannheim](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21181813300002561 "zu einem Medium im Katalog der UB Mannheim") und [Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/dhla6/alma991044929853806449 "zu einem Medium im Katalog der ULB Münster):*
 
 ![Katalog eines nach RVK aufgestellten Buches in der UB Greifswald](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Greifswald-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der UB Mannheim](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Mannheim-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Katalogeintrag.png)
 
@@ -361,11 +361,12 @@ Warum die RVK nutzen und nicht z.B. die DDC oder eine Haussystematik?
 *************************************************************************************************************
 
 - Böttger, Klaus-Peter (2021): **Basiskenntnis Bibliothek: eine Fachkunde für Fachangestellte für Medien- und Informationsdienste – Fachrichtung Bibliothek**. 6., neubearbeitete und erweiterte Auflage Bad Honnef: Bock + Herchen. › Kapitel 11, Inhaltliche Erschließung, Sacherschließung.
-- Gantert, Klaus (2026): **Bibliothekarisches Grundwissen**. Berlin/Boston: De Gruyter Saur. https://doi.org/10.1515/9783111176352. › Kapitel 3.3 Klassifikatorische Inhaltserschließung.
-- Häusler, Ines / Werr, Naoka (2018): "**Die Regensburger Verbundklassifikation (RVK)**". In: Alex, Heidrun / Bee, Guido / Junger, Ulrike (2018): Klassifikationen in Bibliotheken: Theorie – Anwendung – Nutzen. (= Bibliotheks- und Informationspraxis. 53.) De Gruyter Saur. S. 127–163. https://doi.org/10.1515/9783110299250-005.
+- Gantert, Klaus (2026): **Bibliothekarisches Grundwissen**. Berlin/Boston: De Gruyter Saur. [https://doi.org/10.1515/9783111176352](https://doi.org/10.1515/9783111176352 "zum Artikel")>. › Kapitel 3.3 Klassifikatorische Inhaltserschließung.
+- Häusler, Ines / Werr, Naoka (2018): „**Die Regensburger Verbundklassifikation (RVK)**“. In: Alex, Heidrun / Bee, Guido / Junger, Ulrike (2018): Klassifikationen in Bibliotheken: Theorie – Anwendung – Nutzen. (= Bibliotheks- und Informationspraxis. 53.) De Gruyter Saur. S. 127–163. [https://doi.org/10.1515/9783110299250-005](https://doi.org/10.1515/9783110299250-005 "zum Artikel").
 - Lorenz, Bernd (Hrsg.) (2017): **Handbuch zur Regensburger Verbundklassifikation**. Materialien zur Einführung. 3., überarbeitete Auflage. Wiesbaden: Harrassowitz.
-- **RVK-Community › Teilnehmende Bibliotheken**: Liste [auf dieser RVK-Seite](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46)
-- **Übersetzungen der RVK: welche gibt es und wo findet man sie?** › [auf dieser Seite im RVK-Wiki](https://rvk.uni-regensburg.de/?view=article&id=148:uebersetzungen&catid=2) (eine vollständige Übersetzung der RVK ins Englische ist zurzeit in Vorbereitung) 
+- Lorenz, Bernd (2018): „**Zur Theorie und Terminologie der bibliothekarischen Klassifikation**“. In: Alex, Heidrun / Bee, Guido / Junger, Ulrike (2018): Klassifikationen in Bibliotheken: Theorie – Anwendung – Nutzen. (= Bibliotheks- und Informationspraxis. 53.) De Gruyter Saur. S. 1–22. [https://doi.org/10.1515/9783110299250-001](https://doi.org/10.1515/9783110299250-001 "zum Artikel").
+- **RVK-Community › Teilnehmende Bibliotheken**: Liste [auf dieser RVK-Seite](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46 "zur Liste der RVK-Community-Bibliotheken")
+- **Übersetzungen der RVK: welche gibt es und wo findet man sie?** › [auf dieser Seite im RVK-Wiki](https://rvk.uni-regensburg.de/?view=article&id=148:uebersetzungen&catid=2 "zur Übersicht über die bereits vorhandenen Übersetzungen der RVK auf den Seiten der UB Regensburg") (eine vollständige Übersetzung der RVK ins Englische ist zurzeit in Vorbereitung) 
 
 *************************************************************************************************************
 
@@ -427,7 +428,7 @@ Bibliotheken, die über Änderungsvorschläge mit abstimmen wollen, müssen der 
 
 Ist Ihre Bibliothek eine "offizielle" RVK-Community-Bibliothek?
 ----------------------------------------------------
-- [Finden Sie es heraus!](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46)
+- [Finden Sie es heraus!](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46 "zur Liste der RVK-Community-Bibliotheken")
 
 
 *************************************************************************************************************
@@ -457,7 +458,7 @@ Zum Einstieg
 {{|>}}
 *************************************************************************************************************
 
-* RVK-Portal: <https://rvk.uni-regensburg.de/> › linkes Menü: "RVK online"
+* RVK-Portal: [rvk.uni-regensburg.de](https://rvk.uni-regensburg.de/ "zur RVK Online") › linkes Menü: "RVK online"
 * die **Oberfläche** ist in **zwei Fenster** eingeteilt:  
   * links sehen Sie den RVK-Baum, darüber befindet sich das zentrale Eingabefeld, in dem man nach Notationen und Benennungen suchen kann
   * im Fenster der rechten Seite ("Ergebnisfenster") werden bei Anwendung die Ergebnisse von Benennungs- und Registersuchen sowie das Tool „CutterJo“ und Details zu ausgewählten Notationen dargestellt
@@ -510,8 +511,8 @@ Zum Einstieg
   * zum Beispiel "Rodentia (Nagetiere)" für WH 8975 in der Biologie-Systematik W im Bereich H "Evolution"
 * da eine Benennung, auch wenn sie durchaus ausführlicher sein kann, nicht immer alle Aspekte eines Themengebietes ausdrücken kann, kann man für Systemstellen **Registerbegriffe** angeben, die verdeutlichen, worum es in dieser Klasse geht  
   * zum Beispiel "Eichhörnchen", "Nagetiere" und "Phylogenie" für WH 8975 Rodentia (Nagetiere)
-  * als Registerbegriffe können nur Schlagwörter aus der [Gemeinsamen Normdatei (GND)](https://de.wikipedia.org/wiki/Gemeinsame%5FNormdatei) verwendet werden
-  * Mitarbeiter:innen in Bibliotheken, die zur "offiziellen RVK-Community" gehören, können über ein Tool im RVK-Portal Registerbegriffe ergänzen oder korrigieren; Mitarbeiter:innen anderer Bibliotheken können Vorschläge per Mail an die [Fachkoordination an der UB Regensburg](https://rvk.uni-regensburg.de/kontakt) schicken
+  * als Registerbegriffe können nur Schlagwörter aus der [Gemeinsamen Normdatei (GND)](https://de.wikipedia.org/wiki/Gemeinsame%5FNormdatei "zum Wikipedia-Artikel zur GND") verwendet werden
+  * Mitarbeiter:innen in Bibliotheken, die zur "offiziellen RVK-Community" gehören, können über ein Tool im RVK-Portal Registerbegriffe ergänzen oder korrigieren; Mitarbeiter:innen anderer Bibliotheken können Vorschläge per Mail an die [Fachkoordination an der UB Regensburg](https://rvk.uni-regensburg.de/kontakt "zu den Kontaktdaten der RVK-Fachkoordination an der UB Regensburg") schicken
 
 ![die Notation WH 8975 als Beispiel](abbildungen/RVK-Kurs_RVK-Online_Notation_WH8975.png)
 
@@ -626,8 +627,8 @@ Beispiele für Schlüssel
 {{|>}}
 *************************************************************************************************************
 
-* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
-* GND: [**GND-Explorer**](https://explore.gnd.network/), [**lobid-gnd**](http://lobid-gnd)
+* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online "zur RVK Online")
+* GND: [**GND-Explorer**](https://explore.gnd.network/ "zum GND-Explorer"), [**lobid-GND**](https://lobid-gnd "zur lobid-GND)
 
 *************************************************************************************************************
 
@@ -636,7 +637,7 @@ Beispiele für Schlüssel
 {{|>}}
 *************************************************************************************************************
 
-* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)  
+* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")  
 
 *************************************************************************************************************
 
@@ -885,7 +886,7 @@ Individualisierender Teil
 
 ![Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976")
 
-* heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de)
+* heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de "zur RVK Online")
 
   ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png) ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png)
   *das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt und integriert im Portal RVK-Online*
@@ -975,11 +976,12 @@ Mehrfachexemplare
 -------------
 
 * bei Übersetzungen wird der Originaltitel des Werkes als Ordnungswort verwendet, an dessen CSN dann ein Großbuchstabe für die Sprache der Übersetzung angehängt wird
+* in den meisten Fällen wird ein Kurz-Cutter für den Titel genügen
 * Beispiele  
-  * 50/EC 3765 L192 M587 = George Lakoff:: "Metaphors we live by", engl. Original
-  * 50/EC 3765 L192 M587D = George Lakoff: "Leben in Metaphern", dt. Übersetzung von "Metaphors we live by" (und nicht L442)
-  * 50/IH 91900 G279 J43 = Anna Gavalda: „Je voudrais que quelqu’un m’attende quelque part”, frz. Original
-  * 50/IH 91900 G279 J43D = Anna Gavalda: „Ich wünsche mir, dass irgendwo jemand auf mich wartet“, dt. Übersetzung von „Je voudrais que quelqu’un m’attende quelque part“ (und nicht I16)
+  * 50/EC 3765 L192 M5 = George Lakoff: "Metaphors we live by", engl. Original
+  * 50/EC 3765 L192 M5D = George Lakoff: "Leben in Metaphern", dt. Übersetzung von "Metaphors we live by" (und nicht L442)
+  * 50/IH 91900 G279 J4 = Anna Gavalda: „Je voudrais que quelqu’un m’attende quelque part”, frz. Original
+  * 50/IH 91900 G279 J4D = Anna Gavalda: „Ich wünsche mir, dass irgendwo jemand auf mich wartet“, dt. Übersetzung von „Je voudrais que quelqu’un m’attende quelque part“ (und nicht I16)
   * 50/GN 9999 S295 S399 = Frank Schätzing, „Der Schwarm“, dt. Original
   * 50/GN 9999 S295 S399E = Frank Schätzing, „The Swarm“, engl. Übersetzung von „Der Schwarm“ (und nicht S973)
 
@@ -1002,8 +1004,8 @@ Weiterführende Informationen zu diesen Signaturenbestandteilen gibts im Kapitel
 {{|>}}
 *************************************************************************************************************
 
-* [RVK Online](https://rvk.uni-regensburg.de/)
-* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) an der UB Eichstätt-Ingolstadt
+* [RVK Online](https://rvk.uni-regensburg.de/ "zur RVK Online")
+* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo an der UB Eichstätt-Ingolstadt") an der UB Eichstätt-Ingolstadt
 
 *************************************************************************************************************
 
@@ -1012,7 +1014,7 @@ Weiterführende Informationen zu diesen Signaturenbestandteilen gibts im Kapitel
 {{|>}}
 *************************************************************************************************************
 
-* **Regeln für die Signaturenvergabe an der UB Regensburg** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* **Regeln für die Signaturenvergabe an der UB Regensburg** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")
 * Cutter, Charles Ammi / Sanborn, Kate E. (1976): **Cutter-Sanborn three-figure author table**. Swanson-Swift rev., 3\. print. Englewood, Colorado: Libraries Unlimited.
 
 *************************************************************************************************************
@@ -1157,7 +1159,12 @@ Ordnen Sie diese individualisierenden Signaturen-Bestandteile den richtigen Fäl
 {{|>}}
 *************************************************************************************************************
 
-... fällt uns hier noch was "zum Einstieg" ein?
+> [!NOTE] 📖
+> "Klassifikationssysteme mit ihrer hierarchischen Struktur sind ideal dazu geeignet, Bestände oder Dokumentmengen nach inhaltlichen Kriterien aufzubereiten und zugänglich zu machen. Der Nutzer trifft dazu auf jeder Ebene der Hierarchie eine Auswahl, die seinem Informationsbedürfnis am nächsten kommt, und kann diese in jedem Schritt weiter verfeinern. Sobald der gewünschte Detailgrad der Suche erreicht ist, kann eine Suche nach allen Medien angestoßen werden, die den Klassen im gewählten Bereich des Klassifikationssystems zugeordnet sind. […]
+> 
+> Die Regensburger Verbundklassifikation kann über ihr Onlineportal nicht nur eingesehen werden, über die Baumstruktur können auch Suchen in zahlreichen Anwenderbibliotheken und den Verbundkatalogen angestoßen werden.
+> 
+> *Pfeffer/Schöllhorn 2018:210, 212*
 
 
 *************************************************************************************************************
@@ -1184,17 +1191,17 @@ Notationen in der RVK-Online ermitteln
 *zwei Beispiele für Verweise zu thematisch ähnilchen Klassen*
 
 
-Schneeballsystem" anwenden
+"Schneeballsystem" anwenden
 ---------------------------------------
 
-* zum jeweiligen Thema passende Titel im „[Mannheimer ISBN-Tool](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html)“ auf RVK-Notationen prüfen , die von Bibliotheken für das Buch vergeben wurden  
+* zum jeweiligen Thema passende Titel im „[Mannheimer ISBN-Tool](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html "zum Mannheimer ISBN-Tool")“ auf RVK-Notationen prüfen , die von Bibliotheken für das Buch vergeben wurden  
   * hierfür müssen die Titel über eine ISBN verfügen; ältere Titel können damit nicht als Referenzbeispiele dienen
-* zum jeweiligen Thema passende Titel im [Karlsruher Virtuellen Katalog](https://kvk.bibliothek.kit.edu/) (KVK) auf RVK-Notationen prüfen  
+* zum jeweiligen Thema passende Titel im [Karlsruher Virtuellen Katalog](https://kvk.bibliothek.kit.edu/ "zum KVK") (KVK) auf RVK-Notationen prüfen  
   * eignet sich auch für Werke ohne ISBN
   * Treffer mit RVK-Notationen sind v.a. im BVB-Verbundkatalog zu erwarten
 * zum jeweiligen Thema passende Titel im Katalog einer "einschlägigen RVK-Bibliothek" auf RVK-Notationen prüfen  
   * eignet sich auch für Werke ohne ISBN
-  * überlegen Sie z.B. anhand des Fächerspektrums [bayerischer Universitäten und Hochschulen](https://de.wikipedia.org/wiki/Kategorie:Hochschule%5Fin%5FBayern), wo das von Ihnen gesuchte Thema gut vertreten ist, und stöbern Sie im Katalog der jeweiligen Bibliothek
+  * überlegen Sie z.B. anhand des Fächerspektrums [bayerischer Universitäten und Hochschulen](https://de.wikipedia.org/wiki/Kategorie:Hochschule%5Fin%5FBayern "zur Wikipedia-Kategorie 'Hochschulen in Bayern'"), wo das von Ihnen gesuchte Thema gut vertreten ist, und stöbern Sie im Katalog der jeweiligen Bibliothek
   * als Anregung können die Bibliotheken dienen, deren Katalog in der RVK Online bei der Katalogsuche verlinkt sind (siehe dazu den nächsten Abschnitt)
   * mit der Zeit werden Sie ein Gefühl dafür entwickelt, welche Bibliothek sich als "Referenzbibliothek" für welche Themengebiete eignet
 
@@ -1226,10 +1233,10 @@ in einem Bibliothekskatalog nach Notationen suchen
 
 * prüfen Sie, ob und wenn ja wie Sie im jeweiligen Katalog gezielt nach Notationen suchen können  
   * einige Beispiele:  
-    * in den Katalogen der [UB Regensburg](https://katalog.uni-regensburg.de/) oder der [Bibliothek der HS Ansbach](https://fantp20.bib-bvb.de/TouchPoint/start.do?View=fan&Language=de) geht das z.B. in der erweiterten Suche über das Feld "Notation"
-    * im [Katalog der ULB Münster](https://katalogplus.uni-muenster.de/) über "Klassifikationen"
-    * in dem [der SUB Hamburg](https://katalogplus.sub.uni-hamburg.de/) über "Systematik"
-    * im [Discovery-System der UB Greifwald](https://discovery.ub.uni-greifswald.de/) sucht man mit "topic:\[Notation\]", also z.B. "topic:ER 745".
+    * in den Katalogen der [UB Regensburg](https://katalog.uni-regensburg.de/ "zum Katalog der UB Regensburg") oder der [Bibliothek der HS Ansbach](https://fantp20.bib-bvb.de/TouchPoint/start.do?View=fan&Language=de "zum Katalog der Bibliothek der HS Ansbach") geht das z.B. in der erweiterten Suche über das Feld "Notation"
+    * im [Katalog der ULB Münster](https://katalogplus.uni-muenster.de/ "zum Katalog der ULB Müntser") über "Klassifikationen"
+    * in dem [der SUB Hamburg](https://katalogplus.sub.uni-hamburg.de/ "zum Katalog der SUB Hamburg") über "Systematik"
+    * im [Discovery-System der UB Greifwald](https://discovery.ub.uni-greifswald.de/ "Discovery-System der UB Greifwald") sucht man mit "topic:\[Notation\]", also z.B. "topic:ER 745".
 
 ![Recherche nach RVK-Notationen im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Regensburg-UB.png) ![Recherche nach RVK-Notationen im Katalog der ULB Münster](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Muenster-ULB.png) ![Recherche nach RVK-Notationen im Katalog der SUB Hamburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Hamburg-SUB.png) ![Recherche nach RVK-Notationen im Katalog der UB Greifswald](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Greifswald-UB.png)
 *Recherche nach RVK-Notationen in den Katalogen der Uni-Bibliotheken Regensburg, Münster, Hamburg, Greifswald*
@@ -1315,9 +1322,9 @@ Zu berücksichtigen in Bibliothekskatalogen
 {{|>}}
 *************************************************************************************************************
 
-* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
-* ["**Mannheimer ISBN-Tool**"](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html)
-* [**Karlsruher Virtueller Katalog** (KVK)](https://kvk.bibliothek.kit.edu)
+* [**RVK Online**](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online "zur RVK Online")
+* ["**Mannheimer ISBN-Tool**"](https://data.bib.uni-mannheim.de/malibu/isbn/suche.html "zum Mannheimer ISBN-Tool")
+* [**Karlsruher Virtueller Katalog** (KVK)](https://kvk.bibliothek.kit.edu "zum KVK") 
 
 *************************************************************************************************************
 
@@ -1326,7 +1333,8 @@ Zu berücksichtigen in Bibliothekskatalogen
 {{|>}}
 *************************************************************************************************************
 
-* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
+* **Anleitung zur Nutzung der RVK** bei den [Nutzungshinweisen zur RVK](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")
+* Pfeffer, Magnus / Schöllhorn, Katharina (2018): „**Praktische Nutzung von Klassifikationssystemen**“. In: Alex, Heidrun / Bee, Guido / Junger, Ulrike (2018): Klassifikationen in Bibliotheken: Theorie – Anwendung – Nutzen. (= Bibliotheks- und Informationspraxis. 53.) De Gruyter Saur. S. 207–233. [https://doi.org/10.1515/9783110299250-007](https://doi.org/10.1515/9783110299250-007 "zum Artikel")
 
 *************************************************************************************************************
 
@@ -1354,7 +1362,7 @@ Richtig oder falsch?
 Über welche Wege können Sie herausfinden, welche Literatur in einer Bibliothek unter einer bestimmten Notation aufgestellt oder damit erschlossen wurde?
 -----------------------------------------------------
 
-  * über den [KVK](https://kvk.bibliothek.kit.edu) <br/>
+  * über den [KVK](https://kvk.bibliothek.kit.edu "zum KVK") <br/>
   [[ ( richtig ) | falsch ]]
   * über die Katalogsuche unten rechts bei Notationen in der RVK Online <br/>
   [[ ( richtig ) | falsch ]]
@@ -1957,9 +1965,9 @@ Zeitschriften
 {{|>}}
 *************************************************************************************************************
 
-* [RVK Online](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)
-* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl) der UB Eichstätt-Ingolstadt, 2002
-* für Bestands-Umsystematisierungen können Mappings zwischen der RVK und anderen Klassifikationen interessant sein: bei [Cocoda](https://coli-conc.gbv.de/cocoda/app/) gibt es z.B. ein Mapping zwischen der RVK und der DDC, und man kann eigene Mappings z.B. für lokale Haussystematiken anlegen
+* [RVK Online](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online "zur RVK Online")
+* [CutterJo](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") der UB Eichstätt-Ingolstadt, 2002
+* für Bestands-Umsystematisierungen können Mappings zwischen der RVK und anderen Klassifikationen interessant sein: bei [Cocoda](https://coli-conc.gbv.de/cocoda/app/ "zu Cocoda") gibt es z.B. ein Mapping zwischen der RVK und der DDC, und man kann eigene Mappings z.B. für lokale Haussystematiken anlegen
 
 
 *************************************************************************************************************
@@ -1969,11 +1977,11 @@ Zeitschriften
 {{|>}}
 *************************************************************************************************************
 
-* Musikwissenschaft LD/LP-LY – 11 Signierbeispiele aus den [RVK-Schulungsunterlagen der UB Regensburg](https://rvk.uni-regensburg.de/?view=article&id=150:informations-und-schulungsunterlagen&catid=122)
-* Erläuterungen zur Vergabe von Notationen und Signaturen für Serien, Schriftenreihen, Kongressberichte, Lehrbücher usw. aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
-* Erläuterungen zur Vergabe von Zeitschriftennotationen aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
-* ST Informatik Kurzcutterung (thematische Zwischencutterung aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise)
-* Berichte, Vorträge, Veröffentlichungen in der [Bibliographie zur RVK](https://rvk.uni-regensburg.de/?view=article&id=52:52-bibliographien-und-schrifttum&catid=45)
+* Musikwissenschaft LD/LP-LY – 11 Signierbeispiele aus den [RVK-Schulungsunterlagen der UB Regensburg](https://rvk.uni-regensburg.de/?view=article&id=150:informations-und-schulungsunterlagen&catid=122 "zu den Signierbeispielen")
+* Erläuterungen zur Vergabe von Notationen und Signaturen für Serien, Schriftenreihen, Kongressberichte, Lehrbücher usw. aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")
+* Erläuterungen zur Vergabe von Zeitschriftennotationen aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")
+* ST Informatik Kurzcutterung (thematische Zwischencutterung aus den [RVK-Nutzungshinweisen der UB Regensburg](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/nutzungshinweise "zu den Nutzungshinweisen zur RVK")
+* Berichte, Vorträge, Veröffentlichungen in der [Bibliographie zur RVK](https://rvk.uni-regensburg.de/?view=article&id=52:52-bibliographien-und-schrifttum&catid=45 "zur Bibliographie zur RVK")
 
 
 *************************************************************************************************************
@@ -2069,7 +2077,7 @@ Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 
 In jeder Bibliothek, die die RVK nutzt, kann es kleinere oder größere Spezifika in der lokalen Anwendung geben im Vergleich zu den grundlegenden Regelungen der UB Regensburg.
 
-Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken der ULB Münster gelten, die die RVK verwenden](https://www.ulb.uni-muenster.de/rvk).
+Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken der ULB Münster gelten, die die RVK verwenden](https://www.ulb.uni-muenster.de/rvk "zur RVK-Seite der ULB Münster").
 
 
 *************************************************************************************************************
@@ -2080,16 +2088,16 @@ Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken de
 *************************************************************************************************************
 
 * **Informationen**  
-  * Website zur RVK an den Bibliotheken der ULB Münster: [https://uni.ms/rvk](https://uni.ms/rvk)
+  * Website zur RVK an den Bibliotheken der ULB Münster: [uni.ms/rvk](https://uni.ms/rvk "zur RVK-Seite der ULB Münster")
 * **Kommunikation**  
   * Koordinierungsstelle RVK an der ULB Münster: Sarah Pielmeier & Viola Voß
-  * zentrale Mail-Adresse rund um die RVK an der ULB Münster: [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de)
+  * zentrale Mail-Adresse rund um die RVK an der ULB Münster: [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de "Mail an die RVK-Koordinierungsstelle der ULB Münster schicken")
   * es gibt auch einen Kanal "RVK" zum Austausch im Chat-System der Uni, Mattermost
 * **die RVK in Bibliotheken und im KatalogPlus**  
   * einige Bibliotheken wurden oder werden auf die RVK umgestellt; der Großteil der Bibliotheken nutzt aber weiterhin Haussystematiken
   * die Bibliotheken, die mit der RVK arbeiten, sorgen für "Notationen im Katalog", aber auch Bestände anderer Bibliotheken werden über das Einspielen von Fremddaten mit RVK-Notationen versehen
 * **RVK-Anwenderverbund**  
-  * seit 2016 ist die ULB Münster Mitglied der [RVK-Community](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46)
+  * seit 2016 ist die ULB Münster Mitglied der [RVK-Community](https://rvk.uni-regensburg.de/home?view=article&id=115:teilnehmende-bibliotheken&catid=46 "zur Liste der RVK-Community-Bibliotheken")
 
 
 *************************************************************************************************************
@@ -2099,7 +2107,7 @@ Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken de
 {{|>}}
 *************************************************************************************************************
 
-* in der **erweiterten Suche im** [**KatalogPlus**](https://www.ulb.uni-muenster.de/katalogplus) steht das Feld "Klassifikationen" für die Sache nach RVK-Notationen zur Verfügung:  
+* in der **erweiterten Suche im** [**KatalogPlus**](https://www.ulb.uni-muenster.de/katalogplus "zum Katalog der ULB Münster") steht das Feld "Klassifikationen" für die Sache nach RVK-Notationen zur Verfügung:  
   ![Suche nach RVK-Notationen im Katalog der ULB Münster](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Muenster-ULB.png) 
 
 * man kann **aus der RVK Online von einer Notation aus** unter "Suche lokalen Bestand" › "ULB Münster" prüfen, welche Titel mit dieser Notation in unserem Katalog verzeichnet sind:  
@@ -2222,7 +2230,7 @@ Signatur
 {{|>}}
 *************************************************************************************************************
 
-* eine **Liste der Münsteraner Lokalkennzeichen** und die **Handreichung zur Nutzung der RVK an der ULB Münster** sind [auf der Website zur RVK](https://www.ulb.uni-muenster.de/rvk) zu finden
+* eine **Liste der Münsteraner Lokalkennzeichen** und die **Handreichung zur Nutzung der RVK an der ULB Münster** sind [auf der Website zur RVK](https://www.ulb.uni-muenster.de/rvk "zur RVK-Seite der ULB Münster") zu finden
 * weitere Dokumentationen sind **im internen Wiki der Bibliothek** verfügbar
 
 
@@ -2298,7 +2306,7 @@ Sind dies korrekte Signaturen für Münsteraner Bücher?
 Sie haben ein Buch gefunden, das gut zu einer thematischen Suche einer Nutzerin passt. Wie können Sie ausgehend von diesem Treffer verfahren, um mehr Literatur zu dem Thema zu finden?
 --------------------
 
-Das gefundene Buch: „[Erwachsenenbildung für die Migrationsgesellschaft](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991024188909706449)“  
+Das gefundene Buch: „[Erwachsenenbildung für die Migrationsgesellschaft](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/o6v3dl/alma991024188909706449 "zum Eintrag für das Buch im Katalog der ULB Münster)“  
 ![Das Buch 'Erwachsenenbildung für die Migrationsgesellschaft' im Katalog der ULB Münster](abbildungen/RVK-Kurs_Lokalteil_MS_Beispiel-Buch.png)
  
   
