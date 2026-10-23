@@ -464,9 +464,9 @@ Zum Einstieg
   * im Fenster der rechten Seite ("Ergebnisfenster") werden bei Anwendung die Ergebnisse von Benennungs- und Registersuchen sowie das Tool „CutterJo“ und Details zu ausgewählten Notationen dargestellt
     ![die Bereiche der RVK Online](abbildungen/RVK-Kurs_RVK-Online_Bereiche.png)
 * im Folgenden schauen wir uns die Suchen und die Angaben zu den Notationen genauer an; um den CutterJo wird es im nächsten Kapitel gehen
-* die **Breite der beiden Fenster** lässt sich über das Pfeilsymbols im "Mittelbalken" ändern
+* die **Breite der beiden Fenster** lässt sich über das Pfeilsymbol im "Mittelbalken" ändern
 * mit den beiden Lupen-Buttons +/- können Sie die **Schriftgröße im RVK-Baum** ändern; der mittlere Button ohne +/- setzt sie auf die Voreinstellung zurück
-* der Radiergummi-Button dienst zum **Zurücksetzen aller Suchanfragen**
+* der Radiergummi-Button dient zum **Zurücksetzen aller Suchanfragen**
 * mit demVier-Pfeile-Button wechseln Sie in die **Vollansicht des RVK-Baums** und wieder zurück: die linke Menüleiste wird dabei aus-/eingeblendet
 * Stand Herbst 2026 gibt es leider manchmal ein **Problem mit der Anzeige des Baumes**, an deren Behebung gearbeitet wird, die aber aus technischen Gründen noch länger dauern wird:  
   * bei längeren Themenabschnitten friert die Anzeige der Notationen-Hierarchie beim Scrollen per Leiste oder Mausrad manchmal ein, wenn die Länge des "ausgeklappten" Abschnitts die Seitenanzeige überschreitet
@@ -1239,7 +1239,7 @@ in einem Bibliothekskatalog nach Notationen suchen
 *Recherche nach RVK-Notationen in den Katalogen der Uni-Bibliotheken Regensburg, Münster, Hamburg, Greifswald*
 
 * es kann sinnvoll sein, die Notation mit Anführungsstrichen einzuschließen, um sie als Suchphrase zu kennzeichnen
-* Tippa  
+* Tipps  
   * arbeiten Sie mit trunkierten oder verknüpften Suchen, um Unterklassen „mitzunehmen“  
     * für Batterien gibt es z.B. die Notationen VN 6050 – VN 6059 › Suche nach „VN 605\*“
     * für die Textlinguistik gibt es ET 760 – ET 790 › Suche nach „ET 76\* ODER ET 77\* ODER ET 78\* ODER ET 79\*“
