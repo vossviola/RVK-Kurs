@@ -493,7 +493,7 @@ Zum Einstieg
 * die **RVK Einfach** beinhaltet fachsystematikübergreifende Verlinkungen bei Notationsverweisen und das Gesamtregister aller Registerbegriffe  
   * > [!WARNING] Baustelle
     > Zurzeit (10/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :( <br/>
-    > Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu Notationsverweisesen und dem Gesamtregister nach.
+    > Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu Notationsverweisen und dem Gesamtregister nach.
 
 
 *************************************************************************************************************
