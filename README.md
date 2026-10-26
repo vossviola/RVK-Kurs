@@ -29,8 +29,8 @@ classroom: disable
 {{|>}}
 *************************************************************************************************************
 
-> [!IMPORTANT] Dieser Kurs ist noch Work in Progress! 
-> Stand 23.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
+> [!IMPORTANT] **Dieser Kurs ist noch 'Work in Progress'!**
+> Stand 26.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -70,8 +70,10 @@ Nach Abschluss des Kurses …
 
 > [!TIP] **Hinweise zur Nutzung**
 > Über das Menü oben rechts können Sie über die Einstellungen – der Button mit den kleinen Schiebereglern – die Schriftgröße und die Kontrastfarbe anpassen und zwischen Hell-/Dunkel-Modus wechseln.
+> 
+> Klicken Sie auf Abbildungen, um sie größer anzeigen zu lassen.
 >
-> Durch einen Klick auf den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
+> Über den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
 > Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne unter der im Impressum genannten Adresse!
@@ -194,15 +196,16 @@ Darum geht es in diesem Kurs.
 - sie ist **im deutschsprachigen Raum** die **meistgenutzte Systematik in wissenschaftlichen Bibliotheken** 
 - ursprünglich wurde sie **in den 1960er-Jahren für die internen Zwecke der Universitätsbibliothek Regensburg entwickelt**; mit der Zeit haben immer Bibliotheken beschlossen, sie ebenfalls für ihre Bestände zu nutzen
 - mittlerweile gibt es über 140 "offizielle" Anwendereinrichtungen in Deutschland, Österreich, Italien, Liechtenstein und der Schweiz, die als "RVK-Community" registriert sind, und darüber hinaus zahlreiche weitere, die die RVK "einfach so" einsetzen
-- die RVK besteht aus **34 Teil-Klassifikationen bzw. Fachsystematiken**:
+- die RVK ist eine Systematik, die in mittlerweile 34 **Fachsystematiken** gegliedert ist:
     ![die Teilsystematiken der RVK](abbildungen/RVK-Kurs_RVK-Teilsystematiken.png)
-- die **Klassen in den Fachsystematiken** werden mit einer sogenannten **Notation** bezeichnet, die jeweils aus 2 Buchstaben und drei bis sechs Ziffern besteht
+- die **Klassen in den Fachsystematiken** werden mit einer sogenannten **Notation** bezeichnet, die in aller Regel jeweils aus 2 Buchstaben, einem Spatium (Leerzeichen) und drei bis sechs Ziffern besteht
 - Beispiele: SG 500 steht für die "Geschichte der Mathematik", LH 60210 für das Mittelalter in der bildenden Kunst, GB 1668 für Linguistische Bibliografien zu einzelnen Sachbegriffen (Sachgebieten) in der Germanistik, SN 530 für Schachprobleme, NW 6170 für Schokolade, Zuckerwaren in der Wirtschaftsgeschichte, AN 75100 für den Systematischen Katalog in der Sacherschließung in Bibliotheken oder ER 751 für die Geschichte der Schrift:
   ![Ausschnitt aus der Teilsystematik E der RVK](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt.png)
 - die RVK ist eine sogenannte **Verbundklassifikation**
   - es gibt eine zentrale Redaktion in Regensburg
-  - alls Bibliotheken dürfen die RVK kostenfrei nutzen
-  - jede Bibliothek kann eigene Entscheidungen treffen: es muss nicht jedes Medium gleich behandelt werden
+  - alle Bibliotheken dürfen die RVK kostenfrei nutzen
+  - jede Bibliothek kann selbst entscheiden, welche Notationen sie wählt: es muss nicht jedes Medium gleich behandelt werden
+  - zur Verknüpfung von Titeln in Verbundkatalogen dürfen allerdings nur gültige Notationen genutzt werden
 
 
 *************************************************************************************************************
@@ -214,17 +217,20 @@ Darum geht es in diesem Kurs.
 
 Aufstellung von Medien
 =========================
-im Regal vor Ort → die Notationen werden in Signaturen verwendet → damit ist dann thematisches Auffinden verwandter Literatur oder "Browsen am Regal" vor Ort möglich
+**im Regal vor Ort** <br/>
+→ die Notationen werden in Signaturen verwendet <br/>
+→ damit ist dann thematisches Auffinden verwandter Literatur oder "Browsen am Regal" vor Ort möglich
 
 *nach RVK aufgestellte Bücher in den Uni-Bibliotheken Greifswald, Mannheim und Münster:*
 
 ![nach RVK aufgestelle Bücher in der UB Greifswald](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Greifswald-UB.jpg) ![nach RVK aufgestelle Bücher in der UB Mannheim](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Mannheim-UB.jpg) ![nach RVK aufgestelle Bücher in der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB.jpg)
 
 
-
 Inhaltserschließung von Medien
 =========================
-in Katalogen lokal, regional und überregional → die Notationen werden in den Katalogisaten eingetragen → dadurch sind thematische Recherchen in regionalen und überregionalen Katalogen, Discovery-Systemen usw. möglich
+**in Katalogen lokal, regional und überregional** <br/>
+→ die Titelaufnahmen in den Katalogen werden mit einer oder mehreren Notationen verknüpft <br/>
+→ dadurch sind thematische Recherchen in regionalen und überregionalen Katalogen, Discovery-Systemen usw. möglich
 
 *Beispiel-Katalogeinträge der Uni-Bibliotheken [Greifswald](https://discovery.ub.uni-greifswald.de/search?q=id%3A566068036&v=566068036 "zu einem Medium im Katalog der UB Greifswald"), [Mannheim](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21181813300002561 "zu einem Medium im Katalog der UB Mannheim") und [Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/dhla6/alma991044929853806449 "zu einem Medium im Katalog der ULB Münster):*
 
@@ -249,28 +255,29 @@ in Katalogen lokal, regional und überregional → die Notationen werden in den 
 {{|>}}
 *************************************************************************************************************
 
-- die sogenannte "**RVK-Community**" besteht aus zwei Gruppen
-    - **"offiziell" teilnehmende Bibliotheken**
-        - wurde 2010 eingerichtet
-        - Bibliotheken zahlen einen Jahresbeitrag
-        - dürfen dafür bei der Entwicklung „mitreden“: können Vorschläge für Änderungen und Ergänzungen machen und über Vorschläge abstimmen
-    - **"inoffiziell" teilnehmende Bibliotheken, Einrichtungen und Privatpersonen**
-        - können die RVK einfach kostenfrei nutzen
-        - können aber nicht über Vorschläge abstimmen
+- die Nutzer:innen der RVK können in zwei Gruppen aufgeteilt werden:
+  - die **Anwendergemeinde**
+    - die Bibliotheken / Einrichtungen / Privatpersonen, die die im Internet kostenfrei zur Verfügung stehende RVK zur Aufstellung und/oder Sacherschließung nutzen
+  - die **RVK-Community**
+    - diese Bibliotheken und Einrichtungen – zurzeit rund 140 – haben einen Vertrag mit der UB Regensburg (bzw. mit dem Freistaat Bayern) geschlossen, und sie zahlen einen Jahresbeitrag
+    - die Mitglieder der RVK-Community dürfen bei der inhaltlichen Weiterentwicklung der RVK aktiv mitwirken: 
+      - sie können Vorschläge für Änderungen und Ergänzungen machen und über eingebrachte Vorschläge abstimmen,
+      - sie können sich in den Gremien (z.B. Fachgruppen und RVK-Beirat) einbringen und mitarbeiten,
+      - sie bekommen Zugriff auf das Community-Wiki und interne Tools im RVK-Portal
 
 > [!NOTE] 📖 
 > "Vor dem Hintergrund der immer größer werdenden Zahl an Anwendern und des damit verbundenen gestiegenen Betreuungsaufwandes wurde im Jahr 2010 nach jahrzehntelanger Eigenleistung der Universitätsbibliothek Regensburg eine geringe Umlagefinanzierung eingeführt. Diese dient der Gewährleistung des technischen Betriebs. Inzwischen sind über \[140\] Bibliotheken und Institutionen dem engeren Anwenderkreis – der RVK-Community – beigetreten (Stand \[Juli 2026\]). Die Mitglieder der RVK-Community beteiligen sich an der inhaltlichen Weiterentwicklung der RVK. Auf diese Weise wird gewährleistet, dass sich die Fachsystematiken am aktuellen Stand der Forschung orientieren."
 >
 > *Häusler/Werr 2018:156*
 
-- an der **UB Regensburg** gibt es die **Fachkoordination bztw. Koordinierungsstelle für die RVK**
-    - Fachkoordinatorinnen, Sachbearbeiter:innen, Entwickler:innen
+- an der **UB Regensburg** gibt es die **Fachkoordination bzw. Koordinierungsstelle für die RVK**
+    - eine Fachkoordinatorin und eine Sachbearbeiterin, unterstützende Betreuung durch das IT-Team der UB Regensburg
     - Inhaltliche Betreuung von Änderungs- und Erweiterungsvorschlägen
     - technische Betreuung und Weiterentwicklung: z.B. Updates des Portals, Betrieb des Portal-Servers, Programmierungen (z.B. API, Kollektives Register)
     - organisatorische Betreuung: z.B. Organisation der jährlichen RVK-Konferenz zum Austausch unter RVK-Anwender:innen
 - es gibt einen **Beirat** für die RVK
   - wurde 2016 eingerichtet
-  - Bibliothekar:innen aus verschiedenen Bibliotheken + Kolleg:innen aus der UB Regensburg + Vertreter:innen der Bibliotheksverbünde (außer hbz)
+  - Bibliothekar:innen aus verschiedenen Bibliotheken der RVK-Community + Kolleg:innen aus der UB Regensburg + Vertreter:innen der Bibliotheksverbünde (außer hbz)
   - übergeordnetes Gremium, das sich mit der strategischen und technischen Weiterentwicklung der RVK und ihrer Datenstruktur beschäftigt
 
 > [!NOTE] 📖 
@@ -288,29 +295,48 @@ in Katalogen lokal, regional und überregional → die Notationen werden in den 
 {{|>}}
 *************************************************************************************************************
 
-Schritt 1
-=========
-- RVK-Community-Bibliotheken können im RVK-Portal bei den einzelnen Notationen über den Button „Änderungen beantragen“ genau das tun
-- alle RVK-Nutzenden können den Button „Kurzkommentare verschicken“ bei den Notationen für kleinere Korrekturen wie z.B. Tippfehler nutzen
-- alle RVK-Nutzenden können zudem eine Mail an die Koordinierungsstelle an der UB Regensburg schicken für Vorschläge für Änderungen oder Ergänzungen
 
-Schritt 2
-=========
-- die Vorschläge werden durch die Koordinierungsstelle gesichtet
-- sie entscheidet entweder direkt über Zulassung oder Ablehnung der Vorschläge, oder sie gibt sie an die jeweilige Fachgruppe zur Erörterung weiter
+über die RVK-Anwendergemeinde
+=============================
+- die Einrichtungen und Personen der Anwendergemeinde können z.B. formale Fehler wie Tippfehler an die Fachkoordination an der UB Regensburg melden, indem sie in der RVK Online den Button „Kurzkommentare verschicken“ bei den Notationen nutzen
 
-Schritt 3
-=========
-- die zugelassenen Vorschläge werden eine Zeit lang auf einer Neumeldungsliste gesammelt
-- nach Ablauf der Meldefrist dürfen Community-Bibliotheken eine Zeit lang über die Vorschläge abstimmen oder Diskussionen dazu eröffnen
-- nach Ablauf der Abstimmungsfrist gelten die Vorschläge bei entsprechender Abstimmung als angenommen und werden in die RVK eingearbeitet, oder sie werden abgelehnt
 
-Schritt 4
-=========
-- jeweils einmal pro Quartal werden die Änderungen in die RVK eingespielt: zum 15. März, 15. Juni, 15. September und zum 15. Dezember
-- die Bekanntmachung der neuen Notationen erfolgt entsprechend durch vierteljährliche Rundbriefe per Mail, die auch über die Tätigkeiten der Koordinierungsstelle informieren
+über die RVK-Community
+=============================
+- die Einrichtungen der Community können an der inhaltlichen Weiterentwicklung mitwirken
 
-*Beispiel für eine Änderung einer Notationsbenennung und für die Ergänung einer neuen Klasse, wie sie in der Neumeldungsliste 96 Ende 2025 zur Diskussion gestellt (und angenommen) wurden:*
+Schritt 1:  Einbringen von Änderungs- oder Ergänzungsvorschlägen, z.B. von Notationen 
+--------------------------------------------------------------------------------------
+- wenn eine Änderung an einer bestimmten Notation beantragt werden soll: im RVK-Portal bei einzelnen Notationen über den Button „Änderungen beantragen“
+- wenn Neumeldungen, Änderungen, Ergänzungen oder Löschungen beantragt werden sollen: Einreichen im RVK-Portal über das Neumeldungsformular
+
+Schritt 2: Sichtung durch die RVK-Fachkoordination an der UB Regensburg und durch die Fachgruppen
+--------------------------------------------------------------------------------------
+- die Vorschläge laufen bei der RVK-Fachkoordination ein und werden nach formalen Gesichtspunkten gesichtet
+- dann werden sie an die jeweilige Fachgruppe zur Diskussion weitergeleitet
+- die Fachgruppe stimmt der Zulassung zu oder setzt sich mit dem/der Antragsteller:in Verbindung
+
+Schritt 3: Neumeldungslisten
+--------------------------------------------------------------------------------------
+- die Vorschläge werden nach der Sichtung der Fachgruppen im Community-Wiki im RVK-Portal auf eine Neumeldungsliste gesetzt
+- pro Quartal gibt es eine Neumeldungsliste und eine Meldefrist
+- nach Ablauf der Meldefrist wird die Vorschlagsliste geschlossen, und die Bibliotheken der RVK-Community sollen dann über die Vorschläge abstimmen und/oder Diskussionen dazu eröffnen
+- nach Ablauf einer Abstimmungsfrist gelten die Vorschläge bei entsprechender Abstimmung als angenommen, und wie werden in die RVK eingearbeitet
+- wenn Vorschläge abgelehnt oder Einwände dagegen eingebracht werden, wird versucht, einen Konsens zu finden
+
+Schritt 4: Update der RVK
+--------------------------------------------------------------------------------------
+- jeweils einmal pro Quartal werden die Änderungen in die RVK eingespielt: zu Mitte März, Mitte Juni, Mitte September und Mitte Dezember
+- die Bekanntmachung der neuen Notationen erfolgt entsprechend durch vierteljährliche Rundbriefe per Mail, die auch über die Tätigkeiten der Koordinierungsstelle informieren; diese Rundbriefe werden auch im RVK-Portal bereitgestellt
+
+Schritt 5: Einspielen der Updates in die Verbünde
+--------------------------------------------------------------------------------------
+- für die sogenannten „abnehmenden Systeme“ wie z.B. die Verbundkataloge werden die Update-lieferungen im RVK-Portal als MARCXML zum Download zur Verfügung gestellt
+- gelegentlich können zwischen dem Update von RVK-Online, RVK Druck und RVK Einfach und dem Einspielen in den Verbünden ein paar Tage vergehen
+
+<br/><br/>
+
+*Beispiel für eine Änderung einer Notationsbenennung und für die Ergänzung einer neuen Klasse, wie sie in der Neumeldungsliste 96 Ende 2025 zur Diskussion gestellt (und angenommen) wurden:*
 
 ![Screenshot der Neumeldeliste 96 für die RVK](abbildungen/RVK-Kurs_Neumeldeliste-96.png) ![Screenshot des Vorschlags "ZE 56200 Benennung ändern" von der Neumeldungsliste 96 für die RVK](abbildungen/RVK-Kurs_Neumeldeliste-96_Beispieleintrag-ZE56200.png) ![Screenshot der geänderten Notaton ZE 56200 in der RVK Online](abbildungen/RVK-Kurs_Neumeldeliste-96_Beispieleintrag-ZE56200_Systematik.png) ![Screenshot des Vorschlags "EK 2180" als neue Notation von der Neumeldungsliste 96 für die RVK](abbildungen/RVK-Kurs_Neumeldeliste-96_Beispieleintrag-EK2180.png) ![Screenshot der neuen Notaton EK 2180 in der RVK Online](abbildungen/RVK-Kurs_Neumeldeliste-96_Beispieleintrag-EK2180_Systematik.png)
 
