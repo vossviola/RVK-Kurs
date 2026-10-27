@@ -2106,7 +2106,10 @@ In jeder Bibliothek, die die RVK nutzt, kann es kleinere oder größere Spezifik
 
 Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken der ULB Münster gelten, die die RVK verwenden](https://www.ulb.uni-muenster.de/rvk "zur RVK-Seite der ULB Münster").
 
-*Hier folgen noch Fotos von "RVK-Büchern" aus der Münsteraner Biologie, Germanistik, Slavistik, Theologie und den Jüdischen Studien.*
+<br/><br/>
+
+![nach RVK aufgestellte Bücher in der Bibliothek des Zentrums für Didaktik der Biologie der Uni Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Biologie.jpg) ![nach RVK aufgestellte Bücher in der Bibliothek des Germanistischen Instituts der Uni Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik.jpg) ![nach RVK aufgestellte Bücher in der Bibliothek des Instituts für Slavistik der Uni Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Slavistik.jpg)
+*"RVK-Bücher" aus der Biologie, der Germanistik und der Slavistik der ULB Münster*
 
 
 *************************************************************************************************************
