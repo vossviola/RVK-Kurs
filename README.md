@@ -30,7 +30,7 @@ classroom: disable
 *************************************************************************************************************
 
 > [!IMPORTANT] **Dieser Kurs ist noch 'Work in Progress'!**
-> Stand 26.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
+> Stand 27.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -1413,7 +1413,7 @@ Wie können Sie über mehrere Unterklassen suchen?
 {{|>}}
 *************************************************************************************************************
 
-... fällt uns hier noch was "zum Einstieg" ein?
+*Hier folgt noch ein Foto von "in der Buchtechnik befindlichen" RVK-Büchern mit Signaturenetiketten-Bogen.*
 
 *************************************************************************************************************
 
@@ -2090,6 +2090,10 @@ Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 > [!IMPORTANT]
 > Die Datei ist noch "work in progress"!
 
+> [!TIP] Sie kennen weitere „pädagogisch wertvolle“ Beispiele, die sich gut zum Üben eignen? <br/>
+> Wir freuen uns über Ihre Meldung! <br/>
+> Eine Kontaktadresse finden Sie im [Impressum](#2 "zum Impressum").
+
 
 *************************************************************************************************************
 
@@ -2101,6 +2105,8 @@ Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 In jeder Bibliothek, die die RVK nutzt, kann es kleinere oder größere Spezifika in der lokalen Anwendung geben im Vergleich zu den grundlegenden Regelungen der UB Regensburg.
 
 Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken der ULB Münster gelten, die die RVK verwenden](https://www.ulb.uni-muenster.de/rvk "zur RVK-Seite der ULB Münster").
+
+*Hier folgen noch Fotos von "RVK-Büchern" aus der Münsteraner Biologie, Germanistik, Slavistik, Theologie und den Jüdischen Studien.*
 
 
 *************************************************************************************************************
