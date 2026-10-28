@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  0.1
+version:  2026-10-28
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -32,7 +32,7 @@ import:   https://raw.githubusercontent.com/MINT-the-GAP/lia-navigation/main/REA
 *************************************************************************************************************
 
 > [!IMPORTANT] **Dieser Kurs ist noch 'Work in Progress'!**
-> Stand 28.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
+> Es müssen noch einige Dinge ergänzt oder poliert werden. :)
 
 <br/>
 
@@ -91,14 +91,15 @@ Nach Abschluss des Kurses …
 {{|>}}
 *************************************************************************************************************
 
-Versionen
+Stand
 -------------------------
 
-0.1 – Oktober 2026 – für den Test durch interessierte Kolleg:innen
+28. Oktober 2026
 
 <br/>
 
-Erstellung des Kurses
+
+Erstellung 
 -------------------------
 
 Viola Voß (ULB Münster)
@@ -111,6 +112,7 @@ Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Mater
 
 <br/>
 
+
 Lizenz
 -------------------------
 
@@ -119,6 +121,7 @@ Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4
 ![Grafik zur Creative-Commons-Lizenz CC BY](abbildungen/cc-by.png)
 
 <br/>
+
 
 Technik
 -------------------------
@@ -129,11 +132,14 @@ Die Daten liegen auf [GitHub](https://github.com/vossviola/RVK-Kurs/ "zu den Dat
 
 <br/>
 
+
 Kontakt & Feedback
 -------------------------
 
-* Koordinierungsstelle RVK der ULB Münster, [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de "Mail an die Koordinierungsstelle schicken")
-* Wir freuen uns jederzeit über Vorschläge zur Verbesserung und Ergänzung des Kurses!
+Koordinierungsstelle RVK der ULB Münster, [rvk.ulb@uni-muenster.de](mailto:rvk.ulb@uni-muenster.de "Mail an die Koordinierungsstelle schicken")
+
+> [!TIP] Ideen zur Verbesserung und Ergänzung des Kurses?
+> Wir freuen uns jederzeit über Vorschläge!
 
 
 
