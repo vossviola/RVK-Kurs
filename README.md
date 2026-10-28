@@ -92,33 +92,40 @@ Nach Abschluss des Kurses …
 Versionen
 -------------------------
 
-* 0.1 – xx.xx.2026 – für den Test durch interessierte Kolleg:innen
+0.1 – Oktober 2026 – für den Test durch interessierte Kolleg:innen
 
+<br/>
 
 Erstellung des Kurses
 -------------------------
 
-* Viola Voß (ULB Münster)
-* Sarah Pielmeier (ULB Münster)
-* Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Material und Verbesserungsvorschläge zu diesem Kurs beigesteuert haben!
-  * UB Braunschweig
-  * UB Greifswald
-  * ULB Münster
-  * UB Regensburg
+Viola Voß (ULB Münster)
 
+Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Material und Verbesserungsvorschläge zu diesem Kurs beigesteuert haben!
+* UB Braunschweig
+* UB Greifswald
+* ULB Münster
+* UB Regensburg
+
+<br/>
 
 Lizenz
 -------------------------
 
 Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/ "zur Lizenz-Website").
 
+![Grafik zur Creative-Commons-Lizenz CC BY](abbildungen/cc-by.png)
+
+<br/>
 
 Technik
 -------------------------
 
-* Dieser Kurs wird über [LiaScript](https://liascript.github.io/ "zur Website von LiaScript") bereitgestellt.
-* Die Daten liegen während der Entwicklung des Kurses auf [GitHub](https://github.com/vossviola/RVK-Kurs/ "zu den Dateien für diesen Kurs auf GitHub").
+Dieser Kurs wird über [LiaScript](https://liascript.github.io/ "zur Website von LiaScript") bereitgestellt.
 
+Die Daten liegen auf [GitHub](https://github.com/vossviola/RVK-Kurs/ "zu den Dateien für diesen Kurs auf GitHub").
+
+<br/>
 
 Kontakt & Feedback
 -------------------------
