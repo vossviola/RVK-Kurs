@@ -32,7 +32,7 @@ import:   https://raw.githubusercontent.com/MINT-the-GAP/lia-navigation/main/REA
 *************************************************************************************************************
 
 > [!IMPORTANT] **Dieser Kurs ist noch 'Work in Progress'!**
-> Stand 27.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
+> Stand 28.10.2026 › die bislang zusammengestellten Inhalte sind eingearbeitet; jetzt müssen noch einige Dinge ergänzt oder poliert werden :)
 
 ![nach der RVK aufgestellte Bücher in einem Bibliotheksregal](abbildungen/RVK_Kurs_Beispiel-Buecher-in-Regal.jpg "Bücher in einem Bibliotheksregal, die nach der RVK aufgestellt sind") Dieser freie Selbstlernkurs vermittelt Ihnen die Grundlagen, um die Regensburger Verbundklassifikation (RVK) kompetent zur Literaturrecherche und für die Erschließung und Aufstellung von Bibliotheksbeständen nutzen zu können.<br/><br/>
 Kompakte Informationstexte, weiterführende Literatur und Übungsaufgaben mit Beispielen aus der bibliothekarischen Praxis machen Sie mit den unterschiedlichen Aspekten der RVK vertraut.<br/><br/>
@@ -201,8 +201,9 @@ Darum geht es in diesem Kurs.
 - die RVK ist eine Systematik, die in mittlerweile 34 **Fachsystematiken** gegliedert ist:
     ![die Teilsystematiken der RVK](abbildungen/RVK-Kurs_RVK-Teilsystematiken.png)
 - die **Klassen in den Fachsystematiken** werden mit einer sogenannten **Notation** bezeichnet, die in aller Regel jeweils aus 2 Buchstaben, einem Spatium (Leerzeichen) und drei bis sechs Ziffern besteht
-- Beispiele: SG 500 steht für die "Geschichte der Mathematik", LH 60210 für das Mittelalter in der bildenden Kunst, GB 1668 für Linguistische Bibliografien zu einzelnen Sachbegriffen (Sachgebieten) in der Germanistik, SN 530 für Schachprobleme, NW 6170 für Schokolade, Zuckerwaren in der Wirtschaftsgeschichte, AN 75100 für den Systematischen Katalog in der Sacherschließung in Bibliotheken oder ER 751 für die Geschichte der Schrift:
-  ![Ausschnitt aus der Teilsystematik E der RVK](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt.png)
+  - Beispiele: SG 500 steht für die "Geschichte der Mathematik", LH 60210 für das Mittelalter in der bildenden Kunst, GB 1668 für Linguistische Bibliografien zu einzelnen Sachbegriffen (Sachgebieten) in der Germanistik, SN 530 für Schachprobleme, NW 6170 für Schokolade, Zuckerwaren in der Wirtschaftsgeschichte, AN 75100 für den Systematischen Katalog in der Sacherschließung in Bibliotheken oder ER 751 für die Geschichte der Schrift
+![Ausschnitt aus der RVK rund um die Notation SG 500](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_SG500.png) ![Ausschnitt aus der RVK rund um die Notation LH 60210](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_LH60210.png) ![Ausschnitt aus der RVK rund um die Notation GB 1668](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_GB1668.png) ![Ausschnitt aus der RVK rund um die Notation SN 530](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_SN530.png) ![Ausschnitt aus der RVK rund um die Notation NW 6170](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_NW6170.png) ![Ausschnitt aus der RVK rund um die Notation AN 75100](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_AN75100.png) ![Ausschnitt aus der RVK rund um die Notation ER 751](abbildungen/RVK-Kurs_RVK-Teilsystematiken_Ausschnitt_ER751.png)
+  *Beispiele für Notationen "querbeet durch die RVK"*<br/><br/>
 - die RVK ist eine sogenannte **Verbundklassifikation**
   - es gibt eine zentrale Redaktion in Regensburg
   - alle Bibliotheken dürfen die RVK kostenfrei nutzen
