@@ -1185,6 +1185,9 @@ Ordnen Sie diese individualisierenden Signaturen-Bestandteile den richtigen Fäl
 {{|>}}
 *************************************************************************************************************
 
+Zum Einstieg
+=============
+
 > [!NOTE] 📖
 > "Klassifikationssysteme mit ihrer hierarchischen Struktur sind ideal dazu geeignet, Bestände oder Dokumentmengen nach inhaltlichen Kriterien aufzubereiten und zugänglich zu machen. Der Nutzer trifft dazu auf jeder Ebene der Hierarchie eine Auswahl, die seinem Informationsbedürfnis am nächsten kommt, und kann diese in jedem Schritt weiter verfeinern. Sobald der gewünschte Detailgrad der Suche erreicht ist, kann eine Suche nach allen Medien angestoßen werden, die den Klassen im gewählten Bereich des Klassifikationssystems zugeordnet sind. […]
 > 
@@ -1415,6 +1418,9 @@ Wie können Sie über mehrere Unterklassen suchen?
 
 {{|>}}
 *************************************************************************************************************
+
+Zum Einstieg
+=============
 
 *Hier folgt noch ein Foto von "in der Buchtechnik befindlichen" RVK-Büchern mit Signaturenetiketten-Bogen.*
 
@@ -2104,6 +2110,9 @@ Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 
 {{|>}}
 *************************************************************************************************************
+
+Zum Einstieg
+=============
 
 In jeder Bibliothek, die die RVK nutzt, kann es kleinere oder größere Spezifika in der lokalen Anwendung geben im Vergleich zu den grundlegenden Regelungen der UB Regensburg.
 
