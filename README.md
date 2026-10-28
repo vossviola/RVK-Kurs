@@ -100,8 +100,9 @@ Erstellung des Kurses
 
 * Viola Voß (ULB Münster)
 * Sarah Pielmeier (ULB Münster)
-* Vielen Dank an die Kolleg:innen und Bibliotheken, die Material zu diesem Kurs beigesteuert haben!
+* Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Material und Verbesserungsvorschläge zu diesem Kurs beigesteuert haben!
   * UB Braunschweig
+  * UB Greifswald
   * ULB Münster
   * UB Regensburg
 
