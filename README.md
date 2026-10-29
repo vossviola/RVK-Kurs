@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-10-28
+version:  2026-10-29
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -94,7 +94,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-28. Oktober 2026
+29. Oktober 2026
 
 <br/>
 
@@ -1435,10 +1435,7 @@ Wie können Sie über mehrere Unterklassen suchen?
 {{|>}}
 *************************************************************************************************************
 
-Zum Einstieg
-=============
-
-*Hier folgt noch ein Foto von "in der Buchtechnik befindlichen" RVK-Büchern mit Signaturenetiketten-Bogen.*
+![Signaturenetiketten für nach der RVK aufgestellte Bücher](abbildungen/RVK-Kurs_Signaturenetiketten.jpg "RVK-Signaturenetiketten fertig zum Aufkleben!")
 
 *************************************************************************************************************
 
