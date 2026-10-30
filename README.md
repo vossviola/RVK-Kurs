@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-10-29
+version:  2026-10-30
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -94,7 +94,8 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-29. Oktober 2026
+30. Oktober 2026
+PDF-Export-Datei des aktuellen Standes (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a18be7-a304-7365-aadd-95e52a9009cf "zum Download der PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
 
