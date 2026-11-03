@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-10-30
+version:  2026-11-03
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -94,8 +94,8 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-30. Oktober 2026
-PDF-Export-Datei des aktuellen Standes (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a18be7-a304-7365-aadd-95e52a9009cf "zum Download der PDF-Fassung des Kurses von Swisstransfer")
+3. November 2026
+PDF-Export-Datei Stand 30.10.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a18be7-a304-7365-aadd-95e52a9009cf "zum Download der PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
 
@@ -875,10 +875,10 @@ Beispiele für RVK-Signaturen
 
 | **Lokalkennzeichen (LKZ)** | **Notation** | **Individualisierung** |
 |------- | ------------ | ---------------------- |
-| 00      | 500 GC 1015  | E71                    |
-| 500     | EC 1879      | W846 S452              |
-| 61      | ER 745       | D853(3)                |
-| KC      | GE 4001      | B724(9)-2+3            |
+| 00      | GC 1015     | E71                    |
+| 500     | EC 1879     | W846 S452              |
+| 61      | ER 745      | D853(3)                |
+| KC      | GE 4001     | B724(9)-2+3            |
 
 
 ![Beispiel für eine RVK-Signatur und ihre drei Teile im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Signatur_Beispiel_UB-Regensburg.png "Beispiel für eine RVK-Signatur und ihre drei Teile im Katalog der UB Regensburg")
@@ -1183,7 +1183,7 @@ Ordnen Sie diese individualisierenden Signaturen-Bestandteile den richtigen Fäl
 
 *Teil 2*
 
-- [[S379-5.2]	[T222E]	[Z99-3(3)]	[W423-5(2)+2]]
+- [[S379-5,2]	[T222E]	[Z99-3(3)]	[W423-5(2)+2]]
 - [( )			(X)		( )			( )]  englische Übersetzung
 - [( )			( )		( )			( )]  koreanische Übersetzung
 - [( )			( )		(x)			( )]  Band drei, dritte Auflage
@@ -1531,8 +1531,8 @@ Erweiterung durch eine zweite CSN
 * Beispiel für mehrere Werke des Autors Brian C. Vickery in einer Klasse:  
   * AN 93000 V637 Classification and indexing science
   * AN 93000 V637 F1 Faceted classification
+  * AN 93000 V637 F1D Facettenklassifikation = Übersetzung von „Faceted classification“ ins Deutsche
   * AN 93000 V637 F13 Faceted classification schemes
-  * AN 93000 V637 F138 Facettenklassifikation
 
 
 Chronologische Ordnung mit Hilfe des Erscheinungsjahres
@@ -1607,7 +1607,7 @@ Bandzählung
   * ES 940 E57-1,1 = Teilband 1,1 eines mehrbändigen Werkes
 * mehrere zusammengebundene Folgebände werden durch Schrägstrich miteinander verbunden, lückenlose Heftfolgen oder Bände mit Bindestrich
 * an eine Lücke schließt die neue Zählung mit Punkt an  
-  * Beispiel: BD 3000 G963-2,3,4/6 = Heft 4, 5 und 6 des 3\. Teiles des 2\. Bandes
+  * Beispiel: BD 3000 G963-5,2,4.6 = Heft 4 und 6 des 2\. Teiles des 5\. Bandes
 * sind zahlreiche Hefte mit springender Zählung zusammengebunden, kann nach der ersten Zählung „u.a.“ angegeben werden, um die Signatur so kurz wie möglich zu halten  
   * Beispiel: BD 3000 B415-1,1 u.a. = Heft 1,2; 1,3-6; 2,1-3 angebunden an Heft 1,1
 * Sonderbände, wie z.B. Register-, Material- und Ergänzungsbände, die nicht in die fortlaufende Bandzählung einbezogen wurden, erhalten bei abgeschlossenen Werken eine fingierte Zählung im Anschluss an die Bandzählung des Grundwerkes bzw. an dessen Anfang
@@ -2053,7 +2053,7 @@ Sind diese (Kurz-)Cutter korrekt?
   [[ ( korrekt ) | falsch ]]
   * M947 für Rosemarie Müller <br/>
   [[ ( korrekt ) | falsch ]]
-  * K86 für Theo Koslowsky <br/>
+  * K87 für Theo Koslowsky <br/>
   [[ korrekt | ( falsch ) ]]
   * W32 für "Wasserzeichen Fabeltiere: Greif, Drache, Einhorn" <br/>
   [[ ( korrekt ) | falsch ]]
@@ -2073,10 +2073,10 @@ Sortieren Sie diese Signaturen in die richtige Reihenfolge.
 
 - [[Platz 1]	[Platz 2]	[Platz 3]	[Platz 4]	[Platz 5]]
 - [( )			(X)			( )			( ) 		( ) ]  BK 6050 J25-2
-- [( )			( )			( )			(X)  		( ) ]  KV 6050 S571
+- [( )			( )			( )			()  		(x) ]  KV 6050 S571
 - [( )			( )			(X)			( ) 		( ) ]  BK 6050 J25-10
 - [(X)			( )			( )			( ) 		( ) ]  BK 6050 A528
-- [( )			( )			( )			( )  		(X) ]  BK 6050 T629
+- [( )			( )			( )			(x)  		() ]  BK 6050 T629
 
 *Gruppe 3*
 
@@ -2084,7 +2084,7 @@ Sortieren Sie diese Signaturen in die richtige Reihenfolge.
 - [(X)			( )			( )			( )  ]  GC 9301 Q3 M25
 - [( )			( )			(X)			( )  ]  GC 9301 Q3 M77
 - [( )			(X)			( )			( )  ]  GC 9301 Q3 M5
-- [( )			( )			( )			(X)  ]  GC 9301 Q3 M77
+- [( )			( )			( )			(X)  ]  GC 9302 Q3 M12
 
 *Gruppe 4*
 
