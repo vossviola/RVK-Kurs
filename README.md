@@ -929,15 +929,24 @@ Individualisierender Teil
 {{|>}}
 *************************************************************************************************************
 
+Die Idee
+---------
+
 * die Grundidee des "Cutterns" ist eine feingliedrige alphabetische Ordnung von Titeln oder Namen
 * die Kürzel, die dazu verwendet werden, werden nach ihren "Erfinder:innen", Charles Ammi Cutter und Kate Emery Sanborn, Cutter-Sanborn-Nummern, Cutter-Nummern oder kurz einfach nur "Cutter" oder "CSN" genannt
 * das Prinzip: das jeweilige Ordnungswort – ein Name oder ein Werktitel – werden durch eine Buchstaben-Ziffern-Kombination verschlüsselt: sie besteht aus dem ersten Buchstaben des Ordnungswortes und einer ohne Leerstelle angeschlossenen ein- bis dreistelligen Zahl
 * die Zahl basiert auf einer [Tabelle](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976"), die Charles Cutter und Kate Emery Sanborn in den 1960ern entwickelt haben
 
-* heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de "zur RVK Online")
+Das Tool
+--------
 
-  ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png "das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt") ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png "das CutterJo-Tool integriert im Portal RVK-Online")
+* heutzutage muss man nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de "zur RVK Online")
+
+![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png "das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt") ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png "das CutterJo-Tool integriert im Portal RVK-Online")
   
+Das Cuttern
+-----------
+
 * die "Verschlüsselung" des Ordnungswortes, also die Auswahl der CSN, wird "cuttern" oder "vercuttern" genannt
 * Beispiele:  
   * Aristoteles = A717, Mustermannn = M991, Schmidt, Andreas = S349, Schmidt, Martin = S353, Waalkes = W111
@@ -947,6 +956,9 @@ Individualisierender Teil
   * für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
   * es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
   * weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
+
+Das Warum
+-----------
 
 * warum macht man sich die Arbeit mit dem Cuttern und nimmt nicht einfach Numerus Currens für die Aufstellung der Medien?  
   * durch die Verwendung von CSNs erhält eine Notation eine alphabetische "Binnengliederung" nach den Urheber:innen der Werke oder, z.B. in Primärliteratur-Klassen, nach den Werktiteln
