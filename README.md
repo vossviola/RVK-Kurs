@@ -94,7 +94,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-4\. November 2026
+4\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 8:30 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
