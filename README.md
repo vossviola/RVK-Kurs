@@ -554,7 +554,7 @@ Zum Einstieg
 * die **Notation** ist der "Code" für eine bestimmte Stelle in einer Systematik; in der RVK besteht eine Notation immer aus zwei Großbuchstaben und drei bis sechs Ziffern  
   * zum Beispiel: WH 8975
   * der Begriff "Notation" wird oft gleichbedeutend verwendet mit "System(atik)stelle" und "(Systematik-)Klasse"
-* die **Benennung** ist der Klartext-Name" für die Notation  
+* die **Benennung** ist der „Klartext-Name" für die Notation  
   * zum Beispiel "Rodentia (Nagetiere)" für WH 8975 in der Biologie-Systematik W im Bereich H "Evolution"
 * da eine Benennung, auch wenn sie durchaus ausführlicher sein kann, nicht immer alle Aspekte eines Themengebietes ausdrücken kann, kann man für Systemstellen **Registerbegriffe** angeben, die verdeutlichen, worum es in dieser Klasse geht  
   * zum Beispiel "Eichhörnchen", "Nagetiere" und "Phylogenie" für WH 8975 Rodentia (Nagetiere)
@@ -605,18 +605,30 @@ Suche nach Registerbegriffen
   * die Suche über die Varianten bietet aber die beiden Begriffe "Düsenflugzeug" und "Strahlflugzeug" in der Vorschlagsliste an
   * darüber findet man dann die Notation ZO 7420 Strahlflugzeuge (mit Luftstrahltriebwerk, Strahlturbine, Propellerturbine): der ist nämlich u.a. der Registerbegriff mit der bevorzugten Benennung "Düsenflugzeug" zugewiesen, der die varianten Namen "Jet" und "Strahlflugzeug" umfasst
   * relevant ist dieser Aspekt z.B. bei den unterschiedlichen Schreibweisen von Personennamen: mit "Puschkin" findet man bei den bevorzugten Benennungen nichts, aber über die Varianten findet man das gesuchte Personenschlagwort "Puškin, Aleksandr Sergeevič" und die ihm zugeordneten Notationen
-  * der bevorzugte Begriff steht in der Vorschlagsliste immer oben
-    ![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
-    ![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante")
-    ![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
-    ![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante")
+  * der bevorzugte Begriff steht in der Vorschlagsliste immer oben 
+
+<div style="text-align: center;"> 
+![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
+![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante") 
+![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
+![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante")
+</div>
+
+
+<br/>
+
 * die Trefferliste kann nach dem Begriff oder der Notation sortiert werden über die Spaltenüberschriften
 * bei langen Trefferlisten kann es sich lohnen, sie mit einer **UND-Suche** einzugrenzen:  
   * ein Klick auf den UND-Button generiert eine Liste der Registerbegriffe, die zusammen mit dem aus der ersten Suche auftreten, aus der man dann einen zweiten (oder dritten oder vierten) Begriff wählen kann
   * man kann Begriffe auch wieder aus der kombinierten Suche herausnehmen über den Mülleimer-Button
-  * Beispiel: die Suche nach "Landeskunde" und dann über die UND-Verknüpfung die Ergänzung um "Frankreich"
-    ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png) ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png) ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png) ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png)
+  * Beispiel: die Suche nach "Landeskunde" und dann über die UND-Verknüpfung die Ergänzung um "Frankreich" 
 
+<div style="text-align: center;"> 
+    ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png "RVK-Registersuche nach 'Landeskunde' 1") 
+    ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png "RVK-Registersuche nach 'Landeskunde' 2") 
+    ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1")
+    ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2")
+</div>
 
 *************************************************************************************************************
 
@@ -1284,9 +1296,9 @@ Literatur über die RVK Online finden
 * für eine erste Recherche eignet sich z.B. der Verbundkatalog des BVB
 * Tipp: Falls Ihre Bibliothek in der Liste für den lokalen Bestand noch nicht dabei ist, das aber für Sie hilfreich wäre, schreiben Sie die Koordinierungsstelle an der UB Regensburg an – vielleicht lässt sich Ihr Katalog ergänzen!
 
-<center>
+<div style="text-align: center;"> 
 ![Der Button zur Recherche im BVB in der RVK Online](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_RVK-Online.png)
-</center>
+</div>
 
 in einem Bibliothekskatalog nach Notationen suchen
 ---------------------------------------------------
