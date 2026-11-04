@@ -78,6 +78,8 @@ Nach Abschluss des Kurses …
 > Klicken Sie auf Abbildungen, um sie größer anzeigen zu lassen.
 >
 > Über den kleinen Play-Button zu Beginn jeder Seite können Sie sich den Text der einzelnen Abschnitte vorlesen lassen. 
+>
+> Ein Arbeitsplatz mit zwei Bildschirmen ist empfehlenswert, um den Kurs und das RVK-Portal oder andere Tools parallel anzeigen zu lassen.
 
 > [!NOTE] **Ein Lokalteil für Ihre Bibliothek?**
 > Bibliotheken, die den Kurs nachnutzen und einen eigenen "Lokalteil" erstellen wollen, melden sich gerne unter der im Impressum genannten Adresse!
@@ -889,7 +891,7 @@ Lokalkennzeichen
 * die **Lokalkennzeichen** bestehen meistens aus Zahlen, manchmal auch aus Buchstaben  
   * man kann auch auf das Lokalkennzeichen verzichten, wenn es z.B. nur einen Bibliotheksstandort gibt oder nur eine Bibliothek von mehreren einer Einrichtung die RVK zur Aufstellung nutzt
   ![Beispiel für eine RVK-Signatur im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Regensburg.png) ![Beispiel für eine RVK-Signatur im Katalog der UB Greifswald](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Greifwald.png) ![Beispiel für eine RVK-Signatur im Katalog der ULB Münster](abbildungen/RVK-Kurs_Lokalkennzeichen_Beispiel_Muenster.png)
-  *61, 620, KC: Beispiele für Lokalkennzeichen in den Uni-Bibliotheken Regensburg, Greifswald und Münster*
+  *61, 620, KC: Beispiele für Lokalkennzeichen in den Uni-Bibliotheken Regensburg, Greifswald und Münster – auf die Grafiken klicken für die vollständige Ansicht!*
 
 Individualisierender Teil
 --------------------------
@@ -900,14 +902,19 @@ Individualisierender Teil
   * Angaben zu Auflage, Band, Exemplar
 * die **Kürzel für Urheber:innen und für Titel** werden nach dem "Cutter-Verfahren" gebildet – dazu mehr im folgenden Abschnitt
 
+<br/><br/>
+
+*Beispiel für ein "einfaches" Buch in unterschiedlichen Darstellungen – auf die Grafiken klicken für die vollständige Ansicht!*
+
 ![Beispiel für ein "einfaches" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_1.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_farbkodiert_1.png)
-*Beispiel für ein "einfaches" Buch in unterschiedlichen Darstellungen*
+
+*Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen – auf die Grafiken klicken für die vollständige Ansicht!*
 
 ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_2.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_farbkodiert_2.png) ![Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen](abbildungen/RVK-Kurs_Signatur_Beispiel_Aufbau_3.png)
-*Beispiele für ein "komplexeres" Buch in unterschiedlichen Darstellungen*
 
 
-> [!NOTE]
+
+> [!NOTE] 💡
 > Die einzelnen thematischen Systemstellen bzw. Klassen der RVK, die zur Einordnung von Medien verwendet werden, werden mit **Notationen** gekennzeichnet. <br/> 
 > → Beispiel: ET 410 Historische Semantik
 > 
@@ -1069,8 +1076,6 @@ Weiterführende Informationen zu diesen Signaturenbestandteilen gibts im Kapitel
 
 Was hiervon sind RVK-Notationen, was nicht?
 -------------------------------------------
-* CN 1500 <br/>
-  [[ (richtig) | falsch ]]
 * CN 1550 <br/>
   [[ richtig | (falsch) ]]
 * IJ 20007 <br/>
@@ -1079,9 +1084,6 @@ Was hiervon sind RVK-Notationen, was nicht?
   [[ richtig | (falsch) ]]
 * QP 348g <br/>
   [[ richtig | (falsch) ]]
-* ZB 28000 <br/>
-  [[ (richtig) | falsch ]]
-
 
 
 Was hiervon ist Notation, was ist Signatur? 
@@ -1119,34 +1121,31 @@ Ordnen Sie die Namen und Titel ihren richtigen Cuttern zu.
 *Ziehen Sie einen Cutter auf das Feld mit dem Plus-Zeichen.*
 
 Janosch
-[->[B646 | H230 | H236 | H933 | J25 | ( J34 ) | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+[->[B646 | H230 | H236 | H348 | H933 | J25 | ( J34 ) | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 Mileva Marić
-[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | ( M333 ) | M334 | M468 | S367 | S369 ]]
+[->[B646 | H230 | H236 | H348 | H933 | J25 | J34 | J344 | M149 | ( M333 ) | M334 | M126 | S369 ]]
 
-Albrecht Mayer
-[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | ( M468 ) | S367 | S369 ]]
+Sophia A. McClennen
+[->[B646 | H230 | H236 | H348 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | ( M126 ) | S369 ]]
 
 Die Blechtrommel
-[->[ ( B646 ) | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+[->[ ( B646 ) | H230 | H236 | H348 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 Roman Ossipowitsch Jakobson
-[->[B646 | H230 | H236 | H933 | ( J25 ) | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+[->[B646 | H230 | H236 | H348 | H933 | ( J25 ) | J34 | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 Hunde in der Sprachtherapie einsetzen: Ein Praxisbuch
-[->[B646 | H230 | H236 | ( H933 ) | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
+[->[B646 | H230 | H236 | H348 | ( H933 ) | J25 | J34 | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 Jürgen Macha
-[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | ( M149 ) | M333 | M334 | M468 | S367 | S369 ]]
+[->[B646 | H230 | H236 | H348 | H933 | J25 | J34 | J344 | ( M149 ) | M333 | M334 | M126 | S369 ]]
 
-Schokolade in der Kunst
-[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | ( S367 ) | S369 ]]
+#BookTok-Rezensionen
+[->[B646 | H230 | H236 | (H348) | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 Handball '72 \[zweiundsiebzig\]
-[->[B646 | H230 | ( H236 ) | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | S369 ]]
-
-Jennifer M. Schomaker
-[->[B646 | H230 | H236 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M468 | S367 | ( S369 ) ]]
+[->[B646 | H230 | ( H236 ) | H348 | H933 | J25 | J34 | J344 | M149 | M333 | M334 | M126 | S369 ]]
 
 
 
@@ -1271,8 +1270,11 @@ Literatur über die RVK Online finden
 
 * bei jeder Notation gibt es rechts im Informationsbereich zwei Katalog-Links: „Suche in Fernleihe/Bibliotheksverbünden“ und "Suche im lokalen Bestand"
 * für eine erste Recherche eignet sich z.B. der Verbundkatalog des BVB
-  ![Der Button zur Recherche im BVB in der RVK Online](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_RVK-Online.png)
 * Tipp: Falls Ihre Bibliothek in der Liste für den lokalen Bestand noch nicht dabei ist, das aber für Sie hilfreich wäre, schreiben Sie die Koordinierungsstelle an der UB Regensburg an – vielleicht lässt sich Ihr Katalog ergänzen!
+
+<center>
+![Der Button zur Recherche im BVB in der RVK Online](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_RVK-Online.png)
+</center>
 
 in einem Bibliothekskatalog nach Notationen suchen
 ---------------------------------------------------
@@ -1284,8 +1286,12 @@ in einem Bibliothekskatalog nach Notationen suchen
     * in dem [der SUB Hamburg](https://katalogplus.sub.uni-hamburg.de/ "zum Katalog der SUB Hamburg") über "Systematik"
     * im [Discovery-System der UB Greifwald](https://discovery.ub.uni-greifswald.de/ "Discovery-System der UB Greifwald") sucht man mit "topic:\[Notation\]", also z.B. "topic:ER 745".
 
+<br/>
+
 ![Recherche nach RVK-Notationen im Katalog der UB Regensburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Regensburg-UB.png) ![Recherche nach RVK-Notationen im Katalog der ULB Münster](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Muenster-ULB.png) ![Recherche nach RVK-Notationen im Katalog der SUB Hamburg](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Hamburg-SUB.png) ![Recherche nach RVK-Notationen im Katalog der UB Greifswald](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_Katalog_Greifswald-UB.png)
 *Recherche nach RVK-Notationen in den Katalogen der Uni-Bibliotheken Regensburg, Münster, Hamburg, Greifswald*
+
+<br/>
 
 * es kann sinnvoll sein, die Notation mit Anführungsstrichen einzuschließen, um sie als Suchphrase zu kennzeichnen
 * Tipps  
@@ -1423,7 +1429,7 @@ Wie können Sie über mehrere Unterklassen suchen?
 
 * Ich führe für jede Klasse eine eigene Suche durch<br/>
   [[ ( richtig, aber aufwändig ) | falsch ]]
-* ich kombiniere mehrere Suchanfragen mit UND-Verknüpfung <br/>
+* ich kombiniere mehrere Suchanfragen mit ODER-Verknüpfung <br/>
   [[ ( richtig ) | falsch ]]
 * ich arbeite mit trunkierten Notationen <br/>
   [[ ( richtig ) | falsch ]]
@@ -1920,8 +1926,7 @@ Grobsignaturen
 * aber Achtung: es wird nach Stellen bzw. Ziffern sortiert, nicht nach Zahlen!
   * so steht z.B. S38 T3 vor S38 T35 vor (!) S38 T7 vor S38 T78
 
-
-![falsche Sortierung](abbildungen/RVK-Kurs_Signaturen-Sortierung_falsch.jpg "falsche Sortierung") 
+![falsche Sortierung](abbildungen/RVK-Kurs_Signaturen-Sortierung_falsch.jpg "falsche Sortierung")
 
 ![richtige Sortierung](abbildungen/RVK-Kurs_Signaturen-Sortierung_richtig.jpg "richtige Sortierung")
 
@@ -2113,7 +2118,7 @@ Sortieren Sie diese Signaturen in die richtige Reihenfolge.
  Beispieltitel zum Üben
 ----------------------
 
-In [dieser PDF-Datei](downloads/RVK-Kurs_Signaturenbildung_Uebungen_in-arbeit.pdf) finden Sie einfache und knifflige Fälle. Erstellen Sie die Signaturen für die Werke.
+In [dieser PDF-Datei](downloads/_RVK-Kurs_Signaturenbildung_Uebungen_in-arbeit.pdf) finden Sie einfache und knifflige Fälle. Erstellen Sie die Signaturen für die Werke.
 Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 > [!IMPORTANT]
 > Die Datei ist noch "work in progress"!
