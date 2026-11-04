@@ -605,15 +605,14 @@ Suche nach Registerbegriffen
   * die Suche über die Varianten bietet aber die beiden Begriffe "Düsenflugzeug" und "Strahlflugzeug" in der Vorschlagsliste an
   * darüber findet man dann die Notation ZO 7420 Strahlflugzeuge (mit Luftstrahltriebwerk, Strahlturbine, Propellerturbine): der ist nämlich u.a. der Registerbegriff mit der bevorzugten Benennung "Düsenflugzeug" zugewiesen, der die varianten Namen "Jet" und "Strahlflugzeug" umfasst
   * relevant ist dieser Aspekt z.B. bei den unterschiedlichen Schreibweisen von Personennamen: mit "Puschkin" findet man bei den bevorzugten Benennungen nichts, aber über die Varianten findet man das gesuchte Personenschlagwort "Puškin, Aleksandr Sergeevič" und die ihm zugeordneten Notationen
-  * der bevorzugte Begriff steht in der Vorschlagsliste immer oben 
+  * der bevorzugte Begriff steht in der Vorschlagsliste immer oben
 
-<div style="text-align: center;"> 
-![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
-![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante") 
-![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
-![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante")
+<div style="text-align: center;">
+  ![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
+  ![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante") 
+  ![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
+  ![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante") 
 </div>
-
 
 <br/>
 
@@ -623,11 +622,11 @@ Suche nach Registerbegriffen
   * man kann Begriffe auch wieder aus der kombinierten Suche herausnehmen über den Mülleimer-Button
   * Beispiel: die Suche nach "Landeskunde" und dann über die UND-Verknüpfung die Ergänzung um "Frankreich" 
 
-<div style="text-align: center;"> 
-    ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png "RVK-Registersuche nach 'Landeskunde' 1") 
-    ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png "RVK-Registersuche nach 'Landeskunde' 2") 
-    ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1")
-    ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2")
+<div style="text-align: center;">
+  ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png "RVK-Registersuche nach 'Landeskunde' 1") 
+  ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png "RVK-Registersuche nach 'Landeskunde' 2") 
+  ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1") 
+  ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2") 
 </div>
 
 *************************************************************************************************************
