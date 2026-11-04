@@ -529,19 +529,19 @@ Zum Einstieg
 *************************************************************************************************************
 
 * aus der zentralen RVK-Datenbank werden drei Versionen generiert und im Portal zur Verfügung gestellt: RVK Online, RVK Druck und RVK Einfach
-* RVK Einfach und RVK Druck bieten ergänzende Informationen zur zentralen RVK Online
-* Sie finden die Links zu den Varianten im linken Menü des RVK-Portals
+* RVK Einfach und RVK Druck bieten ergänzende Informationen zur zentralen RVK Online 
+* Sie finden die Links zu den Varianten im linken Menü des RVK-Portals <br/> ⚠️ *Zurzeit (11/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :(*
 * die **RVK Druck** bietet jede Teilsystematik in Form einer PDF-Datei an  
   * die PDF-Dateien enthalten nach der inhaltlichen Struktur jeweils eine Übersicht über sämtliche "Schlüssel", die in dieser Systematik verwendet werden; dazu kommen wir im überübernächsten Abschnitt genauer
   * nach der Auflistung der Notationen der Teilsystematik folgen die Registerbegriffe, die vergeben wurden, verlinkt mit den jeweils passenden Systemstellen; zu den Registerbegriffen siehe den nächsten Abschnitt
   * man kann in den PDF-Dateien gut erkennen, wie tief eine Systematik strukturiert und wie umfangreich sie ist
-  * "früher", in der Anfangszeit der RVK, wurden die Fachsystematik in einer Form ähnlich den heutigen PDF-Dateien ausgedruckt und postalisch versandt – das waren noch Zeiten ...
-  * ![der Schlüssel P5I in der Romanistik-Systematik](abbildungen/RVK-Kurs_RVK-Druck_I_Schluessel_P5I.png) ![eine Stelle in der Romanistik-Systematik, an der der Schlüssel P5I angewendet wird](abbildungen/RVK-Kurs_RVK-Druck_I_Schluessel_P5I_in-der-Systematik.png) ![der Beginn der Registerbegriff-Liste der Romanistik-Systematik](abbildungen/RVK-Kurs_RVK-Druck_I_Register.png)
-  *ein Schlüssel in der Romanistik-Systematik (I) und der Beginn der Registerbegriff-Liste der Systematik*
+  * „früher“, in der Anfangszeit der RVK, wurden die Fachsystematik in einer Form ähnlich den heutigen PDF-Dateien ausgedruckt und postalisch versandt – das waren noch Zeiten ...
+
+![der Schlüssel P5I in der Romanistik-Systematik](abbildungen/RVK-Kurs_RVK-Druck_I_Schluessel_P5I.png "ein Schlüssel in der Romanistik-Systematik (I)") ![eine Stelle in der Romanistik-Systematik, an der der Schlüssel P5I angewendet wird](abbildungen/RVK-Kurs_RVK-Druck_I_Schluessel_P5I_in-der-Systematik.png "eine Stelle in der Romanistik-Systematik, an der der Schlüssel P5I angewendet wird") ![der Beginn der Registerbegriff-Liste der Romanistik-Systematik](abbildungen/RVK-Kurs_RVK-Druck_I_Register.png "der Beginn der Registerbegriff-Liste der Systematik")
+
+
 * die **RVK Einfach** beinhaltet fachsystematikübergreifende Verlinkungen bei Notationsverweisen und das Gesamtregister aller Registerbegriffe  
-  * > [!WARNING] Baustelle
-    > Zurzeit (10/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :( <br/>
-    > Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu Notationsverweisen und dem Gesamtregister nach.
+  * ⚠️ *Zurzeit (11/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :( <br/> Wenn sie wieder verfügbar ist, tragen wir hier Screenshots zu Notationsverweisen und dem Gesamtregister nach.*
 
 
 *************************************************************************************************************
