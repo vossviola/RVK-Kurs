@@ -2283,7 +2283,7 @@ Signatur
 *Beispiele für nach RVK aufstellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster*
 
 ![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik_2.jpg "normale Monografien")
-![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik_Schulbuch.jpg "Schulbücher")
+![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik_Schulbuch.jpg "Schulbücher mit speziellen Cuttern und Bandangaben für Verlag, Schulform und Klassenstufen")
 
 *************************************************************************************************************
 
