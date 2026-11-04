@@ -2118,7 +2118,7 @@ Sortieren Sie diese Signaturen in die richtige Reihenfolge.
  Beispieltitel zum Üben
 ----------------------
 
-In [dieser PDF-Datei](downloads/_RVK-Kurs_Signaturenbildung_Uebungen_in-arbeit.pdf) finden Sie einfache und knifflige Fälle. Erstellen Sie die Signaturen für die Werke.
+In [dieser PDF-Datei](downloads/RVK-Kurs_Signaturenbildung_Uebungen_in-arbeit.pdf) finden Sie einfache und knifflige Fälle. Erstellen Sie die Signaturen für die Werke.
 Erläuterte Lösungsvorschläge finden Sie am Ende des Dokuments.
 > [!IMPORTANT]
 > Die Datei ist noch "work in progress"!
