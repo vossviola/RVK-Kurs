@@ -1921,6 +1921,11 @@ Grobsignaturen
   * so steht z.B. S38 T3 vor S38 T35 vor (!) S38 T7 vor S38 T78
 
 
+![falsche Sortierung](abbildungen/RVK-Kurs_Signaturen-Sortierung_falsch.jpg "falsche Sortierung") 
+
+![richtige Sortierung](abbildungen/RVK-Kurs_Signaturen-Sortierung_richtig.jpg "richtige Sortierung")
+
+
 *************************************************************************************************************
 
 ## Übersicht über die Signaturtypen
@@ -1936,17 +1941,17 @@ Alphabetische Aufstellung nach Cutter-Sanborn-Notation (CSN)
 
 | **Beispiel** | **Erläuterung** |
 | ----- | ----- |
-| **XX/FX 156005 A887** | Grundtyp (Verfasser-CSN)Atzert, Karl: De Cicerone interprete Graecorum   |
-| **XX/GM 7651 S377 P98** | Verfasser-CSN + Zusatz-Kurz-CSN für TitelSchrader, Julie: Pusteblümchens Moritaten   |
-| **XX/BO 2370 A923 W646 O3** | Sachbegriffs-CSN + Verfasser-CSN + Titel-Kurz-CSNWieland, Wolfgang, Offenbarung bei Augustinus , Augustinus vorgecuttert |
+| **XX/FX 156005 A887** | Grundtyp (Verfasser-CSN) <br/> Atzert, Karl: *De Cicerone interprete Graecorum*   |
+| **XX/GM 7651 S377 P98** | Verfasser-CSN + Zusatz-Kurz-CSN für Titel <br/> Schrader, Julie: *Pusteblümchens Moritaten*   |
+| **XX/BO 2370 A923 W646 O3** | Sachbegriffs-CSN + Verfasser-CSN + Titel-Kurz-CSN <br/> Wieland, Wolfgang: *Offenbarung bei Augustinus* (Augustinus vorgecuttert) |
 
 Chronologische Aufstellung
 --------------------------
 
 | **Beispiel** | **Erläuterung** |
 | ----- | ----- |
-| **XX/FX 178000.1973** | einfacher TypPublius Vergilius Maro › Gesamtausgaben  |
-| **XX/FH 26001 M83.1974** | Erweiterung um CSN einer EinzelausgabeHippocrates › Teilausgaben/Einzelausgaben/Fragmente › De morbis |
+| **XX/FX 178000.1973** | einfacher Typ <br/> Publius Vergilius Maro › Gesamtausgaben  |
+| **XX/FH 26001 M83.1974** | Erweiterung um CSN einer Einzelausgabe <br/> Hippocrates › Teilausgaben/Einzelausgaben/Fragmente › *De morbis* |
 
 
 Erweiterung durch Band-/Jahrgangszählung
