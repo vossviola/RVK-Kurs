@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-03
+version:  2026-11-04
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -94,7 +94,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-3. November 2026
+4\. November 2026
 PDF-Export-Datei Stand 30.10.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a18be7-a304-7365-aadd-95e52a9009cf "zum Download der PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
@@ -2273,13 +2273,17 @@ Signatur
 
 |   |   |   |   |
 |---|---|---|---|
-| GI <br/> 6520 <br/> C368  | GE <br/> 9999 <br/> L987 <br/> M8 | AH <br/> 16996 <br/> H598 <br/> M8(4) | AH <br/> 16996 <br/> H598 <br/> M8(4)\-2 |
-| AH <br/> 16996 <br/> H598 <br/> M8\-2(4) | GL <br/> 5864 <br/> H598 <br/> M8\-2+3 | GC <br/> 5968 <br/> A1 <br/> H517 <br/> \-1984 | GM <br/> 5163 <br/> B85.2000 <br/> G5 |
-| GL <br/> 2039. <br/> 1927 | GL <br/> 5864. <br/> 1996 <br/> \-4 | AH <br/> 16996 <br/> H598. <br/> 2000 | AH <br/> 19669 <br/> H598 <br/> (2.1960) |
-| HM <br/> 2814 <br/> H598 <br/> (.1969) | HM <br/> 2814 <br/> I10D | ER <br/> 730 <br/> E19S <br/> 9D(8) |                  |
+| GI <br/> 6520 <br/> C368  | GE <br/> 9999 <br/> L987 <br/> M8 | AH <br/> 16996 <br/> H598 <br/> M8(4) | AH <br/> 16996 <br/> H598 <br/> M8(4) <br/> \-2 |
+| AH <br/> 16996 <br/> H598 <br/> M8 <br/> \-2(4) | GL <br/> 5864 <br/> H598 <br/> M8 <br/> \-2+3 | GC <br/> 5968 <br/> A1 <br/> H517 <br/> \-1984 | GM <br/> 5163 <br/> B85. <br/> 2000 <br/> G5 |
+| GL <br/> 2039. <br/> 1927 | GL <br/> 5864. <br/> 1996 <br/> \-4 | AH <br/> 16996 <br/> H598. <br/> 2000 | AH <br/> 19669 <br/> H598 <br/> (2.1960) | 
+| HM <br/> 2814 <br/> H598 <br/> (.1969) | HM <br/> 2814 <br/> I10D | ER <br/> 730 <br/> E19 <br/> S9D(8) |                  |
 
-![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB.jpg "Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster")
+<br/>
 
+*Beispiele für nach RVK aufstellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster*
+
+![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik_2.jpg "normale Monografien")
+![Beispiele für nach RVK aufgestellte Bücher in der Bibliothek im Vom-Stein-Haus der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Germanistik_Schulbuch.jpg "Schulbücher")
 
 *************************************************************************************************************
 
