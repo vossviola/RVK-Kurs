@@ -932,22 +932,22 @@ Individualisierender Teil
 * die Grundidee des "Cutterns" ist eine feingliedrige alphabetische Ordnung von Titeln oder Namen
 * die Kürzel, die dazu verwendet werden, werden nach ihren "Erfinder:innen", Charles Ammi Cutter und Kate Emery Sanborn, Cutter-Sanborn-Nummern, Cutter-Nummern oder kurz einfach nur "Cutter" oder "CSN" genannt
 * das Prinzip: das jeweilige Ordnungswort – ein Name oder ein Werktitel – werden durch eine Buchstaben-Ziffern-Kombination verschlüsselt: sie besteht aus dem ersten Buchstaben des Ordnungswortes und einer ohne Leerstelle angeschlossenen ein- bis dreistelligen Zahl
-* die Zahl basiert auf einer Tabelle, die Charles Cutter und Kate Emery Sanborn in den 1960ern entwickelt haben
-
-![Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976")
+* die Zahl basiert auf einer [Tabelle](abbildungen/Cutter-Sanborn_1976_Cutter-Sanborn-three-figure-author-table_Seite-32.png "Ausschnitt aus der Cutter-Sanborn-Tabelle in der Ausgabe von 1976"), die Charles Cutter und Kate Emery Sanborn in den 1960ern entwickelt haben
 
 * heutzutage muss man aber nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de "zur RVK Online")
 
-  ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png) ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png)
-  *das "CutterJo"-Tool auf der Seite der UB Eichstätt-Ingolstadt und integriert im Portal RVK-Online*
-
+  ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png "das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt") ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png "das CutterJo-Tool integriert im Portal RVK-Online")
+  
 * die "Verschlüsselung" des Ordnungswortes, also die Auswahl der CSN, wird "cuttern" oder "vercuttern" genannt
 * Beispiele:  
   * Aristoteles = A717, Mustermannn = M991, Schmidt, Andreas = S349, Schmidt, Martin = S353, Waalkes = W111
   * Eichhörnchen = E34, Einführung = E35, Handbuch = H236, Introduction = I61, Linguistics = L755, Süßwarenindustrie = S944
-* für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
-* es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
-* weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
+
+* zu beachten beim Cuttern
+  * für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
+  * es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
+  * weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
+
 * warum macht man sich die Arbeit mit dem Cuttern und nimmt nicht einfach Numerus Currens für die Aufstellung der Medien?  
   * durch die Verwendung von CSNs erhält eine Notation eine alphabetische "Binnengliederung" nach den Urheber:innen der Werke oder, z.B. in Primärliteratur-Klassen, nach den Werktiteln
   * damit stehen dann alle Werke eines/einer Verfasser:in oder Herausggeber:in zu einem Thema nebeneinander, und wenn es mehrere Ausgabe oder Übersetzungen gibt, stehen auch die beisammen
