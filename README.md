@@ -119,7 +119,7 @@ Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Mater
 Lizenz
 -------------------------
 
-Dieser Kurs steht als  Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/ "zur Lizenz-Website").
+Dieser Kurs steht als Open Educational Resource (OER) unter der [Lizenz CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/ "zur Lizenz-Website").
 
 ![Grafik zur Creative-Commons-Lizenz CC BY](abbildungen/cc-by.png)
 
@@ -327,7 +327,7 @@ Inhaltserschließung von Medien
 =============================
 - die Einrichtungen der Community können an der inhaltlichen Weiterentwicklung mitwirken
 
-Schritt 1:  Einbringen von Änderungs- oder Ergänzungsvorschlägen, z.B. von Notationen 
+Schritt 1: Einbringen von Änderungs- oder Ergänzungsvorschlägen, z.B. von Notationen 
 --------------------------------------------------------------------------------------
 - wenn eine Änderung an einer bestimmten Notation beantragt werden soll: im RVK-Portal bei einzelnen Notationen über den Button „Änderungen beantragen“
 - wenn Neumeldungen, Änderungen, Ergänzungen oder Löschungen beantragt werden sollen: Einreichen im RVK-Portal über das Neumeldungsformular
@@ -507,7 +507,7 @@ Zum Einstieg
 *************************************************************************************************************
 
 * RVK-Portal: [rvk.uni-regensburg.de](https://rvk.uni-regensburg.de/ "zur RVK Online") › linkes Menü: "RVK online"
-* die **Oberfläche** ist in **zwei Fenster** eingeteilt:  
+* die **Oberfläche** ist in **zwei Fenster** eingeteilt:
   * links sehen Sie den RVK-Baum, darüber befindet sich das zentrale Eingabefeld, in dem man nach Notationen und Benennungen suchen kann
   * im Fenster der rechten Seite ("Ergebnisfenster") werden bei Anwendung die Ergebnisse von Benennungs- und Registersuchen sowie das Tool „CutterJo“ und Details zu ausgewählten Notationen dargestellt
     ![die Bereiche der RVK Online](abbildungen/RVK-Kurs_RVK-Online_Bereiche.png)
@@ -516,9 +516,9 @@ Zum Einstieg
 * mit den beiden Lupen-Buttons +/- können Sie die **Schriftgröße im RVK-Baum** ändern; der mittlere Button ohne +/- setzt sie auf die Voreinstellung zurück
 * der Radiergummi-Button dient zum **Zurücksetzen aller Suchanfragen**
 * mit demVier-Pfeile-Button wechseln Sie in die **Vollansicht des RVK-Baums** und wieder zurück: die linke Menüleiste wird dabei aus-/eingeblendet
-* Stand Herbst 2026 gibt es leider manchmal ein **Problem mit der Anzeige des Baumes**, an deren Behebung gearbeitet wird, die aber aus technischen Gründen noch länger dauern wird:  
-  * bei längeren Themenabschnitten friert die Anzeige der Notationen-Hierarchie beim Scrollen per Leiste oder Mausrad manchmal ein, wenn die Länge des "ausgeklappten" Abschnitts die Seitenanzeige überschreitet
-  * ein Ein- und wieder Ausklappen behebt das Problem leider nicht; man kann den Bereich dann nur per rechter Maustaste "schieben"
+* ⚠️ *zurzeit (Stand 11/2026) gibt es leider manchmal ein **Problem mit der Anzeige des Baumes**, an deren Behebung gearbeitet wird, die aber aus technischen Gründen noch länger dauern wird:*
+  * *bei längeren Themenabschnitten friert die Anzeige der Notationen-Hierarchie beim Scrollen per Leiste oder Mausrad manchmal ein, wenn die Länge des "ausgeklappten" Abschnitts die Seitenanzeige überschreitet*
+  * *ein Ein- und wieder Ausklappen behebt das Problem leider nicht; man kann den Bereich dann nur per rechter Maustaste "schieben"*
 
 
 *************************************************************************************************************
@@ -531,7 +531,7 @@ Zum Einstieg
 * aus der zentralen RVK-Datenbank werden drei Versionen generiert und im Portal zur Verfügung gestellt: RVK Online, RVK Druck und RVK Einfach
 * RVK Einfach und RVK Druck bieten ergänzende Informationen zur zentralen RVK Online 
 * Sie finden die Links zu den Varianten im linken Menü des RVK-Portals <br/> ⚠️ *Zurzeit (11/2026) ist die RVK Einfach aufgrund von Bot-Angriffen offline. :(*
-* die **RVK Druck** bietet jede Teilsystematik in Form einer PDF-Datei an  
+* die **RVK Druck** bietet jede Teilsystematik in Form einer PDF-Datei an
   * die PDF-Dateien enthalten nach der inhaltlichen Struktur jeweils eine Übersicht über sämtliche "Schlüssel", die in dieser Systematik verwendet werden; dazu kommen wir im überübernächsten Abschnitt genauer
   * nach der Auflistung der Notationen der Teilsystematik folgen die Registerbegriffe, die vergeben wurden, verlinkt mit den jeweils passenden Systemstellen; zu den Registerbegriffen siehe den nächsten Abschnitt
   * man kann in den PDF-Dateien gut erkennen, wie tief eine Systematik strukturiert und wie umfangreich sie ist
@@ -596,7 +596,7 @@ Suche nach Notationen und Benennungen
   * die Ergebnisse einer Benennungssuche können in eine csv-Datei exportiert werden
   * über den Button "Verlauf" kann man die in der aktuellen Browsersitzung durchgeführten Suchen noch einmal aufrufen
 
-Probieren Sie die Suche nach einer Notation doch einfach mal aus: Finden Sie AN 67700 zu Wissenschaftlichen Bibliotheken, GM 4037 zur Autorin  Mascha Kaléko oder LY 12748 zu Orchestern im 21. Jahrhundert?
+Probieren Sie die Suche nach einer Notation doch einfach mal aus: Finden Sie AN 67700 zu Wissenschaftlichen Bibliotheken, GM 4037 zur Autorin Mascha Kaléko oder LY 12748 zu Orchestern im 21. Jahrhundert?
 
 Suche nach Registerbegriffen
 ==============================
@@ -645,7 +645,7 @@ Auch hier gilt: Probieren geht über Studieren! Finden Sie Notationen, wenn Sie 
 >
 > Insgesamt gibt es \[über 140\] verschiedene Schlüssel (Stand \[Mai 2026\]), die sich von zwei bis zu mehreren hundert Stellen ausdehnen können. Der Sachschlüssel zur Geographie S1R etwa hat 918 Positionen. Die einzelnen Schlüsselpositionen reichen von einer Ziffer (z.B. G1D Regionalschlüssel zur Pädagogik) bis zu drei Ziffern (z.B. Sachschlüssel zur Geographie S1R). Bei den Schlüsseln handelt es sich um numerische Schlüssel, die rein additiv gebraucht werden, d.h. die Ziffern ihrer Stellen werden zu den Ziffern der betreffenden Notation, der Grundnotation oder Grundposition, dazugerechnet. In der RVK-Online sind diese Schlüssel ausgerechnet, d.h. die Ziffern wurden zu den Ziffern der betreffenden Grundnotationen addiert. \[…\]
 >
-> Die Bandbreite an Schlüsseln reicht von sachlichen und geographischen Schlüsseln, Epochen-, Autoren- und Formalschlüsseln bis zu Schlüsseln, die den Dokumenttyp beschreiben.   
+> Die Bandbreite an Schlüsseln reicht von sachlichen und geographischen Schlüsseln, Epochen-, Autoren- und Formalschlüsseln bis zu Schlüsseln, die den Dokumenttyp beschreiben.
 >
 > Indem man an die Grundnotation HL 2080 für Bronte, Emily die sechs Ziffern des Schlüssels P5H hinzuaddiert, kommen beispielsweise sechs Notationen für die Autorin Emily Brontë zustande: HL 2080 Gesamtausgaben, HL 2081 Teilsammlungen, HL 2082 Briefe, HL 2083 Einzelausgaben, HL 2084 Übersetzungen von Einzelwerken, HL 2085 Sekundärliteratur."
 >
@@ -663,7 +663,7 @@ Auch hier gilt: Probieren geht über Studieren! Finden Sie Notationen, wenn Sie 
   * die PDF-Dateien der einzelnen Teilsystematiken enthalten neben der Liste der Notationen jeweils eine Übersicht über sämtliche "Schlüssel", die in dieser Systematik verwendet werden
   * bei den Notationen wird durch ein Pluszeichen und den Schlüsselnamen angegeben, dass der jeweilige Schlüssel Anwendung findet, z.B. WB 1110+Z2S
   * aus Platzgründen ist der Schlüssel hier nicht "durchdekliniert", aber die Schlüsselangabe ist mit der Schlüsselliste in der Datei verlinkt
-* **in der RVK Online** sind die Schlüssel bereits vollständig eingetragen, und damit werden sie zu einem festen Bestandteil der Notationsbereiche, auf die sie angewendet werden: daher sind sie oft gar nicht als Schlüssel erkennbar  
+* **in der RVK Online** sind die Schlüssel bereits vollständig eingetragen, und damit werden sie zu einem festen Bestandteil der Notationsbereiche, auf die sie angewendet werden: daher sind sie oft gar nicht als Schlüssel erkennbar
   * → in der praktischen Arbeit mit der RVK Online muss man also nicht weiter über Schlüssel nachdenken, aber man sollte wissen, dass es sie gibt und wie sie funktionieren
 
 
