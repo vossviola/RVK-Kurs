@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-04
+version:  2026-11-06
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -96,8 +96,8 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-4\. November 2026 <br/>
-Word- & PDF-Export-Dateien Stand 4.11.2026 8:30 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
+6\. November 2026 <br/>
+Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
 
@@ -596,6 +596,8 @@ Suche nach Notationen und Benennungen
   * die Ergebnisse einer Benennungssuche können in eine csv-Datei exportiert werden
   * über den Button "Verlauf" kann man die in der aktuellen Browsersitzung durchgeführten Suchen noch einmal aufrufen
 
+Probieren Sie die Suche nach einer Notation doch einfach mal aus: Finden Sie AN 67700 zu Wissenschaftlichen Bibliotheken, GM 4037 zur Autorin  Mascha Kaléko oder LY 12748 zu Orchestern im 21. Jahrhundert?
+
 Suche nach Registerbegriffen
 ==============================
 * beim Eintippen eines Suchwortes in der Registersuche werden per **Autocomplete** die in der RVK vergebenen passenden Registerbegriffe angezeigt
@@ -628,6 +630,8 @@ Suche nach Registerbegriffen
   ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1") 
   ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2") 
 </div>
+
+Auch hier gilt: Probieren geht über Studieren! Finden Sie Notationen, wenn Sie nach den Registerbegriffen „Baggersee“, „Etymologie“ oder „Schmetterlinge“ suchen?
 
 *************************************************************************************************************
 
@@ -1475,6 +1479,19 @@ Wie können Sie über mehrere Unterklassen suchen?
 *************************************************************************************************************
 
 * **Notation(en) finden** – siehe dazu das vorhergehende Kapitel "RVK zur Recherche von Medien"
+* vor der Vergabe einer Notation bitte immer **prüfen**, ob sie noch **aktuell** ist und ob es **Anmerkungen zu ihrer Verwendung** gibt <br/> 
+  ⚠️ *zurzeit werden die Anmerkungen in der RVK Online nicht angezeigt; die Reparatur ist in Arbeit (Stand 11/2026)*
+  * dreistellige Notation aus der Rechtswissenschaft sind z.B. veraltet und nicht mehr gültig
+  * Beispiele für Verwendungshinweise:
+    * AP 15999 „(ohne CS-Notation des Landes)“
+    * CB 1200 „(soweit nicht nach Personen oder Sachen klassifiziert)“
+    * EN 3299 „Primärliteratur: CSN des Autors und Kurz-CSN des Titels Sekundärliteratur: CSN des behandelten Autors und Kurz-CSN des Verf. resp. Hrsg.“
+    * GO 41651 „Weitere Untergliederung durch CSN des Verfassernamens. Bei autorenbezogenen Bibliografien und Lexika wird A1 vorgecuttert.“
+    * GU 10130 „CSN der Region“
+    * LF 1855 „CSN des Ortes“
+    * MS 6030 „(Medizinethik s.a. CC 7264, XC 2800)“
+    * NZ 50480 „CSN der Firma“
+    * NZ 59118 „CSN des Ortes gemäß Gemeindeschlüsselverzeichnis für Bayern 1983. Stand 1. Jan. 1983“
 * **bei mehreren passenden Notationen: eine Notation festlegen für die Aufstellung**
   * es gibt dabei kein "richtig" oder "falsch": jede Bibliothek darf die RVK anwenden, wie sie möchte
   * gerade bei Doppelstellen kommt es darauf an, in was für einer Bibliothek der Bestand "wohnt"
