@@ -1308,9 +1308,11 @@ Literatur über die RVK Online finden
 * für eine erste Recherche eignet sich z.B. der Verbundkatalog des BVB
 * Tipp: Falls Ihre Bibliothek in der Liste für den lokalen Bestand noch nicht dabei ist, das aber für Sie hilfreich wäre, schreiben Sie die Koordinierungsstelle an der UB Regensburg an – vielleicht lässt sich Ihr Katalog ergänzen!
 
-<div style="text-align: center;"> 
+<center> 
+
 ![Der Button zur Recherche im BVB in der RVK Online](abbildungen/RVK-Kurs_Medien-zu-Notationen-finden_RVK-Online.png)
-</div>
+
+</center>
 
 in einem Bibliothekskatalog nach Notationen suchen
 ---------------------------------------------------
