@@ -712,47 +712,24 @@ Beispiele für Schlüssel
 *************************************************************************************************************
 
 ## Testfragen & Übungsaufgaben
-<!--
-stretch: <!-- style="width: 100%; min-width: 300px; max-width: 500px; text-align: center " -->
--->
 
 {{|>}}
 *************************************************************************************************************
 
 Wie lauten die Benennungen der folgenden Notationen?
 ----------------------------------------------------
-
-<!-- data-group -->
-* AH \
-  [[Wörterbücher]]<!-- style="width: 100%; min-width: 300px; max-width: 500px; text-align: center" -->
-
-* AN 54000 - AN 55800 \
-  [[Bibliothekspersonal]]@stretch
-
-* CC \
-  [[ Systemische Philosophie
-  |  ( Systematische Philosophie )
-  |  Logik
-  ]]@stretch
-
-* ER 450 \
-  [[ ( Nachschlagewerke, linguistische Wörterbücher \(Terminologie\) )
-  |  Kongressberichte, Sammelwerke (verschiedener Autoren)
-  |  Einzelne Perioden, Richtungen und Personen › 16.–18. Jahrhundert
-  ]]@stretch
-
-* QT 600 \
-  [[ Umweltökonomie 
-  |  Fischerei, Meereswirtschaft 
-  |  ( Wasserreserven )
-  ]]@stretch
-
-* VR 2050 \
-  [[ Arzneibücher (Pharmakopöen) anderer Länder 
-  |  ( Internationale Arzneibücher (Pharmakopöen) )
-  |  Amtliche Arzneibücher (Pharmakopöen) und ihre Kommentare und Ergänzungsbücher für Deutschland
-  ]]@stretch
-
+* AH <br/>
+  [[Wörterbücher]]
+* AN 54000 - AN 55800<br/>
+  [[Bibliothekspersonal]]
+* CC <br/>
+  [[ Systemische Philosophie | (Systematische Philosophie) | Logik]]
+* ER 450 <br/>
+  [[ (Nachschlagewerke, linguistische Wörterbücher \(Terminologie\)) | Kongressberichte, Sammelwerke (verschiedener Autoren) | Einzelne Perioden, Richtungen und Personen › 16.–18. Jahrhundert]]
+* QT 600< br/>
+  [[ Umweltökonomie | Fischerei, Meereswirtschaft | (Wasserreserven) ]]
+* VR 2050 <br/>
+  [[Arzneibücher (Pharmakopöen) anderer Länder | (Internationale Arzneibücher (Pharmakopöen)) | Amtliche Arzneibücher (Pharmakopöen) und ihre Kommentare und Ergänzungsbücher für Deutschland ]]
 
 
 Wie lauten die Notationen, die diese Benennungen tragen?
@@ -855,7 +832,7 @@ Sie haben einen Tippfehler in einer Notationsbezeichnung oder in der Anmerkung z
 
 # Notationen & Signaturen
 
-    {{|>}}
+{{|>}}
 *************************************************************************************************************
 
 Zum Einstieg
