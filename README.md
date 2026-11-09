@@ -18,7 +18,7 @@ tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, Regensburger Ve
 classroom: false
 classroom: disable
 
-import:   https://raw.githubusercontent.com/MINT-the-GAP/lia-navigation/main/README.md
+
 
 -->
 
