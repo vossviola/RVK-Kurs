@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-06
+version:  2026-11-09
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -96,7 +96,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-6\. November 2026 <br/>
+9\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
@@ -609,12 +609,16 @@ Suche nach Registerbegriffen
   * relevant ist dieser Aspekt z.B. bei den unterschiedlichen Schreibweisen von Personennamen: mit "Puschkin" findet man bei den bevorzugten Benennungen nichts, aber über die Varianten findet man das gesuchte Personenschlagwort "Puškin, Aleksandr Sergeevič" und die ihm zugeordneten Notationen
   * der bevorzugte Begriff steht in der Vorschlagsliste immer oben
 
-<div style="text-align: center;">
-  ![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung") 
-  ![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante") 
-  ![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung") 
-  ![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante") 
-</div>
+<center>
+
+![RVK-Registersuche nach bevorzugter Benennung für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Jet' als Bevorzugte Benennung")
+
+![RVK-Registersuche nach Variante für "Jet"](abbildungen/RVK-Kurs_Registersuche_Jet_Varianten.png "... oder als Variante")
+
+![RVK-Registersuche nach bevorzugter Benennung für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Bevorzugte-Benennung.png "die Suche nach dem Registerbegriff 'Puschkin' als Bevorzugte Benennung")
+
+![RVK-Registersuche nach Variante für "Puschkin"](abbildungen/RVK-Kurs_Registersuche_Puschkin_Varianten.png "... oder als Variante")
+</center>
 
 <br/>
 
@@ -624,12 +628,17 @@ Suche nach Registerbegriffen
   * man kann Begriffe auch wieder aus der kombinierten Suche herausnehmen über den Mülleimer-Button
   * Beispiel: die Suche nach "Landeskunde" und dann über die UND-Verknüpfung die Ergänzung um "Frankreich" 
 
-<div style="text-align: center;">
-  ![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png "RVK-Registersuche nach 'Landeskunde' 1") 
-  ![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png "RVK-Registersuche nach 'Landeskunde' 2") 
-  ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1") 
-  ![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2") 
-</div>
+<center>
+
+![RVK-Registersuche nach "Landeskunde" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_1.png "RVK-Registersuche nach 'Landeskunde' 1")
+
+![RVK-Registersuche nach "Landeskunde" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_2.png "RVK-Registersuche nach 'Landeskunde' 2")
+
+![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 1](abbildungen/RVK-Kurs_Registersuche_Landeskunde_3.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 1")
+
+![RVK-Registersuche nach "Landeskunde" und Verknüpfung mit "Frankreich" 2](abbildungen/RVK-Kurs_Registersuche_Landeskunde_4.png "RVK-Registersuche nach 'Landeskunde' und Verknüpfung mit #Frankreich' 2")
+
+</center>
 
 Auch hier gilt: Probieren geht über Studieren! Finden Sie Notationen, wenn Sie nach den Registerbegriffen „Baggersee“, „Etymologie“ oder „Schmetterlinge“ suchen?
 
