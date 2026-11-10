@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-09
+version:  2026-11-10
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -17,8 +17,6 @@ tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, Regensburger Ve
 
 classroom: false
 classroom: disable
-
-import:   https://raw.githubusercontent.com/MINT-the-GAP/lia-navigation/main/README.md
 
 -->
 
@@ -97,7 +95,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-9\. November 2026 <br/>
+10\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
