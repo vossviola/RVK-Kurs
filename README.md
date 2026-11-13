@@ -253,7 +253,7 @@ Inhaltserschließung von Medien
 → die Titelaufnahmen in den Katalogen werden mit einer oder mehreren Notationen verknüpft <br/>
 → dadurch sind thematische Recherchen in regionalen und überregionalen Katalogen, Discovery-Systemen usw. möglich
 
-*Beispiel-Katalogeinträge der Uni-Bibliotheken [Greifswald](https://discovery.ub.uni-greifswald.de/search?q=id%3A566068036&v=566068036 "zu einem Medium im Katalog der UB Greifswald"), [Mannheim](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21181813300002561 "zu einem Medium im Katalog der UB Mannheim") und [Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/dhla6/alma991044929853806449 "zu einem Medium im Katalog der ULB Münster):*
+*Beispiel-Katalogeinträge der Uni-Bibliotheken [Greifswald](https://discovery.ub.uni-greifswald.de/search?q=id%3A566068036&v=566068036 "zu einem Medium im Katalog der UB Greifswald"), [Mannheim](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21181813300002561 "zu einem Medium im Katalog der UB Mannheim") und [Münster](https://katalogplus.uni-muenster.de/permalink/49HBZ_ULM/dhla6/alma991044929853806449 "zu einem Medium im Katalog der ULB Münster")*:
 
 ![Katalog eines nach RVK aufgestellten Buches in der UB Greifswald](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Greifswald-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der UB Mannheim](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Mannheim-UB_Katalogeintrag.png) ![Katalog eines nach RVK aufgestellten Buches in der ULB Münster](abbildungen/RVK-Kurs_Beispiel-Buecher-in-Regal_Muenster-ULB_Katalogeintrag.png)
 
