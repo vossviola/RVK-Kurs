@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-13
+version:  2026-11-16
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -95,7 +95,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-13\. November 2026 <br/>
+16\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
@@ -963,7 +963,7 @@ Die Idee
 Das Tool
 --------
 
-* heutzutage muss man nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der RVK-Online unter [rvk.‌‌uni-regensburg.de](https://‌rvk.‌‌uni-regensburg.de "zur RVK Online")
+* heutzutage muss man nicht mehr im Tabellenbuch blättern, sondern es gibt ein Online-Tools dafür von der UB Eichstätt-Ingolstadt: der "CutterJo“ ist zu finden unter [hub.ku-eichstaett.de/cgi-bin/cutterjo.pl](https://www.ub.ku-eichstaett.de/cgi-bin/cutterjo.pl "zum CutterJo der UB Eichstätt-Ingolstadt") oder integriert im rechten Bereich der  [RVK Online](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online "zur RVK Online")
 
 ![das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt](abbildungen/RVK-Kurs_CutterJo_Eichstaett-Ingolstadt.png "das CutterJo-Tool auf der Seite der UB Eichstätt-Ingolstadt") ![das CutterJo-Tool integriert im Portal RVK-Online](abbildungen/RVK-Kurs_CutterJo_RVK-Online.png "das CutterJo-Tool integriert im Portal RVK-Online")
   
@@ -978,7 +978,7 @@ Das Cuttern
 * zu beachten beim Cuttern
   * für die Verschlüsselung eines in der Cutter-Sanborn-Tafel nicht selbst ausgewiesenen Ordnungswortes ist die Nummer des alphabetisch vorausstehenden, nicht des nachfolgenden Ordnungswortes maßgebend: z.B. „Produk“ = P964 wie „Proct“, und nicht P965 wie „Prom“; der CutterJo "rechnet" das aber selbst richtig aus
   * es dürfen nur CSNs verwendet werden, die in der Tafel angegeben sind; die Ziffer Null kann daher nicht vorkommen
-  * weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "RVK zur Aufstellung von Medien"
+  * weiterführende Informationen zum Beispiel zu Spezialfällen bei Namen gibts im Kapitel "[RVK zur Aufstellung von Medien](#37)"
 
 Das Warum
 -----------
@@ -1515,7 +1515,7 @@ Wie können Sie über mehrere Unterklassen suchen?
 {{|>}}
 *************************************************************************************************************
 
-* für den grundlegenden **Aufbau von RVK-Signaturen** siehe das Kapitel "RVK-Notation vs. RVK-Signatur"
+* für den grundlegenden **Aufbau von RVK-Signaturen** siehe das Kapitel "[RVK-Notation vs. RVK-Signatur](#22)"
 * Achtung: Fremddaten "kritisch lesen": es kann Tippfehler geben, CSNs können anders gewählt worden sein, als man sie für die eigenen Bibliothek ansetzen würde usw.
 
 
@@ -1640,8 +1640,9 @@ Inhaltliche Ordnung einer Systemstelle per CSN
   * dabei kann die dreistellige Cutterung des Werktitels um die letzte Ziffer gekürzt werden; das ist bei der Systemstelle jeweils vermerkt
   * Beispiel
     * GI 6101 = Lessing, Einzelwerke
-      * Hinweis in der RVK: „Weitere Untergliederung durch zweistellige Cutterung des Titels, Punkt und Erscheinungsjahr minus 1000\. Beispiel GI 6101 E53.974
+      * Hinweis in der RVK: „Weitere Untergliederung durch zweistellige Cutterung des Titels, Punkt und Erscheinungsjahr minus 1000\. Beispiel GI 6101 E53.974“
       * GI 6101 N27.996 Lessing, Nathan der Weise in einer Ausgabe von 1996 (die vollständige Cutterung von „Nathan“ wäre N274)
+      * das Beispiel im RKV-Hinweis bezieht sich auf eine Ausgabe des Werkes „Emilia Galotti“ aus dem Jahr 1974
 * wo man sich dieses Verfahrens bedient, muss es innerhalb derselben Feingruppe durchgehend angewendet werden: eine CSN innerhalb der Systematik darf also nicht mit einer formalen CSN als Bestandteil des individualisierenden Teils der Signatur wechseln
 * es ist für die Systemstellen jeweils festgelegt, ob für die Sachbegriffsbildung eine vollständige oder eine auf zwei oder eine Ziffer verkürzte CSN gewählt werden soll
 * wenn notwendig, kann für eine weitere Individualisierung auch auf derselben Systemstelle zwischen verschieden langen CS-Notationen variiert werden; es muss aber mindestens eine Ziffer der CSN erhalten bleiben
