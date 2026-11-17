@@ -104,7 +104,7 @@ Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download v
 Erstellung 
 -------------------------
 
-Viola Voß (ULB Münster)
+Viola Voß & Caroline Bruder (ULB Münster)
 
 Vielen Dank an die Kolleg:innen aus den folgenden Bibliotheken, die Ideen, Material und Verbesserungsvorschläge zu diesem Kurs beigesteuert haben!
 * UB Braunschweig
@@ -1490,7 +1490,6 @@ Wie können Sie über mehrere Unterklassen suchen?
 
 * **Notation(en) finden** – siehe dazu das vorhergehende Kapitel "RVK zur Recherche von Medien"
 * vor der Vergabe einer Notation bitte immer **prüfen**, ob sie noch **aktuell** ist und ob es **Anmerkungen zu ihrer Verwendung** gibt <br/> 
-  ⚠️ *zurzeit werden die Anmerkungen in der RVK Online nicht angezeigt; die Reparatur ist in Arbeit (Stand 11/2026)*
   * dreistellige Notation aus der Rechtswissenschaft sind z.B. veraltet und nicht mehr gültig
   * Beispiele für Verwendungshinweise:
     * AP 15999 „(ohne CS-Notation des Landes)“
