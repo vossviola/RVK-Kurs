@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-16
+version:  2026-11-17
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -95,7 +95,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-16\. November 2026 <br/>
+17\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
@@ -1595,6 +1595,7 @@ Chronologische Ordnung mit Hilfe des Erscheinungsjahres
 ========================================================
 
 * an einigen entsprechend ausgewiesenen Stellen in der RVK ist vorgesehen, dass das Erscheinungsjahr oder das Veranstaltungsjahr für eine chronologische Ordnung verwendet wird
+* dabei gilt allgemein: bei Jahreszahlen  bis 1999 wird das Jahr ohne die erste Ziffer angegeben, ab Erscheinungsjahr 2000 wird es vierstellig notiert
 * **Jahr als Teil der systematischen Notation**  
   * bei Kongressen wird in einigen Fächern das Veranstaltungsjahr Teil der Notation; für die weitere Gliederung wird eine CSN aus Veranstaltungsort, Körperschaft oder Sachtitel ergänzt
   * Beispiele  
@@ -1612,14 +1613,14 @@ Chronologische Ordnung mit Hilfe des Erscheinungsjahres
   * im konkreten Fall sind die Detailregelungen der jeweiligen Fachsystematik zu entnehmen
   * Beispiele  
     * GI 6100 = G. E. Lessing, Gesamtausgaben → Hinweis in der RVK: „Weitere Untergliederung durch Punkt und Erscheinungsjahr des zuerst erschienenen Bandes minus 1000.“
-      * GI 6100.1974 = ab 1974 erschienene Werkausgabe von G. E. Lessing
+      * GI 6100.974 = ab 1974 erschienene Werkausgabe von G. E. Lessing
     * GI 6101 = G. E. Lessing, Einzelausgaben → Hinweis in der RVK: „Weitere Untergliederung durch zweistellige Cutterung des Titels, Punkt und Erscheinungsjahr minus 1000.“
-      * GI 6101 E53.1911 = 1911 erschienene Ausgabe von Lessings „Emilia Galotti“
+      * GI 6101 E53.911 = 1911 erschienene Ausgabe von Lessings „Emilia Galotti“
       * GI 6101 E53.2000 = 2000 erschienene Ausgabe von Lessings „Emilia Galotti“
   * falls mehrere Ausgaben des gleichen Textes dasselbe Erscheinungsjahr haben, müssen sie durch eine zusätzliche CSN (in der Regel des Herausgebers oder Bearbeiters) unterschieden werden, entweder als 1-Ziffer-Kurz-CSN oder, falls sie zur Unterscheidung nicht ausreicht, 2- oder dreistellige CSN
   * Beispiele  
-    * GI 6101 N27.1947 G8 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Adolf von Grolman
-    * GI 6101 N27.1947 L2 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Bernhard Lamey
+    * GI 6101 N27.947 G8 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Adolf von Grolman
+    * GI 6101 N27.947 L2 = Ausgabe von Lessing „Nathan der Weise“ aus dem Jahr 1947 mit einer Einführung von Bernhard Lamey
   * bei mehrbändigen Werken ist das Erscheinungsjahr des ersten erschienen Bandes für alle Bände verbindlich
 
 
@@ -1729,11 +1730,11 @@ Nachdrucke
 * bei Nachdrucken einer 1\. Auflage wird dazu das Erscheinungsjahr mit vorgestelltem Punkt innerhalb Klammern an die Signatur angeschlossen
 * Beispiele  
   * ST 300 M245(.2001) = 2001 erschienener Nachdruck der 1\. Auflage
-  * ST 300 M245(.1955) = 1955 erschienener Nachdruck der 1\. Auflage
+  * ST 300 M245(.955) = 1955 erschienener Nachdruck der 1\. Auflage
 * Nachdrucke oder Lizenzausgaben von späteren Auflagen (auch, wenn sie im Impressum als 1\. Auflage bezeichnet werden) erhalten das Erscheinungsjahr innerhalb der Klammern mit Punkt an die Auflagenzahl angeschlossen. Diese Konstruktion ermöglicht es, dass z.B. die später nachgedruckten (und vielleicht um erweiterte Bibliographien ergänzten) Ausgaben eines Textes desselben Herausgebers nebeneinanderstehen und nicht von zwischenzeitlich erschienenen Ausgaben desselben Textes von anderen Herausgebern vermischt werden.  
   * Beispiele  
     * ST 300 M245(3.2000) = 2000 erschienener Nachdruck der 3\. Auflage
-    * ST 300 M245(2.1960) = 1960 erschienener Nachdruck der 2\. Auflage
+    * ST 300 M245(2.960) = 1960 erschienener Nachdruck der 2\. Auflage
 
 
 Übersetzungen
@@ -1750,7 +1751,7 @@ Nachdrucke
   * IT 5572D Dante Alighieri, „Über das Dichten in der Muttersprache“ (De vulgari eloquentia <dt.> ) (IT 5572 = Systemstelle zum Einzelwerk „De vulgari eloquentia“)
 * wenn es zu einem Werk mehrere Übersetzungen in eine Sprache gibt, werden sie per Erscheinungsjahr unterschieden.  
   * Beispiele  
-    * CF 4504 L664D.1996 Thomas Hobbes, „Leviathan“, dt. Übersetzung, 1996
+    * CF 4504 L664D.996 Thomas Hobbes, „Leviathan“, dt. Übersetzung, 1996
     * CF 4504 L664D.2015 Thomas Hobbes, „Leviathan“, dt. Übersetzung, 2015
 * will man vermerken, dass eine bestimmte Auflage eines Werkes übersetzt wurde oder die Übersetzung in einer bestimmten Auflage erschienen ist, kann die Auflagenbezeichnung vor bzw. nach dem Sprachcode gesetzt werden (je nach gewünschter Sortierung).  
   * Beispiel: Harris, D. C.: „Lehrbuch der Quantitativen Analyse“, 8\. Aufl. (Originalausg.: „Quantitative Chemical Analysis”, 8\. Aufl.)  
@@ -1764,8 +1765,8 @@ Nachdrucke
     * nicht B726 C957
 * bei Autoren ohne eigene Übersetzungsstelle, bei denen verschiedene Ausgaben nach Erscheinungsjahr sortiert und zusätzlich verschiedene Übersetzungen vorliegen, die ebenfalls nach Erscheinungsjahr sortiert werden müssen, wird der Sprachencode ausnahmsweise noch vor das Erscheinungsjahr gesetzt, damit alle Übersetzungen zusammenstehen.  
   * Beispiele  
-    * IT 6401 D291D.1926-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 1926, Band 1 (IT 6401 = Einzelwerke von Boccaccio)
-    * IT 6401 D291D.1958(7)-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 7\. Aufl. 1975 (1\. Aufl. 1958), Band 1
+    * IT 6401 D291D.926-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 1926, Band 1 (IT 6401 = Einzelwerke von Boccaccio)
+    * IT 6401 D291D.958(7)-1 Giovanni Boccaccio, „Das Dekameron“ (Il decamerone <dt.>), 7\. Aufl. 1975 (1\. Aufl. 1958), Band 1
 * gibt es keinen Originaltitel, wird der vorliegende Titel für die CSN verwendet und der Großbuchstabe für die Sprache entfällt.  
   * Beispiel: FL 31552 G296 „Gedichte“ von Giannes Ritsos, ausgewählt u. aus d. Griechischen übers. von Klaus-Peter Wedekind (FL 31552 = Übersetzungen von Giannes Ritsos, G296 = Gedichte)
 * zweisprachige Ausgaben werden zu den Originaltexten systematisiert; die CSN wird nach dem Originaltitel vergeben
@@ -1900,8 +1901,8 @@ Zeitschriften und zeitschriftenartige Reihen
 * Beispiele  
   * HT 6916 Walt Whitman Review (eigene Notation für die Zeitschrift)
   * GL 4846 Deutsche Literatur › Grillparzer, Franz › Sekundärliteratur (Hinweis in der RVK: „\[…\] Bei autorenbezogenen Zeitschriften folgt auf die Systemstelle für Sekundärliteratur A1, Punkt und Erscheinungsjahr des ersten Bandes \[…\]“)
-  * GL 4846 A1.1890 Grillparzer-Gesellschaft, Jahrbuch, 1\. Band 1890 erschienen
-  * GM 4755 A1.1972 Arbeitskreis Heinrich Mann. Mitteilungsblatt
+  * GL 4846 A1.890 Grillparzer-Gesellschaft, Jahrbuch, 1\. Band 1890 erschienen
+  * GM 4755 A1.972 Arbeitskreis Heinrich Mann. Mitteilungsblatt
 * für viele Bibliotheken gilt inzwischen, dass die Signatur eines Zeitschriftenbandes/-heftes nicht mehr den genauen Bestand wiedergeben muss: sie sollte so kurz wie möglich sein
 * diese Regelung sollte natürlich nur bei Lokaldatenaufnahmen oder -korrekturen berücksichtigt werden; bereits beklebte Zeitschriftenbände werden nicht eigens umkorrigiert
 * Beispiel: 50/NA 1040, Bestand bei Bd. 2: Heft 2 bis 4 und Heft 6 › als Signatur ausreichend: 50/NA 1040-2 (der genaue Bestand ist dem jeweiligen Lokalsatz zu entnehmen)
@@ -1940,8 +1941,8 @@ Nicht-Buch-Materialien
       * XX/GN 9999 R928 I35 = das Buch
       * XX/GN 9999 R928 I3 = die Hörspielfassung auf CD
     * „Doktor Schiwago“ von Boris L. Pasternak
-      * XX/KI 5234 D65.1960 = das Buch in einer Ausgabe aus 1960
-      * XX/KI 5234 D65.1965 = der Film aus 1965
+      * XX/KI 5234 D65.960 = das Buch in einer Ausgabe aus 1960
+      * XX/KI 5234 D65.965 = der Film aus 1965
       * XX/KI 5234 D65.2002 = der Film aus 2002
 * **beiliegende Datenträger** können bei Bedarf z.B. per Bandzählung erfasst werden  
   * Beispiel: „Zeitmanagement“ von Alexander Häfner, Buch mit CD-ROM  
@@ -2006,8 +2007,8 @@ Chronologische Aufstellung
 
 | **Beispiel** | **Erläuterung** |
 | ----- | ----- |
-| **XX/FX 178000.1973** | einfacher Typ <br/> Publius Vergilius Maro › Gesamtausgaben  |
-| **XX/FH 26001 M83.1974** | Erweiterung um CSN einer Einzelausgabe <br/> Hippocrates › Teilausgaben/Einzelausgaben/Fragmente › *De morbis* |
+| **XX/FX 178000.973** | einfacher Typ <br/> Publius Vergilius Maro › Gesamtausgaben  |
+| **XX/FH 26001 M83.974** | Erweiterung um CSN einer Einzelausgabe <br/> Hippocrates › Teilausgaben/Einzelausgaben/Fragmente › *De morbis* |
 
 
 Erweiterung durch Band-/Jahrgangszählung
@@ -2029,8 +2030,8 @@ Erweiterung durch Auflagenbezeichnung
 | **Beispiel** | **Erläuterung** |
 | ----- | ----- |
 | **(12)** | 12\. Aufl. |
-| **(.1955)**  | 1955 erschienener Nachdruck der 1\. Auflage |
-| **(2.1960)** | 1960 erschienener Nachdruck der 2\. Auflage |
+| **(.955)**  | 1955 erschienener Nachdruck der 1\. Auflage |
+| **(2.960)** | 1960 erschienener Nachdruck der 2\. Auflage |
 | **(.2001)**  | 2001 erschienener Nachdruck der 1\. Auflage |
 | **(3.2002)** | 2002 erschienener Nachdruck der 3\. Auflage |
 
@@ -2290,7 +2291,7 @@ Im Folgenden stellen wir Ihnen die Regelungen vor, die für [die Bibliotheken de
 {{|>}}
 *************************************************************************************************************
 
-* die **Jahreszahl** des Erscheinungsjahres wird in Münster – im Unterschied zum Regensburger Verfahren – immer vierstellig angegeben; Hinweise wie „minus 1000“ daher bitte ignorieren. 1961 wird als 1961 angegeben, nicht als 961
+* die **Jahreszahl** des Erscheinungsjahres wird in Münster – im Unterschied zum Regensburger Verfahren – immer vierstellig angegeben; Hinweise wie „minus 1000“ daher bitte ignorieren: 1961 wird als 1961 angegeben, nicht als 961
 * für **Schulbücher** gibt es z.B. in der Bibliothek im Vom-Stein-Haus ein System zur Darstellung von Verlag, Schulform und Klassenstufe in den Signaturen per Cutter und Bandangaben
 
 
