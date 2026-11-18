@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-17
+version:  2026-11-18
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -95,7 +95,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-17\. November 2026 <br/>
+18\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
 
 <br/>
@@ -1671,7 +1671,7 @@ Bandzählung
 * bei nicht abgeschlossenen Werken kann der Sonderband auch als Untergliederung des davor erschienenen Bandes behandelt werden
 * sonstige fingierte Zählungen sollen nur in Anlehnung an bibliographische oder Verlagsübersichten vorgenommen werden (auch -0)
 * Beispiel: LH 22760 K96-10 = Katalog des Kunsthistorischen Instituts in Florenz, erster Nachtragsband (das Grundwerk hat 9 Bände)
-* bei mehrbändigen Werken wird die RVK-Notation in der Hauptaufnahme eingetragen; die vollständigen Signaturen werden bei den Einzelbänden vermerkt
+* ein Hinweis zur Formalkatalogisierung mehrbändiger Werke: die RVK-Notation wird hier in der Hauptaufnahme eingetragen, die vollständigen Signaturen werden bei den Einzelbänden vermerkt
 
 
 Auflagenbezeichnung
@@ -1714,7 +1714,7 @@ Angebundene Schriften
 ---------------------
 
 * angebundene Schriften erhalten keine gesonderte Signatur, sondern die Signatur des Werkes, an das sie angebunden sind
-* es wird in einer externen Fußnote darauf hingewiesen, dass es sich um eine angebundene Schrift handelt, zum Beispiel in der Form „Angebunden an: Geistiger Schöpfer: Haupttitel, Erscheinungsjahr“
+* in einer externen Fußnote in den lokalen Feldern zur Titelaufnahme wird darauf hingewiesen, dass es sich um eine angebundene Schrift handelt, zum Beispiel in der Form „Angebunden an: Geistiger Schöpfer: Haupttitel, Erscheinungsjahr“
 
 
 Nachdrucke
