@@ -11,6 +11,7 @@ language: de
 narrator: German Female
 
 mode:     Presentation
+LIA.settings.tocDepth = 1
 
 comment:  Einführung in die Regensburger Verbundklassifikation (RVK)
 tags:     Bibliothek, Bestandsmanagement, Bestandserschließung, Regensburger Verbundklassifikation, RVK, Tutorial
@@ -96,7 +97,7 @@ Stand
 -------------------------
 
 18\. November 2026 <br/>
-Word- & PDF-Export-Dateien Stand 4.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1a57e-cc7d-7249-ac30-4c3063a223f5 "zum Download der Word- & PDF-Fassung des Kurses von Swisstransfer")
+Word- & PDF-Export-Dateien Stand 18.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1f7c3-02a8-700b-8433-8472a7323a28 "zum Download der Word- & PDF-Export-Fassung des Kurses von Swisstransfer") (LInk gültig bis zum 19.12.2026)
 
 <br/>
 
