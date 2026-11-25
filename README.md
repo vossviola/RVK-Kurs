@@ -2,7 +2,7 @@
 
 author:   RVK-Koordinierungsstelle in der ULB Münster
 email:    rvk.ulb@uni‐muenster.de
-version:  2026-11-18
+version:  2026-11-25
 
 logo:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
 icon:     https://upload.wikimedia.org/wikipedia/commons/6/65/Regensburger_Verbundklassifikation_RVK_logo.svg
@@ -96,7 +96,7 @@ Nach Abschluss des Kurses …
 Stand
 -------------------------
 
-18\. November 2026 <br/>
+25\. November 2026 <br/>
 Word- & PDF-Export-Dateien Stand 18.11.2026 (z.B. zur Kommentierung): [Download via Swisstransfer](https://www.swisstransfer.com/dl/01a1f7c3-02a8-700b-8433-8472a7323a28 "zum Download der Word- & PDF-Export-Fassung des Kurses von Swisstransfer") (LInk gültig bis zum 19.12.2026)
 
 <br/>
@@ -1539,6 +1539,7 @@ erste CSN
 * wo auch dies entfällt, wird das erste Ordnungswort des vorliegenden **Titels** (ggf. ohne einen am Anfang stehenden Artikel) als Ordnungswort gewählt
 * **Ausnahmen von dieser Grundregel** sind in den Systematik im Einzelnen festgelegt
   * z.B. wird bei **Festschriften** meist der Name des Gefeierten zur Bildung der CSN verwendet
+    * Beispiel: CN 4000 **P513** – Müller, Lotti u.a.: Integrative Therapie heute. Vielfalt und Zukunftsorientierung in der Psychotherapie. Hilarion G. **Petzold** zum 80. Geburtstag
     * gibt es mehrere Festschriften zu einer Person, wird mit Punkt und Erscheinungsjahr unterschieden
     * sollte es eine identische CSN für unterschiedliche Gefeierte geben, wird für einen der beiden eine zweite CSN für den Herausgeber verwendet
 * die **Namen von Personen und Körperschaften** werden – auch bei Transkriptionen – in der nach RDA gültigen Form angesetzt, sofern diese nicht von der im jeweiligen Fachgebiet geläufigen Namensform abweicht
@@ -1552,8 +1553,8 @@ erste CSN
   * RB 10053 **G878** – Die **große** illustrierte Länderkunde. hrsg. von Bertelsmann
   * AV 87200 **K64** – **Kleines** Kommersbuch: ein Liederbuch fahrender Schüler. (kein Herausgeber genannt)
   * LF 3480 **D334** – **De Lain**e, Janet: The baths of Caracalla. (nicht D278)
-  * PN 566 **M612**(3) – Bundesbaugesetz. Bearb. Otto Schlichter, Rudolf Stich, Hans- Joachim Tittel. 3\. überarb. Aufl. \[1\. Aufl. u. d. Titel: **Meyer**, Klaus: Bundesbaurecht\]
 * bei **verschiedenen Auflagen** eines Werkes wird die CSN der ersten bzw. früherer Auflagen beibehalten
+  * Beispiel: PN 566 **M612**(3) – Bundesbaugesetz. Bearb. Otto Schlichter, Rudolf Stich, Hans- Joachim Tittel. 3\. überarb. Aufl. \[1\. Aufl. u. d. Titel: **Meyer**, Klaus: Bundesbaurecht\]
 * bei **mehrbändigen Werken** und **geschlossen aufgestellten** **Serien** wird die CSN des ersten Bandes auch für die weiteren Bände beibehalten
 * **Übungsbücher**, **Begleitbände, Materialbände** u.ä., die eindeutig einem bestimmten Hauptwerk zugeordnet sind, können zusammen mit diesem Hauptwerk aufgestellt werden, indem in solchen Einzelfällen für das Ordnungswort nicht die Namen der Verfasser/Bearbeiter dieser Bände, sondern die des Hauptwerkes verwendet werden, und die Bände eine fingierte Bandzählung erhalten.
   * Beispiele 
